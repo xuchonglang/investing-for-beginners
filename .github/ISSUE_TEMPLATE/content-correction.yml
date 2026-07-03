@@ -1,0 +1,49 @@
+name: 内容纠错
+description: 报告事实错误、失效链接或可能误导的表述
+title: "[纠错] "
+labels:
+  - content
+  - correction
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢帮助我们提高内容质量。请勿提交账户信息、交易记录、API Key、助记词或其他敏感数据。
+  - type: input
+    id: page
+    attributes:
+      label: 页面或文件
+      description: 请提供 GitHub 文件路径或小隐寺 Wiki 页面地址。
+      placeholder: https://xiaoyinsi.com/wiki/...
+    validations:
+      required: true
+  - type: textarea
+    id: current
+    attributes:
+      label: 当前内容
+      description: 请引用需要修正的最小必要片段。
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: 建议修改
+      description: 说明哪里有误，以及建议如何修改。
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: 支持来源
+      description: 优先提供监管机构、交易所或官方文档链接。
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: 确认
+      options:
+        - label: 我没有在此 Issue 中提交敏感或私人信息。
+          required: true
+        - label: 我提供的材料没有侵犯第三方权利。
+          required: true
