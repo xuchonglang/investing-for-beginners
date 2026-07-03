@@ -19,9 +19,9 @@
 
 | 主题 | 内容 | 官方入口 |
 | --- | --- | --- |
-| 美股入门 | 交易时段、订单类型、公司披露、估值与市场结构 | [进入美股入门](https://xiaoyinsi.com/wiki/stocks) |
-| 期权进阶 | Call / Put、期权链、希腊字母、波动率与策略风险 | [进入期权进阶](https://xiaoyinsi.com/wiki/options) |
-| 加密货币 | 现货、合约、杠杆、钱包、链上机制与风险控制 | [进入加密货币](https://xiaoyinsi.com/wiki/crypto) |
+| [美股入门](content/README.md#美股入门) | 交易时段、订单类型、公司披露、估值与市场结构 | [进入美股入门](https://xiaoyinsi.com/wiki/stocks) |
+| [期权进阶](content/README.md#期权进阶) | Call / Put、期权链、希腊字母、波动率与策略风险 | [进入期权进阶](https://xiaoyinsi.com/wiki/options) |
+| [加密货币](content/README.md#加密货币) | 现货、合约、杠杆、钱包、链上机制与风险控制 | [进入加密货币](https://xiaoyinsi.com/wiki/crypto) |
 
 完整内容请访问：[小隐寺投资百科](https://xiaoyinsi.com/wiki)。
 
