@@ -15,6 +15,15 @@
 
 > 本仓库不提供个性化投资建议，也不承诺任何收益。金融产品存在本金损失风险，使用杠杆和衍生品可能放大亏损。
 
+<p align="center">
+  <a href="https://github.com/xuchonglang">
+    <img src="https://img.shields.io/github/followers/xuchonglang?label=Follow%20%40xuchonglang&style=for-the-badge&logo=github" alt="Follow @xuchonglang" />
+  </a>
+  <a href="https://github.com/xuchonglang/xiaoyinsi-wiki">
+    <img src="https://img.shields.io/github/stars/xuchonglang/xiaoyinsi-wiki?label=Star%20%E8%BF%99%E4%B8%AA%E4%BB%93%E5%BA%93&style=for-the-badge&logo=github" alt="Star 小隐寺投资知识库" />
+  </a>
+</p>
+
 ## 知识导航
 
 | 主题 | 内容 | 官方入口 |
