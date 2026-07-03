@@ -28,6 +28,7 @@
 
 | 主题 | 内容 | 官方入口 |
 | --- | --- | --- |
+| 入门指南 | 从零认识投资、建立风险意识与基础操作框架 | — |
 | [美股入门](content/README.md#美股入门) | 交易时段、订单类型、公司披露、估值与市场结构 | [进入美股入门](https://xiaoyinsi.com/wiki/stocks) |
 | [期权进阶](content/README.md#期权进阶) | Call / Put、期权链、希腊字母、波动率与策略风险 | [进入期权进阶](https://xiaoyinsi.com/wiki/options) |
 | [加密货币](content/README.md#加密货币) | 现货、合约、杠杆、钱包、链上机制与风险控制 | [进入加密货币](https://xiaoyinsi.com/wiki/crypto) |
