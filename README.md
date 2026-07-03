@@ -19,8 +19,8 @@
   <a href="https://github.com/xuchonglang">
     <img src="https://img.shields.io/github/followers/xuchonglang?label=Follow%20%40xuchonglang&style=for-the-badge&logo=github" alt="Follow @xuchonglang" />
   </a>
-  <a href="https://github.com/xuchonglang/xiaoyinsi-wiki">
-    <img src="https://img.shields.io/github/stars/xuchonglang/xiaoyinsi-wiki?label=Star%20%E8%BF%99%E4%B8%AA%E4%BB%93%E5%BA%93&style=for-the-badge&logo=github" alt="Star 小隐寺投资知识库" />
+  <a href="https://github.com/xuchonglang/investing-for-beginners">
+    <img src="https://img.shields.io/github/stars/xuchonglang/investing-for-beginners?label=Star%20%E8%BF%99%E4%B8%AA%E4%BB%93%E5%BA%93&style=for-the-badge&logo=github" alt="Star 小隐寺投资知识库" />
   </a>
 </p>
 
@@ -64,11 +64,11 @@ Copyright © 2026 小隐寺（Xiaoyinsi）. All Rights Reserved.
 ## Star 增长趋势
 
 <p align="center">
-  <a href="https://www.star-history.com/xuchonglang/xiaoyinsi-wiki">
+  <a href="https://www.star-history.com/xuchonglang/investing-for-beginners">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=xuchonglang/xiaoyinsi-wiki&type=date&theme=dark&legend=top-left" />
-      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=xuchonglang/xiaoyinsi-wiki&type=date&legend=top-left" />
-      <img alt="小隐寺投资知识库 Star 增长趋势" src="https://api.star-history.com/chart?repos=xuchonglang/xiaoyinsi-wiki&type=date&legend=top-left" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=xuchonglang/investing-for-beginners&type=date&theme=dark&legend=top-left" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=xuchonglang/investing-for-beginners&type=date&legend=top-left" />
+      <img alt="小隐寺投资知识库 Star 增长趋势" src="https://api.star-history.com/chart?repos=xuchonglang/investing-for-beginners&type=date&legend=top-left" />
     </picture>
   </a>
 </p>
