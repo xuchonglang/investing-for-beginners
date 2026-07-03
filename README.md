@@ -1,8 +1,9 @@
-# 小隐寺投资知识库
+# 投资入门指南
 
 [![Website](https://img.shields.io/badge/官网-xiaoyinsi.com-111827)](https://xiaoyinsi.com/)
 [![Wiki](https://img.shields.io/badge/投资百科-Wiki-2563eb)](https://xiaoyinsi.com/wiki)
 [![License](https://img.shields.io/badge/内容许可-Proprietary-b91c1c)](LICENSE.md)
+![Version](https://img.shields.io/badge/版本-V0.1-0ea5e9)
 
 小隐寺面向中文美股与加密货币投资者，提供结构化的基础知识、交易概念与风险教育。
 
@@ -20,7 +21,7 @@
     <img src="https://img.shields.io/github/followers/xuchonglang?label=Follow%20%40xuchonglang&style=for-the-badge&logo=github" alt="Follow @xuchonglang" />
   </a>
   <a href="https://github.com/xuchonglang/investing-for-beginners">
-    <img src="https://img.shields.io/github/stars/xuchonglang/investing-for-beginners?label=Star%20%E8%BF%99%E4%B8%AA%E4%BB%93%E5%BA%93&style=for-the-badge&logo=github" alt="Star 小隐寺投资知识库" />
+    <img src="https://img.shields.io/github/stars/xuchonglang/investing-for-beginners?label=Star%20%E8%BF%99%E4%B8%AA%E4%BB%93%E5%BA%93&style=for-the-badge&logo=github" alt="Star 投资入门指南" />
   </a>
 </p>
 
@@ -68,7 +69,7 @@ Copyright © 2026 小隐寺（Xiaoyinsi）. All Rights Reserved.
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=xuchonglang/investing-for-beginners&type=date&theme=dark&legend=top-left" />
       <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=xuchonglang/investing-for-beginners&type=date&legend=top-left" />
-      <img alt="小隐寺投资知识库 Star 增长趋势" src="https://api.star-history.com/chart?repos=xuchonglang/investing-for-beginners&type=date&legend=top-left" />
+      <img alt="投资入门指南 Star 增长趋势" src="https://api.star-history.com/chart?repos=xuchonglang/investing-for-beginners&type=date&legend=top-left" />
     </picture>
   </a>
 </p>
