@@ -85,11 +85,11 @@ Copyright © 2026 小隐寺（Xiaoyinsi）. All Rights Reserved.
 ## Star 增长趋势
 
 <p align="center">
-  <a href="https://www.star-history.com/xuchonglang/investing-for-beginners">
+  <a href="https://star-history.com/#xuchonglang/investing-for-beginners&Date">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=xuchonglang/investing-for-beginners&type=date&theme=dark&legend=top-left" />
-      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=xuchonglang/investing-for-beginners&type=date&legend=top-left" />
-      <img alt="投资入门指南 Star 增长趋势" src="https://api.star-history.com/chart?repos=xuchonglang/investing-for-beginners&type=date&legend=top-left" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=xuchonglang/investing-for-beginners&type=Date&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=xuchonglang/investing-for-beginners&type=Date" />
+      <img alt="投资入门指南 Star 增长趋势" src="https://api.star-history.com/svg?repos=xuchonglang/investing-for-beginners&type=Date" />
     </picture>
   </a>
 </p>
