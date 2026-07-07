@@ -133,13 +133,3 @@
 允许分享本仓库和官网页面的原始链接；未经书面授权，不允许复制、镜像、批量抓取、改编、商业使用或用于 AI 训练及知识库构建。具体条款见 [LICENSE.md](LICENSE.md)。
 
 Copyright © 2026 小隐寺（Xiaoyinsi）. All Rights Reserved.
-
-## Star History
-
-<a href="https://www.star-history.com/?type=date&repos=xuchonglang%2Finvesting-for-beginners">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=xuchonglang/investing-for-beginners&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=xuchonglang/investing-for-beginners&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=xuchonglang/investing-for-beginners&type=date&legend=top-left" />
- </picture>
-</a>
