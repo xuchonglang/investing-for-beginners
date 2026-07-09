@@ -241,6 +241,16 @@
 - [美股、债券和衍生品怎么放在一起理解？](stocks/us-stocks-bonds-derivatives.md)
 - [投票权为什么重要？](stocks/voting-rights.md)
 - [WACC 加权平均资本成本怎么用？](stocks/wacc.md)
+- [分析师预期上修/下修应该怎么看？](stocks/analyst-estimate-revision-checklist.md)
+- [资产负债表压力测试怎么做？](stocks/balance-sheet-stress-test.md)
+- [CapEx 投资回报怎么判断？](stocks/capex-roi-analysis.md)
+- [客户集中度风险怎么看？](stocks/customer-concentration-risk.md)
+- [财报跳空交易计划怎么写？](stocks/earnings-gap-trading-plan.md)
+- [管理层激励怎么分析？](stocks/management-incentive-analysis.md)
+- [股票仓位大小怎么定？](stocks/position-sizing-stock-plan.md)
+- [相对强弱观察名单怎么建立？](stocks/relative-strength-watchlist.md)
+- [收入确认红旗有哪些？](stocks/revenue-recognition-red-flags.md)
+- [止损遇到跳空风险怎么办？](stocks/stop-loss-gap-risk-plan.md)
 - [查看更多美股入门词条](https://xiaoyinsi.com/wiki/stocks)
 
 ## 期权进阶
@@ -479,6 +489,16 @@
 - [Volatility Swap 是什么？](options/volatility-swap.md)
 - [0DTE 期权风险限制怎么设？](options/zero-dte-risk-limit-checklist.md)
 - [Zomma 希腊值是什么？](options/zomma-greek.md)
+- [买入 Call 后如何做 Delta 对冲？](options/delta-hedged-long-call-plan.md)
+- [财报期权什么时候应该不交易？](options/earnings-options-no-trade-checklist.md)
+- [买入 Call 退出计划怎么写？](options/long-call-exit-plan.md)
+- [期权开仓前检查什么？](options/option-entry-checklist.md)
+- [期权事件风险日历怎么做？](options/option-event-risk-calendar.md)
+- [期权成交价格怎么管理？](options/option-fill-price-playbook.md)
+- [期权滚仓决策树怎么用？](options/options-roll-decision-tree.md)
+- [Protective Put 成本怎么控制？](options/protective-put-cost-control.md)
+- [Put Spread 如何做组合保护？](options/put-spread-portfolio-hedge.md)
+- [卖期权权利金风险预算怎么定？](options/short-premium-risk-budget.md)
 - [查看更多期权词条](https://xiaoyinsi.com/wiki/options)
 
 ## 加密货币
