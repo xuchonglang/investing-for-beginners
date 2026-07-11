@@ -251,6 +251,11 @@
 - [相对强弱观察名单怎么建立？](stocks/relative-strength-watchlist.md)
 - [收入确认红旗有哪些？](stocks/revenue-recognition-red-flags.md)
 - [止损遇到跳空风险怎么办？](stocks/stop-loss-gap-risk-plan.md)
+- [DSO 应收账款周转天数怎么看？](stocks/days-sales-outstanding.md)
+- [美股业绩预告怎么看？](stocks/earnings-preannouncement.md)
+- [投资组合漂移怎么再平衡？](stocks/portfolio-drift-rebalancing.md)
+- [投资组合换手率成本怎么算？](stocks/portfolio-turnover-cost.md)
+- [S-3 货架注册怎么看？](stocks/shelf-registration-offering.md)
 - [查看更多美股入门词条](https://xiaoyinsi.com/wiki/stocks)
 
 ## 期权进阶
@@ -499,6 +504,11 @@
 - [Protective Put 成本怎么控制？](options/protective-put-cost-control.md)
 - [Put Spread 如何做组合保护？](options/put-spread-portfolio-hedge.md)
 - [卖期权权利金风险预算怎么定？](options/short-premium-risk-budget.md)
+- [多腿期权订单怎么调价？](options/multileg-order-price-adjustment.md)
+- [期权滚仓收钱还是付钱怎么看？](options/net-roll-credit-debit.md)
+- [期权盈亏平衡价怎么算？](options/option-breakeven-price.md)
+- [期权仓位怎么按压力损失计算？](options/option-position-size-by-stress-loss.md)
+- [期权什么情况下不该下单？](options/option-trade-no-trade-zone.md)
 - [查看更多期权词条](https://xiaoyinsi.com/wiki/options)
 
 ## 加密货币
