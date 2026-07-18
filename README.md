@@ -114,8 +114,9 @@
 
 ```text
 .
-├── content/             精选内容
-├── glossary/            金融术语
+├── content/             Wiki 精选词条，按美股、期权、加密货币分类整理
+├── guides/              入门指南与长文教程
+├── glossary/            金融术语索引，用于快速查概念与跳转学习
 └── LICENSE.md           专有内容许可
 ```
 
