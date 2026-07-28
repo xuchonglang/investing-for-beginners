@@ -126,9 +126,19 @@
 - [小隐寺官网](https://xiaoyinsi.com/)
 - [投资百科](https://xiaoyinsi.com/wiki)
 - [精选文章](https://xiaoyinsi.com/blog)
-- [社区与防诈骗说明](https://xiaoyinsi.com/community)
+- [小隐寺discord交流群](https://xiaoyinsi.com/community)
+- [小隐寺社区]（https://forum.xiaoyinsi.com/）
 
 请只通过官网确认社区入口。小隐寺不会通过陌生私信索取资金、助记词、验证码或 API Key。
+
+### 
+小隐寺社区的邀请码：
+https://forum.xiaoyinsi.com/invites/Du2WWmscgy
+https://forum.xiaoyinsi.com/invites/oJBKKCs1Du
+https://forum.xiaoyinsi.com/invites/xE5BLVx7EB
+
+我这里会不定时放一些邀请码出来，可以多多关注本repo
+
 
 ## 版权
 
