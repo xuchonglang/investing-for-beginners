@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
+  <title id="title">投资新手心态曲线</title>
+  <desc id="desc">从无知到愚昧之巅、绝望之谷、开悟山坡和平稳高原。</desc>
+  <rect width="1200" height="560" rx="32" fill="#0f172a"/>
+  <text x="70" y="82" fill="#f8fafc" font-family="Arial, 'PingFang SC', sans-serif" font-size="40" font-weight="700">投资新手最危险的时刻：我觉得我懂了</text>
+  <text x="70" y="124" fill="#cbd5e1" font-family="Arial, 'PingFang SC', sans-serif" font-size="22">亏损经常不是因为完全无知，而是因为过早自信。</text>
+  <g fill="none" stroke-linecap="round">
+    <path d="M95 430 C220 410 240 170 360 165 C470 165 455 450 570 450 C720 450 750 310 880 280 C990 255 1045 260 1110 252" stroke="#38bdf8" stroke-width="10"/>
+  </g>
+  <g font-family="Arial, 'PingFang SC', sans-serif">
+    <circle cx="115" cy="426" r="10" fill="#e0f2fe"/>
+    <text x="80" y="470" fill="#e0f2fe" font-size="21">无知</text>
+    <circle cx="360" cy="165" r="12" fill="#fef3c7"/>
+    <text x="292" y="135" fill="#fef3c7" font-size="23" font-weight="700">愚昧之巅</text>
+    <text x="270" y="196" fill="#cbd5e1" font-size="18">最容易重仓梭哈</text>
+    <circle cx="570" cy="450" r="12" fill="#fecaca"/>
+    <text x="508" y="496" fill="#fecaca" font-size="23" font-weight="700">绝望之谷</text>
+    <circle cx="820" cy="300" r="12" fill="#bbf7d0"/>
+    <text x="760" y="346" fill="#bbf7d0" font-size="23" font-weight="700">开悟山坡</text>
+    <circle cx="1080" cy="255" r="12" fill="#ddd6fe"/>
+    <text x="988" y="222" fill="#ddd6fe" font-size="23" font-weight="700">平稳高原</text>
+  </g>
+  <line x1="90" y1="460" x2="1120" y2="460" stroke="#334155" stroke-width="3"/>
+  <line x1="90" y1="160" x2="90" y2="460" stroke="#334155" stroke-width="3"/>
+  <text x="940" y="510" fill="#94a3b8" font-family="Arial, 'PingFang SC', sans-serif" font-size="20">时间与周期</text>
+  <text x="30" y="170" fill="#94a3b8" font-family="Arial, 'PingFang SC', sans-serif" font-size="20" transform="rotate(-90 30 170)">自信程度</text>
+</svg>

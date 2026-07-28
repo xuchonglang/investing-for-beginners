@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/badge/官网-xiaoyinsi.com-111827)](https://xiaoyinsi.com/)
 [![Wiki](https://img.shields.io/badge/投资百科-Wiki-2563eb)](https://xiaoyinsi.com/wiki)
 [![License](https://img.shields.io/badge/内容许可-Proprietary-b91c1c)](LICENSE.md)
-![Version](https://img.shields.io/badge/版本-V0.1-0ea5e9)
+![Version](https://img.shields.io/badge/版本-V0.2-0ea5e9)
 
 **作者：徐冲浪**
 
@@ -114,6 +114,7 @@
 
 ```text
 .
+├── assets/              图片、图表等静态资源
 ├── content/             Wiki 精选词条，按美股、期权、加密货币分类整理
 ├── guides/              入门指南与长文教程
 ├── glossary/            金融术语索引，用于快速查概念与跳转学习

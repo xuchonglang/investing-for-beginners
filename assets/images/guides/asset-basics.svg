@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="540" viewBox="0 0 1200 540" role="img" aria-labelledby="title desc">
+  <title id="title">投资基础资产类型</title>
+  <desc id="desc">法币、债券、股票和衍生品四类基础概念。</desc>
+  <rect width="1200" height="540" rx="32" fill="#fff7ed"/>
+  <text x="70" y="86" fill="#111827" font-family="Arial, 'PingFang SC', sans-serif" font-size="40" font-weight="700">入门先补四类基础概念</text>
+  <text x="70" y="128" fill="#57534e" font-family="Arial, 'PingFang SC', sans-serif" font-size="22">你不一定都要交易，但必须知道它们如何影响市场。</text>
+  <g font-family="Arial, 'PingFang SC', sans-serif">
+    <rect x="70" y="190" width="235" height="210" rx="26" fill="#ffffff" stroke="#fed7aa" stroke-width="3"/>
+    <text x="110" y="255" fill="#c2410c" font-size="30" font-weight="700">法币</text>
+    <text x="110" y="305" fill="#44403c" font-size="20">购买力</text>
+    <text x="110" y="338" fill="#44403c" font-size="20">利率</text>
+    <text x="110" y="371" fill="#44403c" font-size="20">汇率</text>
+    <rect x="345" y="190" width="235" height="210" rx="26" fill="#ffffff" stroke="#fed7aa" stroke-width="3"/>
+    <text x="385" y="255" fill="#c2410c" font-size="30" font-weight="700">债券</text>
+    <text x="385" y="305" fill="#44403c" font-size="20">久期</text>
+    <text x="385" y="338" fill="#44403c" font-size="20">收益率</text>
+    <text x="385" y="371" fill="#44403c" font-size="20">信用风险</text>
+    <rect x="620" y="190" width="235" height="210" rx="26" fill="#ffffff" stroke="#fed7aa" stroke-width="3"/>
+    <text x="660" y="255" fill="#c2410c" font-size="30" font-weight="700">股票</text>
+    <text x="660" y="305" fill="#44403c" font-size="20">现金流</text>
+    <text x="660" y="338" fill="#44403c" font-size="20">估值</text>
+    <text x="660" y="371" fill="#44403c" font-size="20">商业模式</text>
+    <rect x="895" y="190" width="235" height="210" rx="26" fill="#ffffff" stroke="#fed7aa" stroke-width="3"/>
+    <text x="935" y="255" fill="#c2410c" font-size="30" font-weight="700">衍生品</text>
+    <text x="935" y="305" fill="#44403c" font-size="20">杠杆</text>
+    <text x="935" y="338" fill="#44403c" font-size="20">时间价值</text>
+    <text x="935" y="371" fill="#44403c" font-size="20">最大损失</text>
+  </g>
+  <text x="70" y="470" fill="#7c2d12" font-family="Arial, 'PingFang SC', sans-serif" font-size="22">学习顺序不等于交易顺序：先理解，再决定自己碰不碰。</text>
+</svg>

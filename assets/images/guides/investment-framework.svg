@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
+  <title id="title">投资决策框架</title>
+  <desc id="desc">耐心、概率、仓位管理和离场条件构成投资决策框架。</desc>
+  <rect width="1200" height="560" rx="32" fill="#f0fdf4"/>
+  <text x="70" y="84" fill="#052e16" font-family="Arial, 'PingFang SC', sans-serif" font-size="40" font-weight="700">投资的本质：耐心 + 概率 + 仓位管理</text>
+  <text x="70" y="126" fill="#166534" font-family="Arial, 'PingFang SC', sans-serif" font-size="22">每次下单前，都应该能回答这四个问题。</text>
+  <g font-family="Arial, 'PingFang SC', sans-serif">
+    <rect x="90" y="190" width="460" height="120" rx="24" fill="#ffffff" stroke="#86efac" stroke-width="3"/>
+    <text x="130" y="238" fill="#15803d" font-size="28" font-weight="700">1. 为什么买？</text>
+    <text x="130" y="276" fill="#334155" font-size="20">估值、周期、技术形态，还是事件催化？</text>
+    <rect x="650" y="190" width="460" height="120" rx="24" fill="#ffffff" stroke="#86efac" stroke-width="3"/>
+    <text x="690" y="238" fill="#15803d" font-size="28" font-weight="700">2. 错了亏多少？</text>
+    <text x="690" y="276" fill="#334155" font-size="20">仓位、杠杆、跳空、流动性，都要写成数字。</text>
+    <rect x="90" y="350" width="460" height="120" rx="24" fill="#ffffff" stroke="#86efac" stroke-width="3"/>
+    <text x="130" y="398" fill="#15803d" font-size="28" font-weight="700">3. 什么情况加仓？</text>
+    <text x="130" y="436" fill="#334155" font-size="20">只有验证假设，而不是为了摊低成本。</text>
+    <rect x="650" y="350" width="460" height="120" rx="24" fill="#ffffff" stroke="#86efac" stroke-width="3"/>
+    <text x="690" y="398" fill="#15803d" font-size="28" font-weight="700">4. 什么时候离场？</text>
+    <text x="690" y="436" fill="#334155" font-size="20">目标兑现、逻辑失效、情绪过热，都应提前定义。</text>
+  </g>
+</svg>

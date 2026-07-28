@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
+  <title id="title">投资入门学习路线</title>
+  <desc id="desc">从目标、基础概念、公司分析、风险控制到长期复盘的投资学习路径。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e3a8a"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="10" flood-color="#020617" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="520" rx="32" fill="url(#bg)"/>
+  <text x="70" y="86" fill="#f8fafc" font-family="Arial, 'PingFang SC', sans-serif" font-size="42" font-weight="700">投资入门不是找代码，而是建立决策系统</text>
+  <text x="70" y="128" fill="#bfdbfe" font-family="Arial, 'PingFang SC', sans-serif" font-size="22">先理解自己，再理解资产，最后才是交易。</text>
+  <g filter="url(#shadow)">
+    <rect x="70" y="190" width="188" height="180" rx="24" fill="#eff6ff"/>
+    <rect x="290" y="190" width="188" height="180" rx="24" fill="#ecfeff"/>
+    <rect x="510" y="190" width="188" height="180" rx="24" fill="#f0fdf4"/>
+    <rect x="730" y="190" width="188" height="180" rx="24" fill="#fff7ed"/>
+    <rect x="950" y="190" width="180" height="180" rx="24" fill="#fdf2f8"/>
+  </g>
+  <g font-family="Arial, 'PingFang SC', sans-serif" text-anchor="middle">
+    <text x="164" y="246" fill="#1e3a8a" font-size="28" font-weight="700">目标</text>
+    <text x="164" y="286" fill="#334155" font-size="19">期限 / 现金流</text>
+    <text x="164" y="316" fill="#334155" font-size="19">风险承受力</text>
+    <text x="384" y="246" fill="#155e75" font-size="28" font-weight="700">概念</text>
+    <text x="384" y="286" fill="#334155" font-size="19">法币 / 债券</text>
+    <text x="384" y="316" fill="#334155" font-size="19">股票 / 衍生品</text>
+    <text x="604" y="246" fill="#166534" font-size="28" font-weight="700">公司</text>
+    <text x="604" y="286" fill="#334155" font-size="19">商业模式</text>
+    <text x="604" y="316" fill="#334155" font-size="19">财报与估值</text>
+    <text x="824" y="246" fill="#9a3412" font-size="28" font-weight="700">风控</text>
+    <text x="824" y="286" fill="#334155" font-size="19">仓位 / 杠杆</text>
+    <text x="824" y="316" fill="#334155" font-size="19">退出条件</text>
+    <text x="1040" y="246" fill="#9d174d" font-size="28" font-weight="700">复盘</text>
+    <text x="1040" y="286" fill="#334155" font-size="19">周期验证</text>
+    <text x="1040" y="316" fill="#334155" font-size="19">修正框架</text>
+  </g>
+  <g stroke="#93c5fd" stroke-width="5" stroke-linecap="round">
+    <path d="M258 280 H290"/>
+    <path d="M478 280 H510"/>
+    <path d="M698 280 H730"/>
+    <path d="M918 280 H950"/>
+  </g>
+  <text x="70" y="445" fill="#dbeafe" font-family="Arial, 'PingFang SC', sans-serif" font-size="22">核心原则：不要急着下注，先知道自己为什么买、错了亏多少、什么时候离场。</text>
+</svg>

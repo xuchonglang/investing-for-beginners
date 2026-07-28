@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
+  <title id="title">普通人进入经济循环的三条路线</title>
+  <desc id="desc">规则制定者、服务提供者和个人投资者三条路线。</desc>
+  <rect width="1200" height="560" rx="32" fill="#f8fafc"/>
+  <text x="70" y="82" fill="#0f172a" font-family="Arial, 'PingFang SC', sans-serif" font-size="40" font-weight="700">普通人进入经济循环的三条路线</text>
+  <text x="70" y="122" fill="#475569" font-family="Arial, 'PingFang SC', sans-serif" font-size="22">投资不是唯一道路，但它会变成越来越基础的生存技能。</text>
+  <g font-family="Arial, 'PingFang SC', sans-serif">
+    <rect x="70" y="185" width="320" height="250" rx="28" fill="#dbeafe"/>
+    <text x="105" y="245" fill="#1d4ed8" font-size="30" font-weight="700">路线 1</text>
+    <text x="105" y="292" fill="#0f172a" font-size="25" font-weight="700">规则制定者</text>
+    <text x="105" y="338" fill="#334155" font-size="20">掌握资金分配权</text>
+    <text x="105" y="372" fill="#334155" font-size="20">为别人管理资产</text>
+    <text x="105" y="406" fill="#334155" font-size="20">从收益中分成</text>
+    <rect x="440" y="185" width="320" height="250" rx="28" fill="#dcfce7"/>
+    <text x="475" y="245" fill="#15803d" font-size="30" font-weight="700">路线 2</text>
+    <text x="475" y="292" fill="#0f172a" font-size="25" font-weight="700">服务提供者</text>
+    <text x="475" y="338" fill="#334155" font-size="20">持续提供产品或服务</text>
+    <text x="475" y="372" fill="#334155" font-size="20">获得现金流</text>
+    <text x="475" y="406" fill="#334155" font-size="20">参与公司资产分配</text>
+    <rect x="810" y="185" width="320" height="250" rx="28" fill="#ffedd5"/>
+    <text x="845" y="245" fill="#c2410c" font-size="30" font-weight="700">路线 3</text>
+    <text x="845" y="292" fill="#0f172a" font-size="25" font-weight="700">个人投资者</text>
+    <text x="845" y="338" fill="#334155" font-size="20">拥有可流动资产</text>
+    <text x="845" y="372" fill="#334155" font-size="20">理解风险与周期</text>
+    <text x="845" y="406" fill="#334155" font-size="20">跑赢通胀和稀释</text>
+  </g>
+  <text x="70" y="500" fill="#64748b" font-family="Arial, 'PingFang SC', sans-serif" font-size="22">共同点：你必须理解钱如何流动，资产如何定价，风险如何转移。</text>
+</svg>
