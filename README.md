@@ -1,5 +1,7 @@
 # 投资入门指南
 
+[English](README.en.md) | 中文
+
 [![Website](https://img.shields.io/badge/官网-xiaoyinsi.com-111827)](https://xiaoyinsi.com/)
 [![Wiki](https://img.shields.io/badge/投资百科-Wiki-2563eb)](https://xiaoyinsi.com/wiki)
 [![License](https://img.shields.io/badge/内容许可-Proprietary-b91c1c)](LICENSE.md)
@@ -104,6 +106,7 @@
 | 主题 | 内容 | 官方入口 |
 | --- | --- | --- |
 | [入门指南](guides/投资入门指南.md) | 从零认识投资、建立风险意识与基础操作框架 | — |
+| [English Version](README.en.md) | 英文入口、英文入门指南与术语表 | — |
 | [美股入门](content/README.md#美股入门) | 交易时段、订单类型、公司披露、估值与市场结构 | [进入美股入门](https://xiaoyinsi.com/wiki/stocks) |
 | [期权进阶](content/README.md#期权进阶) | Call / Put、期权链、希腊字母、波动率与策略风险 | [进入期权进阶](https://xiaoyinsi.com/wiki/options) |
 | [加密货币](content/README.md#加密货币) | 现货、合约、杠杆、钱包、链上机制与风险控制 | [进入加密货币](https://xiaoyinsi.com/wiki/crypto) |
@@ -116,8 +119,10 @@
 .
 ├── assets/              图片、图表等静态资源
 ├── content/             Wiki 精选词条，按美股、期权、加密货币分类整理
+├── en/                  英文版镜像内容
 ├── guides/              入门指南与长文教程
 ├── glossary/            金融术语索引，用于快速查概念与跳转学习
+├── i18n/                中英文内容维护说明
 └── LICENSE.md           专有内容许可
 ```
 
