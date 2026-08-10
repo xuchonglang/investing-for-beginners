@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
+  <title id="title">Three economic routes</title>
+  <desc id="desc">Three routes into the economic cycle: capital allocator, service provider, and individual investor.</desc>
+  <rect width="1200" height="560" rx="32" fill="#f8fafc"/>
+  <text x="70" y="82" fill="#0f172a" font-family="Arial, sans-serif" font-size="40" font-weight="700">Three ways to stay inside the economic cycle</text>
+  <text x="70" y="122" fill="#475569" font-family="Arial, sans-serif" font-size="22">Investing is not the only path, but it is becoming a basic survival skill.</text>
+  <g font-family="Arial, sans-serif">
+    <rect x="70" y="185" width="320" height="250" rx="28" fill="#dbeafe"/>
+    <text x="105" y="245" fill="#1d4ed8" font-size="30" font-weight="700">Route 1</text>
+    <text x="105" y="292" fill="#0f172a" font-size="25" font-weight="700">Capital allocator</text>
+    <text x="105" y="338" fill="#334155" font-size="20">Controls capital</text>
+    <text x="105" y="372" fill="#334155" font-size="20">Manages assets</text>
+    <text x="105" y="406" fill="#334155" font-size="20">Shares the upside</text>
+    <rect x="440" y="185" width="320" height="250" rx="28" fill="#dcfce7"/>
+    <text x="475" y="245" fill="#15803d" font-size="30" font-weight="700">Route 2</text>
+    <text x="475" y="292" fill="#0f172a" font-size="25" font-weight="700">Service provider</text>
+    <text x="475" y="338" fill="#334155" font-size="20">Builds products</text>
+    <text x="475" y="372" fill="#334155" font-size="20">Earns cash flow</text>
+    <text x="475" y="406" fill="#334155" font-size="20">Owns business equity</text>
+    <rect x="810" y="185" width="320" height="250" rx="28" fill="#ffedd5"/>
+    <text x="845" y="245" fill="#c2410c" font-size="30" font-weight="700">Route 3</text>
+    <text x="845" y="292" fill="#0f172a" font-size="25" font-weight="700">Individual investor</text>
+    <text x="845" y="338" fill="#334155" font-size="20">Owns liquid assets</text>
+    <text x="845" y="372" fill="#334155" font-size="20">Understands cycles</text>
+    <text x="845" y="406" fill="#334155" font-size="20">Protects purchasing power</text>
+  </g>
+  <text x="70" y="500" fill="#64748b" font-family="Arial, sans-serif" font-size="22">Common skill: understand how money flows, how assets are priced, and how risk transfers.</text>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="540" viewBox="0 0 1200 540" role="img" aria-labelledby="title desc">
+  <title id="title">Basic asset classes</title>
+  <desc id="desc">Four basic asset classes for beginners: fiat money, bonds, stocks, and derivatives.</desc>
+  <rect width="1200" height="540" rx="32" fill="#fff7ed"/>
+  <text x="70" y="86" fill="#111827" font-family="Arial, sans-serif" font-size="40" font-weight="700">Start with four basic asset layers</text>
+  <text x="70" y="128" fill="#57534e" font-family="Arial, sans-serif" font-size="22">You do not have to trade all of them, but you should know how they affect markets.</text>
+  <g font-family="Arial, sans-serif">
+    <rect x="70" y="190" width="235" height="210" rx="26" fill="#ffffff" stroke="#fed7aa" stroke-width="3"/>
+    <text x="110" y="255" fill="#c2410c" font-size="30" font-weight="700">Fiat money</text>
+    <text x="110" y="305" fill="#44403c" font-size="20">Purchasing power</text>
+    <text x="110" y="338" fill="#44403c" font-size="20">Interest rates</text>
+    <text x="110" y="371" fill="#44403c" font-size="20">FX risk</text>
+    <rect x="345" y="190" width="235" height="210" rx="26" fill="#ffffff" stroke="#fed7aa" stroke-width="3"/>
+    <text x="385" y="255" fill="#c2410c" font-size="30" font-weight="700">Bonds</text>
+    <text x="385" y="305" fill="#44403c" font-size="20">Duration</text>
+    <text x="385" y="338" fill="#44403c" font-size="20">Yield</text>
+    <text x="385" y="371" fill="#44403c" font-size="20">Credit risk</text>
+    <rect x="620" y="190" width="235" height="210" rx="26" fill="#ffffff" stroke="#fed7aa" stroke-width="3"/>
+    <text x="660" y="255" fill="#c2410c" font-size="30" font-weight="700">Stocks</text>
+    <text x="660" y="305" fill="#44403c" font-size="20">Ownership</text>
+    <text x="660" y="338" fill="#44403c" font-size="20">Cash flow</text>
+    <text x="660" y="371" fill="#44403c" font-size="20">Valuation</text>
+    <rect x="895" y="190" width="235" height="210" rx="26" fill="#ffffff" stroke="#fed7aa" stroke-width="3"/>
+    <text x="935" y="255" fill="#c2410c" font-size="30" font-weight="700">Derivatives</text>
+    <text x="935" y="305" fill="#44403c" font-size="20">Leverage</text>
+    <text x="935" y="338" fill="#44403c" font-size="20">Time value</text>
+    <text x="935" y="371" fill="#44403c" font-size="20">Max loss</text>
+  </g>
+  <text x="70" y="470" fill="#7c2d12" font-family="Arial, sans-serif" font-size="22">Learning order is not trading order: understand first, then decide what to touch.</text>
+</svg>

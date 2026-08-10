@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
+  <title id="title">Investor mindset curve</title>
+  <desc id="desc">The beginner psychology curve from ignorance to overconfidence, despair, learning, and stability.</desc>
+  <rect width="1200" height="560" rx="32" fill="#0f172a"/>
+  <text x="70" y="82" fill="#f8fafc" font-family="Arial, sans-serif" font-size="40" font-weight="700">The most dangerous sentence: “I get it now”</text>
+  <text x="70" y="124" fill="#cbd5e1" font-family="Arial, sans-serif" font-size="22">Many losses come from early confidence, not total ignorance.</text>
+  <path d="M95 430 C220 410 240 170 360 165 C470 165 455 450 570 450 C720 450 750 310 880 280 C990 255 1045 260 1110 252" fill="none" stroke="#38bdf8" stroke-width="10" stroke-linecap="round"/>
+  <g font-family="Arial, sans-serif">
+    <circle cx="115" cy="426" r="10" fill="#e0f2fe"/>
+    <text x="80" y="470" fill="#e0f2fe" font-size="21">Ignorance</text>
+    <circle cx="360" cy="165" r="12" fill="#fef3c7"/>
+    <text x="275" y="135" fill="#fef3c7" font-size="23" font-weight="700">Peak confidence</text>
+    <text x="282" y="196" fill="#cbd5e1" font-size="18">Oversized bets</text>
+    <circle cx="570" cy="450" r="12" fill="#fecaca"/>
+    <text x="508" y="496" fill="#fecaca" font-size="23" font-weight="700">Despair valley</text>
+    <circle cx="820" cy="300" r="12" fill="#bbf7d0"/>
+    <text x="760" y="346" fill="#bbf7d0" font-size="23" font-weight="700">Learning slope</text>
+    <circle cx="1080" cy="255" r="12" fill="#ddd6fe"/>
+    <text x="985" y="222" fill="#ddd6fe" font-size="23" font-weight="700">Stable plateau</text>
+  </g>
+  <line x1="90" y1="460" x2="1120" y2="460" stroke="#334155" stroke-width="3"/>
+  <line x1="90" y1="160" x2="90" y2="460" stroke="#334155" stroke-width="3"/>
+  <text x="940" y="510" fill="#94a3b8" font-family="Arial, sans-serif" font-size="20">Time and market cycles</text>
+  <text x="30" y="170" fill="#94a3b8" font-family="Arial, sans-serif" font-size="20" transform="rotate(-90 30 170)">Confidence</text>
+</svg>

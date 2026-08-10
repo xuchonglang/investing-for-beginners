@@ -106,7 +106,6 @@
 | 主题 | 内容 | 官方入口 |
 | --- | --- | --- |
 | [入门指南](guides/投资入门指南.md) | 从零认识投资、建立风险意识与基础操作框架 | — |
-| [English Version](README.en.md) | 英文入口、英文入门指南与术语表 | — |
 | [美股入门](content/README.md#美股入门) | 交易时段、订单类型、公司披露、估值与市场结构 | [进入美股入门](https://xiaoyinsi.com/wiki/stocks) |
 | [期权进阶](content/README.md#期权进阶) | Call / Put、期权链、希腊字母、波动率与策略风险 | [进入期权进阶](https://xiaoyinsi.com/wiki/options) |
 | [加密货币](content/README.md#加密货币) | 现货、合约、杠杆、钱包、链上机制与风险控制 | [进入加密货币](https://xiaoyinsi.com/wiki/crypto) |
@@ -136,19 +135,6 @@
 
 
 请只通过官网确认社区入口。小隐寺不会通过陌生私信索取资金、助记词、验证码或 API Key。
-
-### 
-小隐寺社区的邀请码：
-
-https://forum.xiaoyinsi.com/invites/Du2WWmscgy
-
-https://forum.xiaoyinsi.com/invites/oJBKKCs1Du
-
-https://forum.xiaoyinsi.com/invites/xE5BLVx7EB
-
-
-我这里会不定时放一些邀请码出来，可以多多关注本repo
-
 
 ## 版权
 

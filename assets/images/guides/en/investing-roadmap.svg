@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
+  <title id="title">Investing roadmap for beginners</title>
+  <desc id="desc">A five-step investing roadmap: goals, basics, business analysis, risk control, and review.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e3a8a"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="10" flood-color="#020617" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="520" rx="32" fill="url(#bg)"/>
+  <text x="70" y="86" fill="#f8fafc" font-family="Arial, sans-serif" font-size="40" font-weight="700">Investing starts with a decision system</text>
+  <text x="70" y="128" fill="#bfdbfe" font-family="Arial, sans-serif" font-size="22">Understand yourself first, then understand assets, and only then trade.</text>
+  <g filter="url(#shadow)">
+    <rect x="70" y="190" width="188" height="180" rx="24" fill="#eff6ff"/>
+    <rect x="290" y="190" width="188" height="180" rx="24" fill="#ecfeff"/>
+    <rect x="510" y="190" width="188" height="180" rx="24" fill="#f0fdf4"/>
+    <rect x="730" y="190" width="188" height="180" rx="24" fill="#fff7ed"/>
+    <rect x="950" y="190" width="180" height="180" rx="24" fill="#fdf2f8"/>
+  </g>
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <text x="164" y="246" fill="#1e3a8a" font-size="28" font-weight="700">Goals</text>
+    <text x="164" y="286" fill="#334155" font-size="18">Time horizon</text>
+    <text x="164" y="316" fill="#334155" font-size="18">Risk tolerance</text>
+    <text x="384" y="246" fill="#155e75" font-size="28" font-weight="700">Basics</text>
+    <text x="384" y="286" fill="#334155" font-size="18">Money / Bonds</text>
+    <text x="384" y="316" fill="#334155" font-size="18">Stocks / Options</text>
+    <text x="604" y="246" fill="#166534" font-size="28" font-weight="700">Business</text>
+    <text x="604" y="286" fill="#334155" font-size="18">Cash flow</text>
+    <text x="604" y="316" fill="#334155" font-size="18">Valuation</text>
+    <text x="824" y="246" fill="#9a3412" font-size="28" font-weight="700">Risk</text>
+    <text x="824" y="286" fill="#334155" font-size="18">Position size</text>
+    <text x="824" y="316" fill="#334155" font-size="18">Exit rules</text>
+    <text x="1040" y="246" fill="#9d174d" font-size="28" font-weight="700">Review</text>
+    <text x="1040" y="286" fill="#334155" font-size="18">Cycles</text>
+    <text x="1040" y="316" fill="#334155" font-size="18">Framework</text>
+  </g>
+  <g stroke="#93c5fd" stroke-width="5" stroke-linecap="round">
+    <path d="M258 280 H290"/>
+    <path d="M478 280 H510"/>
+    <path d="M698 280 H730"/>
+    <path d="M918 280 H950"/>
+  </g>
+  <text x="70" y="445" fill="#dbeafe" font-family="Arial, sans-serif" font-size="22">Core rule: know why you buy, how much you can lose, and when you will exit.</text>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
+  <title id="title">Investment decision framework</title>
+  <desc id="desc">Four questions behind a practical investment decision framework.</desc>
+  <rect width="1200" height="560" rx="32" fill="#f0fdf4"/>
+  <text x="70" y="84" fill="#052e16" font-family="Arial, sans-serif" font-size="40" font-weight="700">Investing = patience + probability + position sizing</text>
+  <text x="70" y="126" fill="#166534" font-family="Arial, sans-serif" font-size="22">Before entering a position, answer these four questions.</text>
+  <g font-family="Arial, sans-serif">
+    <rect x="90" y="190" width="460" height="120" rx="24" fill="#ffffff" stroke="#86efac" stroke-width="3"/>
+    <text x="130" y="238" fill="#15803d" font-size="28" font-weight="700">1. Why buy?</text>
+    <text x="130" y="276" fill="#334155" font-size="20">Valuation, cycle, technical setup, or catalyst?</text>
+    <rect x="650" y="190" width="460" height="120" rx="24" fill="#ffffff" stroke="#86efac" stroke-width="3"/>
+    <text x="690" y="238" fill="#15803d" font-size="28" font-weight="700">2. What can I lose?</text>
+    <text x="690" y="276" fill="#334155" font-size="20">Size, leverage, gap risk, and liquidity in numbers.</text>
+    <rect x="90" y="350" width="460" height="120" rx="24" fill="#ffffff" stroke="#86efac" stroke-width="3"/>
+    <text x="130" y="398" fill="#15803d" font-size="28" font-weight="700">3. When to add?</text>
+    <text x="130" y="436" fill="#334155" font-size="20">Only when the thesis improves, not to average down.</text>
+    <rect x="650" y="350" width="460" height="120" rx="24" fill="#ffffff" stroke="#86efac" stroke-width="3"/>
+    <text x="690" y="398" fill="#15803d" font-size="28" font-weight="700">4. When to exit?</text>
+    <text x="690" y="436" fill="#334155" font-size="20">Target met, thesis broken, or crowd euphoria.</text>
+  </g>
+</svg>

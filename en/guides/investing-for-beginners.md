@@ -6,7 +6,7 @@ Version: V0.2
 
 Author: Xu Chonglang
 
-![Investing Roadmap](../../assets/images/guides/investing-roadmap.svg)
+![Investing Roadmap](../../assets/images/guides/en/investing-roadmap.svg)
 
 ## Why ordinary people need to learn investing
 
@@ -24,7 +24,7 @@ The real beginner path has three layers:
 
 ## Three economic routes
 
-![Three Economic Routes](../../assets/images/guides/economic-routes.svg)
+![Three Economic Routes](../../assets/images/guides/en/economic-routes.svg)
 
 There are many ways to stay inside the economic cycle:
 
@@ -46,7 +46,7 @@ The first rule is simple: do not rush to prove that you are right. You only need
 
 ## The dangerous sentence: “I think I understand it”
 
-![Investor Mindset Curve](../../assets/images/guides/mindset-curve.svg)
+![Investor Mindset Curve](../../assets/images/guides/en/mindset-curve.svg)
 
 The most dangerous period for beginners is not complete ignorance. It is early confidence.
 
@@ -63,7 +63,7 @@ It usually takes years, not weeks, to build a durable investing framework.
 
 ## What to learn first
 
-![Asset Basics](../../assets/images/guides/asset-basics.svg)
+![Asset Basics](../../assets/images/guides/en/asset-basics.svg)
 
 Before focusing on individual stocks or crypto assets, a beginner should understand four basic asset layers:
 
@@ -90,7 +90,7 @@ Investing is a probability game, not a proof game.
 
 ## The essence of investing
 
-![Investment Framework](../../assets/images/guides/investment-framework.svg)
+![Investment Framework](../../assets/images/guides/en/investment-framework.svg)
 
 Investing is patience, probability, and position sizing.
 
