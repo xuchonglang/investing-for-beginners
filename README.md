@@ -117,7 +117,7 @@
 | Bitget | 加密货币平台 | 现货与合约交易 | [打开 Bitget](https://link.xuchonglang.com/bg) |
 | Polymarket | 预测市场 | 观察事件概率与市场预期 | [打开 Polymarket](https://link.xuchonglang.com/pm) |
 
-> 部分平台链接为邀请或返佣链接，选择前请自行比较费用、资质与风险。
+
 
 ## 仓库结构
 

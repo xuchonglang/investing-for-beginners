@@ -48,7 +48,7 @@ Use market-data tools to learn first, then choose a trading platform based on re
 | Bitget | Crypto | Spot and derivatives trading | [Open Bitget](https://link.xuchonglang.com/bg) |
 | Polymarket | Prediction market | Event probabilities and market expectations | [Open Polymarket](https://link.xuchonglang.com/pm) |
 
-> Some platform links are referral or commission links. Compare fees, eligibility, and risk before choosing a platform.
+
 
 ## Repository structure
 
