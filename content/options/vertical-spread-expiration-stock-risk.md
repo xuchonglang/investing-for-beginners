@@ -13,5 +13,3 @@
 不要假设券商一定会把价差作为整体处理。
 
 如果不想获得股票，最稳妥的方式是在到期前主动平仓，而不是把有限损益图当成交割保证。
-
-继续学习：[垂直价差到期股票风险](https://xiaoyinsi.com/wiki/options/vertical-spread-expiration-stock-risk)

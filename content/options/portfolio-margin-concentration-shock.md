@@ -15,5 +15,3 @@
 不要把单一指标当成结论。更稳妥的做法，是把它放回具体场景中：发生了什么、谁承担风险、现金或资产如何变化、最坏情况下会损失多少。
 
 期权风险经常来自时间、波动率、流动性和交割细节，不只是方向判断。
-
-继续学习：[Portfolio Margin集中度冲击是什么？相关仓位为何突然提高保证金](https://xiaoyinsi.com/wiki/options/portfolio-margin-concentration-shock)

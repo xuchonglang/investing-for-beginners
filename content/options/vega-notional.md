@@ -12,5 +12,3 @@ Vega Notional 把 Vega 暴露转换成更直观的名义风险，用来衡量波
 - 事件后 IV Crush 会直接影响 Vega 头寸。
 
 交易期权前，至少要知道自己是买波动还是卖波动。
-
-继续学习：[Vega Notional](https://xiaoyinsi.com/wiki/options/vega-notional)

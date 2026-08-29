@@ -10,5 +10,3 @@
 - 团队账户能加入更灵活的权限。
 
 便利也增加了新风险：智能账户代码可能有漏洞，Bundler 或 Paymaster 可能停止服务，升级权限也可能被滥用。使用前应确认账户能否自主迁移、恢复规则由谁控制，以及撤销授权的方法。
-
-[查看小隐寺完整词条：账户抽象](https://xiaoyinsi.com/wiki/crypto/account-abstraction)

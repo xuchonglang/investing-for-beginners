@@ -10,5 +10,3 @@ IV Crush 指重大事件后隐含波动率快速下降，常见于财报、FOMC 
 - 卖出某一侧期权，可能暴露在偏斜突然变陡的风险里。
 
 新手做财报期权时，不要只问“涨还是跌”。还要问：事件后 IV 会降多少？我买卖的是偏斜中哪一侧？实际波动需要多大才够覆盖权利金？
-
-继续学习：[IV Crush 与偏斜](https://xiaoyinsi.com/wiki/options/volatility-crush-vs-skew)

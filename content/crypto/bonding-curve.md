@@ -12,5 +12,3 @@ Bonding Curve 用一条价格曲线决定代币买入和卖出价格。买的人
 风险在于，曲线参数决定了早期和后期参与者的收益分配。看似自动公平，实际可能让早期买家占很大优势。
 
 新手参与前要看曲线公式、退出流动性、手续费、团队预留和是否能随时卖出。
-
-继续学习：[Bonding Curve](https://xiaoyinsi.com/wiki/crypto/bonding-curve)

@@ -16,5 +16,3 @@ Buy-Write 指数通常模拟持有标的指数，同时持续卖出 Call 的策�
 2. 标的是指数、ETF 还是个股。
 3. 分红或分派是否来自真实收益。
 4. 牛市中是否长期跑输标的。
-
-继续学习：[Buy-Write 指数](https://xiaoyinsi.com/wiki/options/buy-write-index)

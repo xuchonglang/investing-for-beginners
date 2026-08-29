@@ -10,5 +10,3 @@
 - 流动性不足时锚定更难维持。
 
 新手不要只看稳定币名字和高收益。真正要看抵押资产、赎回机制、流动性、历史脱锚和极端情况下谁承担损失。
-
-继续学习：[铸币税稳定币](https://xiaoyinsi.com/wiki/crypto/seigniorage-stablecoin)

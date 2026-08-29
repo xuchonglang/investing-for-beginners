@@ -2,8 +2,6 @@
 
 Delta 和 Gamma 是描述期权方向风险最常用的两个希腊字母。Delta 估算标的价格变化时，期权价格会变化多少；Gamma 描述 Delta 本身变化得有多快。
 
-完整词条：[Delta / Gamma 通俗讲解](https://xiaoyinsi.com/wiki/options/delta-gamma)
-
 ## Delta：方向和敏感度
 
 如果一张 Call 的 Delta 为 0.50，标的上涨 1 美元，在其他因素近似不变时，期权价格可能上涨约 0.50 美元。Call 的 Delta 通常在 0～1 之间，Put 的 Delta 通常在 -1～0 之间。

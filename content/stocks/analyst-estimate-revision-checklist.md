@@ -13,5 +13,3 @@
 实操上，可以把预期变化当作观察名单信号，而不是直接买卖指令。
 
 如果预期上修但股价不涨，说明市场可能已经定价；如果预期下修但股价不跌，说明坏消息也可能已经被消化。
-
-继续学习：[分析师预期上修/下修检查清单](https://xiaoyinsi.com/wiki/stocks/analyst-estimate-revision-checklist)

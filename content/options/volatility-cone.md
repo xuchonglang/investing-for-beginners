@@ -10,5 +10,3 @@ Volatility Cone 用不同历史窗口的波动率分布，帮助判断当前隐�
 4. 避免只凭感觉说 IV 高低。
 
 局限是历史不等于未来。财报、监管、宏观事件和公司基本面变化，都可能让未来波动脱离历史区间。
-
-继续学习：[Volatility Cone](https://xiaoyinsi.com/wiki/options/volatility-cone)

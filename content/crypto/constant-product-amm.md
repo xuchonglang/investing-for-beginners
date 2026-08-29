@@ -14,5 +14,3 @@
 - 路由是否经过多个流动性较弱的池。
 
 滑点容忍度设得过高，会给抢跑和夹子攻击留下空间；设得过低，则交易可能失败并消耗 Gas。
-
-[查看小隐寺完整词条：恒定乘积 AMM](https://xiaoyinsi.com/wiki/crypto/constant-product-amm)

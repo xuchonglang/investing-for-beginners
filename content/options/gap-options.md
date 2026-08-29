@@ -10,5 +10,3 @@ Gap Option 的触发条件和支付计算可能使用不同价格。它比普通
 4. 最坏情况下亏损如何计算。
 
 不要因为名字里有 Option 就用普通 Call / Put 直觉理解。看不懂公式时，最好的交易是不交易。
-
-继续学习：[Gap Options](https://xiaoyinsi.com/wiki/options/gap-options)

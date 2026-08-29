@@ -14,5 +14,3 @@ Theta 预算用于控制组合每天因时间流逝可能损失多少。
 正 Theta 不等于稳赢，负 Theta 也不一定错误。关键是它是否和你的交易目的一致。
 
 买入期权时，如果目标行情没有在计划时间内发生，时间损耗会变成主要敌人。
-
-继续学习：[期权组合 Theta 预算](https://xiaoyinsi.com/wiki/options/portfolio-theta-budget)

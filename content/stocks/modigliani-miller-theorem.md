@@ -10,5 +10,3 @@ MM 定理在完美市场假设下认为，公司价值与资本结构无关。�
 - 融资方式会透露管理层对估值的看法。
 
 新手看公司借债回购或大额发股时，要问：这是优化资本结构，还是掩盖经营问题？
-
-继续学习：[Modigliani-Miller 定理](https://xiaoyinsi.com/wiki/stocks/modigliani-miller-theorem)

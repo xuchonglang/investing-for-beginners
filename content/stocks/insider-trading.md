@@ -11,5 +11,3 @@
 5. 公司基本面是否支持交易行为。
 
 新手不要只看社交媒体截图。应回到 SEC 文件、Form 4、交易日期、价格、交易类型和持股变化。
-
-继续学习：[内幕交易](https://xiaoyinsi.com/wiki/stocks/insider-trading)

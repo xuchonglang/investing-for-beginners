@@ -12,5 +12,3 @@
 新手做价差前要算：最大亏损、最大收益、盈亏平衡点、到期前时间价值变化。
 
 价差风险有限，但不代表不用止损。
-
-继续学习：[垂直价差执行价选择](https://xiaoyinsi.com/wiki/options/vertical-spread-strike-selection)

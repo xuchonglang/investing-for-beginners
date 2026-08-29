@@ -10,5 +10,3 @@ Double Calendar 是同时建立两个日历价差，通常围绕一个价格区�
 4. 标的突破区间后要及时处理。
 
 它看起来比单个 Calendar 区间更宽，但不等于安全。财报、FOMC 或大幅跳空会让结构迅速失效。
-
-继续学习：[Double Calendar](https://xiaoyinsi.com/wiki/options/double-calendar)

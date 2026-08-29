@@ -11,5 +11,3 @@ TWAP 是时间加权平均价格。Oracle TWAP 会在一段时间内取平均价
 但 TWAP 不是万能的。窗口太短，仍可能被操纵；窗口太长，又可能在真实行情快速变化时滞后，导致清算和定价不及时。
 
 新手看 DeFi 协议时，应检查预言机来源、TWAP 窗口、备用价格源、异常价格处理和治理参数。很多攻击不是合约语法错误，而是价格机制被利用。
-
-继续学习：[Oracle TWAP](https://xiaoyinsi.com/wiki/crypto/oracle-twap)

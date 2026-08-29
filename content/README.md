@@ -1,6 +1,15 @@
-# 小隐寺投资知识精选
+# 投资知识精选
 
-这里收录美股、期权与加密货币的基础概念精简版。完整解释、更多例子和风险说明请访问[小隐寺投资百科](https://xiaoyinsi.com/wiki)。
+这里收录美股、期权与加密货币的基础概念、实用例子和风险说明。
+
+## 实用入口
+
+- 行情与图表：[TradingView](https://link.xuchonglang.com/tv)
+- 美股券商：[致富证券](https://link.xuchonglang.com/zf) · [moomoo](https://link.xuchonglang.com/mm)
+- 加密货币平台：[OKX](https://link.xuchonglang.com/okx) · [Binance](https://link.xuchonglang.com/bn) · [Bitget](https://link.xuchonglang.com/bg) · [Bybit](https://link.xuchonglang.com/bb)
+- 预测市场：[Polymarket](https://link.xuchonglang.com/pm)
+
+> 以上包含推广或返佣链接。平台入口仅供读者自行比较，不构成开户、入金或交易建议；请先核对所在地区的可用性、费用与风险。
 
 ## 美股入门
 
@@ -321,8 +330,6 @@
 - [可赎回非控股权益](stocks/redeemable-noncontrolling-interest.md)
 - [证券化留存权益怎么看？出售应收后的尾部风险](stocks/securitization-retained-interest.md)
 - [供应商集中度怎么分析？断供、涨价与替代周期压力测试](stocks/supplier-concentration-analysis.md)
-- [查看更多美股入门词条](https://xiaoyinsi.com/wiki/stocks)
-
 ## 期权进阶
 
 - [期权是什么？Call 与 Put 入门](options/calls-and-puts.md)
@@ -639,8 +646,6 @@
 - [波动率偏斜滚降怎么理解？持仓不动为何IV也会变](options/skew-roll-down.md)
 - [期权组合净成交价怎么分摊？逐腿成本与税务记录](options/spread-net-price-allocation.md)
 - [周度与月度期权怎么选？流动性、Gamma与事件覆盖](options/weekly-monthly-expiration-selection.md)
-- [查看更多期权词条](https://xiaoyinsi.com/wiki/options)
-
 ## 加密货币
 
 - [比特币是什么？](crypto/bitcoin.md)
@@ -927,4 +932,3 @@
 - [代理合约存储冲突](crypto/proxy-storage-collision.md)
 - [代币解锁Cliff怎么分析？流通量、做市与卖压时间表](crypto/token-vesting-cliff-liquidity.md)
 - [TWAP窗口怎么选？抗操纵与价格滞后的实际取舍](crypto/twap-window-selection.md)
-- [查看更多加密货币词条](https://xiaoyinsi.com/wiki/crypto)

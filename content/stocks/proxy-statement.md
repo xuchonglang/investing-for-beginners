@@ -11,5 +11,3 @@ Proxy Statement 是公司在股东大会前披露的治理文件。它包含董�
 5. 股东提案和投票建议。
 
 财报告诉你公司赚了多少钱，Proxy 告诉你谁在控制公司、他们怎样拿钱、激励是否对股东友好。
-
-继续学习：[Proxy Statement](https://xiaoyinsi.com/wiki/stocks/proxy-statement)

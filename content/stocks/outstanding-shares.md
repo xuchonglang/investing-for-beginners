@@ -10,5 +10,3 @@ Outstanding Shares 是公司已经发行并在外流通的普通股数量。它�
 4. 基本股数和稀释股数不是同一个口径。
 
 新手看公司增长时，不要只看总收入、总利润。真正属于每一股的价值，取决于公司价值增长是否跑赢股数增长。
-
-继续学习：[流通股数](https://xiaoyinsi.com/wiki/stocks/outstanding-shares)

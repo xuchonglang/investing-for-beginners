@@ -15,5 +15,3 @@ Swap交易的最低到账和截止时间直接写入调用参数。本文说明�
 不要把单一指标当成结论。更稳妥的做法，是把它放回具体场景中：发生了什么、谁承担风险、现金或资产如何变化、最坏情况下会损失多少。
 
 链上风险通常不是单一价格波动，而是合约、权限、流动性和操作流程叠加。
-
-继续学习：[Swap的Deadline与Slippage](https://xiaoyinsi.com/wiki/crypto/swap-deadline-slippage-calldata)

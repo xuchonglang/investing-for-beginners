@@ -12,5 +12,3 @@
 新手实操时要问三句话：谁掌握更多信息？谁承担最终亏损？对方赚钱方式和我的收益是否一致？
 
 如果答案不清楚，就不要被高收益、复杂结构和“限时机会”牵着走。
-
-继续学习：[逆向选择和道德风险](https://xiaoyinsi.com/wiki/stocks/adverse-selection-moral-hazard)

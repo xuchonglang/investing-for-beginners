@@ -11,5 +11,3 @@ Put Ladder 通常是买入一个较高执行价 Put，同时卖出两个更低�
 5. 是否有财报或宏观事件。
 
 低成本的代价，是在更远下方承担风险。
-
-继续学习：[Put Ladder](https://xiaoyinsi.com/wiki/options/put-ladder)

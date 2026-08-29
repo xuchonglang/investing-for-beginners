@@ -11,5 +11,3 @@
 5. 代币持有人有什么法律权利。
 
 新手不要只看 APY。代币化美债的核心风险在法律结构、托管、发行方信用和赎回通道，而不只是智能合约。
-
-继续学习：[代币化美债](https://xiaoyinsi.com/wiki/crypto/tokenized-treasuries)

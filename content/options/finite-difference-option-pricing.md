@@ -11,5 +11,3 @@
 - 计算结果仍依赖模型假设。
 
 它能帮助你理解为什么复杂结构化产品报价不透明，也更难判断是否划算。
-
-继续学习：[有限差分期权定价](https://xiaoyinsi.com/wiki/options/finite-difference-option-pricing)

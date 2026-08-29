@@ -15,5 +15,3 @@
 现金结算不等于没有风险，只是不会交割股票。
 
 如果不能接受周四收盘后到周五开盘的价格变化，应该提前平仓，而不是等结算。
-
-继续学习：[指数期权 AM Settlement](https://xiaoyinsi.com/wiki/options/index-option-am-settlement)

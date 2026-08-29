@@ -12,5 +12,3 @@ Heston 模型允许波动率本身随机变化，用来弥补 Black-Scholes 中�
 新手不需要会推导模型，但要理解：现实市场的波动率会变，而且变化本身也是风险来源。
 
 模型越复杂，越依赖参数校准。复杂不等于一定更准。
-
-继续学习：[Heston 模型](https://xiaoyinsi.com/wiki/options/heston-model)

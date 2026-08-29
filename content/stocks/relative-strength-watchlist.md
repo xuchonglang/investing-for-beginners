@@ -13,5 +13,3 @@
 相对强弱适合用来筛选候选标的，不适合无脑追涨。
 
 真正有用的是：市场转强时，优先研究那些已经表现出领导力的股票。
-
-继续学习：[相对强弱观察名单](https://xiaoyinsi.com/wiki/stocks/relative-strength-watchlist)

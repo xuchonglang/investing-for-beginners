@@ -15,5 +15,3 @@
 止损解决的是纪律问题，不解决跳空风险。
 
 真正的风控应该从仓位开始，而不是从下单按钮开始。
-
-继续学习：[止损跳空风险计划](https://xiaoyinsi.com/wiki/stocks/stop-loss-gap-risk-plan)

@@ -14,5 +14,3 @@ Emergency Pause 是协议在漏洞或异常时暂停部分功能的机制。
 前端不能点，不代表链上完全不能操作；协议暂停，也不代表资产一定归零。
 
 事件发生后，先看官方多渠道公告、链上事件和合约状态，不要点击私信里的“恢复入口”或“迁移链接”。
-
-继续学习：[DeFi Emergency Pause](https://xiaoyinsi.com/wiki/crypto/protocol-emergency-pause)

@@ -11,5 +11,3 @@
 5. 市场预期影响风险偏好。
 
 新手看美联储时，不要只看加息或降息本身。更要看市场之前预期什么、金融条件是否真的宽松或收紧。
-
-继续学习：[货币政策传导](https://xiaoyinsi.com/wiki/stocks/monetary-policy-transmission)

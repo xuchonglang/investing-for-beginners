@@ -10,5 +10,3 @@
 - 模型价格不等于可成交价格。
 
 新手看到软件给出理论价时，要记得它可能来自插值。真实下单仍要看买卖价差、成交量和未平仓量。
-
-继续学习：[波动率插值](https://xiaoyinsi.com/wiki/options/volatility-interpolation)

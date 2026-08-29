@@ -15,5 +15,3 @@ Hard-to-Borrow 股票的借券成本会影响期权的相对价格。
 Put 贵不代表适合卖 Put。高权利金往往补偿的是高尾部风险和低流动性。
 
 如果无法解释异常报价来自哪里，就不要把它当成套利机会。
-
-继续学习：[难借券股票期权定价](https://xiaoyinsi.com/wiki/options/hard-to-borrow-option-pricing)

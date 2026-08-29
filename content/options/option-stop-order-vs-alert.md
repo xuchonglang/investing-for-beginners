@@ -13,5 +13,3 @@
 提醒不是拖延借口，而是避免机械订单在异常报价中被触发。
 
 如果无法实时处理提醒，就应该降低仓位，而不是用复杂订单掩盖无法承受的风险。
-
-继续学习：[期权止损单与提醒](https://xiaoyinsi.com/wiki/options/option-stop-order-vs-alert)

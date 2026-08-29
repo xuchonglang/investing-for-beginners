@@ -2,8 +2,6 @@
 
 期权链（Option Chain）把同一标的、不同到期日和行权价的 Call 与 Put 集中展示。它不是一张“预测涨跌”的表，而是帮助投资者确认合约条件、报价和风险。
 
-完整词条：[期权链是什么？](https://xiaoyinsi.com/wiki/options/option-chain)
-
 ## 先确认合约身份
 
 查看期权链时，依次确认：

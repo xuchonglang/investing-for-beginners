@@ -2,8 +2,6 @@
 
 隐含波动率（Implied Volatility，IV）是根据当前期权价格反推出的未来波动预期。它描述市场预期价格可能波动多大，不直接预测上涨或下跌方向。
 
-完整词条：[隐含波动率 IV 是什么？](https://xiaoyinsi.com/wiki/options/implied-volatility)
-
 ## IV 和历史波动率有什么区别？
 
 - 历史波动率观察过去实际发生的波动；

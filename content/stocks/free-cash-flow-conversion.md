@@ -21,5 +21,3 @@
 转化率低不一定是造假，可能是增长期占用营运资本或资本开支上升。
 
 但如果利润长期增长、现金长期不跟上，就要降低盈利质量假设。
-
-继续学习：[自由现金流转化率](https://xiaoyinsi.com/wiki/stocks/free-cash-flow-conversion)

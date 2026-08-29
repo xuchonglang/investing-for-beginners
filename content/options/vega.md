@@ -2,8 +2,6 @@
 
 Vega 衡量隐含波动率（IV）每变化一个百分点时，期权价格大约变化多少。它描述波动率敏感度，不直接表示标的上涨或下跌。
 
-完整词条：[Vega 是什么？](https://xiaoyinsi.com/wiki/options/vega)
-
 ## 正 Vega 和负 Vega
 
 - 买入 Call 或 Put 通常形成正 Vega：IV 上升有利，IV 下降不利；

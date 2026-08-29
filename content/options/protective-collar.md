@@ -13,5 +13,3 @@
 5. 留意除息、财报和提前指派风险。
 
 保护性领口最重要的心理准备是：如果股票大涨，你可能只能赚到 Call 执行价附近的收益；如果股票大跌，Put 只是限制损失，不会让亏损消失。
-
-继续学习：[保护性领口](https://xiaoyinsi.com/wiki/options/protective-collar)

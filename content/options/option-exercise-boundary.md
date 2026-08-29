@@ -10,5 +10,3 @@
 4. 行权会放弃剩余时间价值。
 
 实操时，不要只看期权是否实值。还要比较行权收益、剩余时间价值、股息和资金占用。
-
-继续学习：[期权行权边界](https://xiaoyinsi.com/wiki/options/option-exercise-boundary)

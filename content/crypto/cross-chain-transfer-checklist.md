@@ -15,5 +15,3 @@
 转账前还要准备目标链 Gas。很多人跨链到账后无法移动资产，就是因为目标链没有原生 Gas 代币。
 
 大额跨链前先做小额闭环：桥过去、确认到账、核对合约、完成一次小额转账或兑换。小额成功后再放大金额。
-
-继续学习：[跨链转账检查清单](https://xiaoyinsi.com/wiki/crypto/cross-chain-transfer-checklist)

@@ -13,5 +13,3 @@
 财报期权最大的问题是：你可能方向看对，但仍然因为 IV Crush 或价格波动不足而亏钱。
 
 不交易不是错过机会，而是在没有优势时保护本金。
-
-继续学习：[财报期权不交易检查清单](https://xiaoyinsi.com/wiki/options/earnings-options-no-trade-checklist)

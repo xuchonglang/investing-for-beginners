@@ -10,5 +10,3 @@
 4. 现金和短债也是组合的一部分。
 
 CML 不需要你拿来精确画图。它更像一个提醒：优秀组合不是收益最高，而是在可承受风险下最有效。
-
-继续学习：[资本市场线](https://xiaoyinsi.com/wiki/stocks/capital-market-line)

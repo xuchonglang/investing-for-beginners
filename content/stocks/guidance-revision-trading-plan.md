@@ -11,5 +11,3 @@
 5. 股价盘前盘后反应是否过度。
 
 新手不要只看“上修=买、下修=卖”。更好的做法是比较新指引、市场预期和估值是否重新匹配。
-
-继续学习：[指引修正交易计划](https://xiaoyinsi.com/wiki/stocks/guidance-revision-trading-plan)

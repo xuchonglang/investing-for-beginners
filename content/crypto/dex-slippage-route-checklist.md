@@ -13,5 +13,3 @@ DEX 滑点来自订单推动 AMM 价格、等待打包期间价格变化、MEV �
 设置滑点时，不要简单调高。高滑点只是允许更差成交，并不会提高安全性。大额交易可以考虑限价单、TWAP 工具、拆单或 MEV 保护 RPC。
 
 陌生代币先小额测试买入和卖出。很多骗局不是不能买，而是不能卖，或卖出时被高税率吞掉。
-
-继续学习：[DEX 滑点与路由检查清单](https://xiaoyinsi.com/wiki/crypto/dex-slippage-route-checklist)

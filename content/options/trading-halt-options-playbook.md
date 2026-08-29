@@ -14,5 +14,3 @@
 屏幕损益可能失真，因为没有正常报价。
 
 如果停牌跨过到期日，仍要按照券商和清算规则处理行权、指派和现金需求。
-
-继续学习：[正股停牌后的期权处理](https://xiaoyinsi.com/wiki/options/trading-halt-options-playbook)

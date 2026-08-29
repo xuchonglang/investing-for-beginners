@@ -2,8 +2,6 @@
 
 Rug Pull 指项目方或内部人员通过撤走流动性、增发代币、出售集中持仓或利用合约权限，让投资者资产迅速失去价值。
 
-完整词条：[Rug Pull 是什么？](https://xiaoyinsi.com/wiki/crypto/rug-pull)
-
 常见危险信号：
 
 - 团队和权限不透明；

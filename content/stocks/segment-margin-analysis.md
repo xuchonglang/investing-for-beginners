@@ -10,5 +10,3 @@
 4. 注意总部费用和未分配成本。
 
 如果公司总收入增长，但增长主要来自低利润业务，估值倍数就不该简单按高质量业务给。
-
-继续学习：[分部利润率分析](https://xiaoyinsi.com/wiki/stocks/segment-margin-analysis)

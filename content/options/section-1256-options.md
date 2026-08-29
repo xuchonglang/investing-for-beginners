@@ -10,5 +10,3 @@
 4. 跨境投资者还要考虑本国税法。
 
 这不是税务建议。交易前如果金额较大，应咨询专业税务人士，不要只看券商收益截图。
-
-继续学习：[Section 1256 期权](https://xiaoyinsi.com/wiki/options/section-1256-options)

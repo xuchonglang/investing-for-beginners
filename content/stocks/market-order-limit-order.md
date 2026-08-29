@@ -2,8 +2,6 @@
 
 市价单（Market Order）和限价单（Limit Order）是两种最基础的下单方式。它们的区别可以概括为：市价单优先成交，限价单优先控制价格。
 
-完整词条：[市价单和限价单是什么？](https://xiaoyinsi.com/wiki/stocks/market-order-limit-order)
-
 ## 市价单
 
 市价单要求券商按当前市场上最好的可成交价格尽快买入或卖出。
@@ -31,8 +29,10 @@
 | 市价单 | 尽快成交 | 成交价格偏离预期 |
 | 限价单 | 控制价格 | 可能无法成交 |
 
+练习时可以先在 [TradingView](https://link.xuchonglang.com/tv) 对照最新价、买卖价差和成交量，再在 [致富证券](https://link.xuchonglang.com/zf) 或 [moomoo](https://link.xuchonglang.com/mm) 的订单预览页检查方向、数量、限价和有效期。不要只根据图表上的最后成交价填写订单。
+
 长期投资者也需要关注订单类型。大额仓位、较宽价差和较薄的订单簿，都可能让一次不理想的成交增加实际成本。
 
 相关阅读：[盘前盘后交易是什么？](premarket-afterhours.md)
 
-> 本文仅用于投资教育，不构成投资建议。
+> 本文仅用于投资教育，不构成投资建议。上述平台入口包含推广或返佣链接。

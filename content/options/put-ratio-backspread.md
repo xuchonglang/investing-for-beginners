@@ -10,5 +10,3 @@ Put Ratio Backspread 通常是卖出较少数量较高执行价 Put，再买入�
 - IV 上升通常有利于多 Put 一侧。
 
 新手不要把它当作普通买 Put。它是带结构的尾部下跌交易，必须先算最大亏损区间和盈亏平衡点。
-
-继续学习：[Put Ratio Backspread](https://xiaoyinsi.com/wiki/options/put-ratio-backspread)

@@ -12,5 +12,3 @@ Chooser Option 允许持有人在未来某个时间选择它变成 Call 或 Put�
 4. 权利金是否过高？
 
 它听起来灵活，但灵活性已经体现在价格里。
-
-继续学习：[Chooser Options](https://xiaoyinsi.com/wiki/options/chooser-options)

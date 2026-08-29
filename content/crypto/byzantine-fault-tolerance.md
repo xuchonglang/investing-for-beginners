@@ -12,5 +12,3 @@ BFT 指系统在部分节点作恶、离线或发送错误信息时，仍能达�
 - 网络延迟和节点数量会影响性能。
 
 看公链时，要问它能容忍多少验证者作恶，以及惩罚机制是什么。
-
-继续学习：[拜占庭容错](https://xiaoyinsi.com/wiki/crypto/byzantine-fault-tolerance)

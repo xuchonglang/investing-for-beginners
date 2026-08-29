@@ -15,5 +15,3 @@
 如果剩余风险很低、平仓成本明显高于剩余收益，继续持有也可能合理。
 
 但这必须是明确决策，而不是因为“只剩几分钱”就停止管理。
-
-继续学习：[空头期权只剩几分钱是否平仓](https://xiaoyinsi.com/wiki/options/close-cheap-short-options)

@@ -15,5 +15,3 @@
 不要把集团利润增长直接等同于母公司股东利润增长。
 
 如果 NCI 占比大，必须确认利润到底归谁。
-
-继续学习：[少数股东权益估值](https://xiaoyinsi.com/wiki/stocks/noncontrolling-interest-valuation)

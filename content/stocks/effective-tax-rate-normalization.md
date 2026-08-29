@@ -14,5 +14,3 @@
 低税率不一定代表公司质量高，可能只是一次性收益或激进税务安排。
 
 估值时建议同时测试不同税率情景，避免目标价完全依赖最低税率。
-
-继续学习：[有效税率正常化](https://xiaoyinsi.com/wiki/stocks/effective-tax-rate-normalization)

@@ -12,5 +12,3 @@ Color 描述 Gamma 随时间变化的速度。它是更高阶希腊值，常用�
 - 财报后短期期权。
 
 如果你持有短期期权，只看当前 Gamma 不够，还要知道它会随时间快速变化。
-
-继续学习：[Color 希腊值](https://xiaoyinsi.com/wiki/options/color-greek)

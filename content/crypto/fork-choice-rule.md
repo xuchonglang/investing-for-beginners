@@ -10,5 +10,3 @@ Fork Choice Rule 是节点在看到多条可能链时，选择哪一条作为规
 - 最终性如何逐步形成。
 
 新手不需要记所有算法，但要知道区块链不是“永远只有一条链”。节点需要共同规则来处理延迟、竞争出块和分叉。
-
-继续学习：[Fork Choice Rule](https://xiaoyinsi.com/wiki/crypto/fork-choice-rule)

@@ -2,8 +2,6 @@
 
 [中文](README.md) | English
 
-[![Website](https://img.shields.io/badge/Website-xiaoyinsi.com-111827)](https://xiaoyinsi.com/)
-[![Wiki](https://img.shields.io/badge/Investment%20Wiki-Xiaoyinsi-2563eb)](https://xiaoyinsi.com/wiki)
 [![License](https://img.shields.io/badge/License-Proprietary-b91c1c)](LICENSE.md)
 ![Version](https://img.shields.io/badge/Version-V0.2-0ea5e9)
 
@@ -36,8 +34,25 @@ Studying both markets gives beginners a broader map: one side is company ownersh
 | [English Home](en/README.md) | English entry point for the bilingual repository |
 | [Beginner Guide](en/guides/investing-for-beginners.md) | A concise English version of the investment beginner guide |
 | [Glossary](en/glossary/README.md) | English glossary for core investment, options, and crypto terms |
-| [English Content Index](en/content/README.md) | English mirror structure for wiki-derived articles |
+| [English Content Index](en/content/README.md) | English mirror structure for reference articles |
 | [Chinese Content Index](content/README.md) | Current full Chinese content index |
+
+## Tools and trading platforms
+
+Use market-data tools to learn first, then choose a trading platform based on regional availability, fees, product access, custody, and risk.
+
+| Platform | Category | Typical use | Link |
+| --- | --- | --- | --- |
+| TradingView | Charts and market data | Charts, indicators, watchlists, and price alerts | [Open TradingView](https://link.xuchonglang.com/tv) |
+| 致富证券 | U.S. stocks | U.S. stocks, ETFs, and related securities | [Learn more](https://link.xuchonglang.com/zf) |
+| moomoo | U.S. stocks | Market data, company research, and securities trading | [Open moomoo](https://link.xuchonglang.com/mm) |
+| OKX | Crypto | Spot, derivatives, deposits, and withdrawals | [Open OKX](https://link.xuchonglang.com/okx) |
+| Binance | Crypto | Spot, derivatives, and crypto services | [Open Binance](https://link.xuchonglang.com/bn) |
+| Bitget | Crypto | Spot and derivatives trading | [Open Bitget](https://link.xuchonglang.com/bg) |
+| Bybit | Crypto | Spot and derivatives trading | [Open Bybit](https://link.xuchonglang.com/bb) |
+| Polymarket | Prediction market | Event probabilities and market expectations | [Open Polymarket](https://link.xuchonglang.com/pm) |
+
+> Affiliate disclosure: some links above are referral or commission links, and the author may benefit from qualifying registrations or activity. Do not choose a platform because of the referral alone. Verify local availability, regulation, fees, product access, and risk independently.
 
 ## Repository structure
 
@@ -46,7 +61,7 @@ Studying both markets gives beginners a broader map: one side is company ownersh
 ├── README.md            Chinese homepage
 ├── README.en.md         English homepage
 ├── assets/              Images and static assets shared by both languages
-├── content/             Chinese wiki-derived articles
+├── content/             Chinese investment reference articles
 ├── guides/              Chinese long-form guides
 ├── glossary/            Chinese glossary
 ├── en/                  English mirror content
@@ -56,8 +71,8 @@ Studying both markets gives beginners a broader map: one side is company ownersh
 
 ## Copyright
 
-Unless otherwise stated, all articles, glossary entries, data structures, images, tables, and other content in this repository are proprietary assets of Xiaoyinsi.
+Unless otherwise stated, all articles, glossary entries, data structures, images, tables, and other content in this repository are proprietary assets.
 
-You may share original links to this repository and official Xiaoyinsi pages. Copying, mirroring, bulk scraping, adaptation, commercial use, AI training, or third-party knowledge-base construction is not allowed without written permission.
+You may share original links to this repository. Copying, mirroring, bulk scraping, adaptation, commercial use, AI training, or third-party knowledge-base construction is not allowed without written permission.
 
-Copyright © 2026 Xiaoyinsi. All Rights Reserved.
+Copyright © 2026 the repository copyright holder. All Rights Reserved.

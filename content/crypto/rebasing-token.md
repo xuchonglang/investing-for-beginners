@@ -12,5 +12,3 @@ Rebasing Token 会自动调整用户钱包中的代币数量，使供应量随�
 新手不要只看“余额变多”。真正要看市值、购买力和机制是否可持续。
 
 如果一个代币靠不断改变数量制造收益感，就要特别小心。
-
-继续学习：[Rebasing Token](https://xiaoyinsi.com/wiki/crypto/rebasing-token)

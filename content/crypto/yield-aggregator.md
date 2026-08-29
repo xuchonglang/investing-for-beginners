@@ -13,5 +13,3 @@ Yield Aggregator 会自动把资金分配到不同 DeFi 收益策略中，帮助
 新手不要因为“自动优化收益”就忽略底层。聚合器只是把复杂度打包，不会消除风险。
 
 投钱前要看策略投向、历史回撤、审计、权限和退出路径。
-
-继续学习：[Yield Aggregator](https://xiaoyinsi.com/wiki/crypto/yield-aggregator)

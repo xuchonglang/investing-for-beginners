@@ -10,5 +10,3 @@
 - 风险偏好下降时，股票和加密资产波动加大。
 
 新手不用把 QT 当成单独卖出信号，但要把它放进宏观背景。如果 QT、加息、美元走强和盈利下修同时出现，组合仓位应该更保守。
-
-继续学习：[量化紧缩](https://xiaoyinsi.com/wiki/stocks/quantitative-tightening)

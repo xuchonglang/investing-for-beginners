@@ -13,5 +13,3 @@
 7. 退出条件是否已经写好。
 
 如果一笔期权交易无法用几句话说明为什么开、错了亏多少、什么时候走，就不要开仓。
-
-继续学习：[期权开仓检查清单](https://xiaoyinsi.com/wiki/options/option-entry-checklist)

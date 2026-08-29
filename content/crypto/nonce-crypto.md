@@ -9,5 +9,3 @@ Nonce 是账户交易序号，用来保证同一账户的交易按顺序执行�
 - 手动设置 Nonce 错误会导致交易失败或覆盖。
 
 新手遇到钱包交易卡住时，不要连续乱发交易。先查看当前 Nonce、Gas 设置和交易状态，再决定加速或取消。
-
-继续学习：[Nonce](https://xiaoyinsi.com/wiki/crypto/nonce-crypto)

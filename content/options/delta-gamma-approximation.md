@@ -10,5 +10,3 @@ Delta-Gamma 近似用 Delta 和 Gamma 估算标的价格变化对期权组合的
 适用场景包括快速压力测试、估算小幅价格变化下的组合盈亏、理解为什么期权不是线性资产。
 
 局限是它没有完整考虑 IV、时间、跳空和大幅价格变化。
-
-继续学习：[Delta-Gamma 近似](https://xiaoyinsi.com/wiki/options/delta-gamma-approximation)

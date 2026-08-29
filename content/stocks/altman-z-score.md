@@ -19,5 +19,3 @@ Altman Z-Score 是用多个财务指标组合评估公司财务压力的模型�
 3. 对金融公司、轻资产软件公司要谨慎使用，因为模型适用性不同。
 
 低分不代表马上破产，高分也不代表没有风险。它更适合帮助你避开财务结构明显恶化的公司。
-
-继续学习：[Altman Z-Score](https://xiaoyinsi.com/wiki/stocks/altman-z-score)

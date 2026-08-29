@@ -13,5 +13,3 @@ Calendar Arbitrage 指利用不同到期日期权之间的价格关系异常来�
 新手看到期限结构异常时，先不要急着下套利单。更实用的是把它当成检查报价、事件预期和流动性的线索。
 
 真正的套利需要低成本成交、清楚资金占用，并能处理行权和指派。
-
-继续学习：[Calendar Arbitrage](https://xiaoyinsi.com/wiki/options/calendar-arbitrage)

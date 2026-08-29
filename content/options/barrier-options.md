@@ -18,5 +18,3 @@
 4. 极端波动时是否可能瞬间失效？
 
 障碍期权常让票面收益更好看，但复杂条件通常对应隐藏风险。
-
-继续学习：[Barrier Options](https://xiaoyinsi.com/wiki/options/barrier-options)

@@ -11,5 +11,3 @@ Lambda 衡量期权价格相对标的价格变化的弹性，也可以理解为�
 - 杠杆越高，仓位越要小。
 
 买期权前，不要只看“便宜”，要看它为什么便宜，以及需要多大行情才赚钱。
-
-继续学习：[Lambda 希腊值](https://xiaoyinsi.com/wiki/options/lambda-greek)

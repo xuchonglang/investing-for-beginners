@@ -16,5 +16,3 @@
 养老金费用不等于现金缴款。会计利润可能平稳，但未来现金支出压力上升。
 
 估值时应把必要缴款纳入自由现金流，而不是只看当年利润表费用。
-
-继续学习：[养老金 Funded Status](https://xiaoyinsi.com/wiki/stocks/pension-funded-status)

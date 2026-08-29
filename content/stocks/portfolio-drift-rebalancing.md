@@ -15,5 +15,3 @@
 再平衡不是预测谁会涨，而是把风险拉回计划范围。
 
 不必每次精确恢复目标比例，设置区间能减少无意义交易和税费损耗。
-
-继续学习：[投资组合漂移与再平衡](https://xiaoyinsi.com/wiki/stocks/portfolio-drift-rebalancing)

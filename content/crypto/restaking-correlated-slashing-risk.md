@@ -14,5 +14,3 @@
 多个 AVS 不等于风险分散。它们可能共享同一个故障来源。
 
 把再质押当作高风险收益资产管理，仓位要能承受底层资产下跌、LRT 折价和罚没同时发生。
-
-继续学习：[再质押关联罚没风险](https://xiaoyinsi.com/wiki/crypto/restaking-correlated-slashing-risk)

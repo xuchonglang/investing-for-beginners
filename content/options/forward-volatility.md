@@ -9,5 +9,3 @@ Forward Volatility 指市场隐含的未来某段时间波动率。例如从 30 
 - 日历价差或对角价差是否有相对价值。
 
 新手不用手算复杂公式，但要理解：不同到期日 IV 不同，代表市场对不同时间窗口风险的定价不同。
-
-继续学习：[Forward Volatility](https://xiaoyinsi.com/wiki/options/forward-volatility)

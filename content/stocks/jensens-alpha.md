@@ -12,5 +12,3 @@ Jensen's Alpha 衡量一个组合在考虑市场风险后，是否获得了超�
 4. 费用会吞掉真实 Alpha。
 
 不要把高收益直接当成能力，先看它是不是靠更高风险换来的。
-
-继续学习：[Jensen's Alpha](https://xiaoyinsi.com/wiki/stocks/jensens-alpha)

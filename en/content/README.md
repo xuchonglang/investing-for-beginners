@@ -40,4 +40,4 @@ Each English article should include:
 - a short practical explanation;
 - a beginner-friendly checklist;
 - a risk warning;
-- a link back to the Chinese source and the Xiaoyinsi wiki page.
+- a link back to the Chinese source.

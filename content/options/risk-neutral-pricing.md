@@ -11,5 +11,3 @@
 3. 风险中性概率不等于现实世界概率。
 
 这能帮助你避免误解“期权市场认为某事概率是多少”。
-
-继续学习：[风险中性定价](https://xiaoyinsi.com/wiki/options/risk-neutral-pricing)

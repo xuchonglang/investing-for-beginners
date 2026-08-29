@@ -16,5 +16,3 @@ Tender Offer 期间，期权持有人通常不能直接把期权提交参加要�
 Call 持有人不会自动参加要约，Short Put 也不会因为有要约价就安全。
 
 要约场景下，时间、结算和券商流程本身就是风险。
-
-继续学习：[要约收购期间期权处理](https://xiaoyinsi.com/wiki/options/tender-offer-options-handling)

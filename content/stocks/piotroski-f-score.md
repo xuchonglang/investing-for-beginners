@@ -9,5 +9,3 @@ Piotroski F-Score 用 9 个财务信号评估公司质量，常用于筛选价�
 - 经营效率是否提升。
 
 新手可以把它当作价值陷阱过滤器。低估值公司很多，但如果盈利、现金流、负债和股数同时恶化，便宜可能有原因。
-
-继续学习：[Piotroski F-Score](https://xiaoyinsi.com/wiki/stocks/piotroski-f-score)

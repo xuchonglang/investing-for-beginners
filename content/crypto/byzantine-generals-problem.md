@@ -11,5 +11,3 @@
 - BFT 类系统用投票和容错阈值解决。
 
 它不是抽象哲学，而是区块链安全的底层问题。
-
-继续学习：[拜占庭将军问题](https://xiaoyinsi.com/wiki/crypto/byzantine-generals-problem)

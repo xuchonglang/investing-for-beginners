@@ -7,5 +7,3 @@ Fama-French 模型在市场因子之外，加入规模、价值、盈利能力�
 常见因子包括小盘、价值、盈利质量、投资保守程度和动量。
 
 如果组合长期跑赢，要问是个股判断好，还是刚好押中了成长、动量或大盘科技风格。
-
-继续学习：[Fama-French 因子模型](https://xiaoyinsi.com/wiki/stocks/fama-french-factor-model)

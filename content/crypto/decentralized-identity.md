@@ -17,5 +17,3 @@
 4. 项目可能把 DID 包装成代币叙事。
 
 新手可以把 DID 理解为“链上身份和声誉工具”，但不要因为概念宏大就忽略真实采用、隐私边界和商业模式。
-
-继续学习：[去中心化身份](https://xiaoyinsi.com/wiki/crypto/decentralized-identity)

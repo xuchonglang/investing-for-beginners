@@ -13,5 +13,3 @@ Skew 反映不同执行价的隐含波动率差异。
 Skew 高不等于一定该卖，可能说明市场正在给尾部风险定价。
 
 实操上，把候选行权价的 IV、Delta、盈亏平衡点和最大损失放在一起比较，不要只选权利金最高的一档。
-
-继续学习：[Skew 调整后的行权价选择](https://xiaoyinsi.com/wiki/options/skew-adjusted-strike-selection)

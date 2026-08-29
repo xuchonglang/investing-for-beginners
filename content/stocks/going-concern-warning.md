@@ -16,5 +16,3 @@ Going Concern 警告表示公司未来持续经营能力存在重大疑虑。
 持续经营警告不等于马上破产，但它说明普通估值框架可能暂时失效。
 
 资金到账、债务正式重组或经营现金流改善之前，不要把管理层计划当作事实。
-
-继续学习：[Going Concern 持续经营警告](https://xiaoyinsi.com/wiki/stocks/going-concern-warning)

@@ -15,5 +15,3 @@
 估值备抵释放可能让利润突然变好，但这不一定代表主营业务改善。
 
 新手要把 DTA 当作有条件资产，而不是直接等同现金加入股权价值。
-
-继续学习：[递延所得税资产](https://xiaoyinsi.com/wiki/stocks/deferred-tax-assets)

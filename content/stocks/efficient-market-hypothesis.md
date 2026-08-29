@@ -10,5 +10,3 @@
 4. 想主动投资，必须知道自己的优势在哪里。
 
 真正的优势可能来自更长期视角、更好风险控制、更深行业理解，或更低行为错误。
-
-继续学习：[有效市场假说](https://xiaoyinsi.com/wiki/stocks/efficient-market-hypothesis)

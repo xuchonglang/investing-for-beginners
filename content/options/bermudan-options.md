@@ -13,5 +13,3 @@ Bermudan Option 介于美式和欧式期权之间：它不能随时行权，但�
 看这类产品时，要确认行权日期、结算方式、是否自动行权、提前赎回条件和流动性。
 
 行权机会越多，期权价值通常越高，但结构也更复杂。新手不要把它当成普通交易所期权处理。
-
-继续学习：[Bermudan Options](https://xiaoyinsi.com/wiki/options/bermudan-options)

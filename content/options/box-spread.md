@@ -13,5 +13,3 @@ Box Spread 通过同时构造牛市价差和熊市价差，理论上形成接近
 新手不要看到“无风险套利”就尝试。很多 Box Spread 的事故不是公式错了，而是交易规则、行权机制和保证金约束被忽略。
 
 如果不能逐腿解释现金流和最坏情况，就不要下单。
-
-继续学习：[Box Spread](https://xiaoyinsi.com/wiki/options/box-spread)

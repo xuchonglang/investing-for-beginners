@@ -2,8 +2,10 @@
 
 现货交易获得实际代币或平台托管余额；合约交易获得价格敞口，通常不拥有对应链上资产。
 
-完整词条：[加密现货和合约有什么区别？](https://xiaoyinsi.com/wiki/crypto/spot-vs-futures-crypto)
-
 合约可做多、做空和使用杠杆，还包含资金费率、标记价格、保证金和清算风险。现货没有合约强平，但资产价格仍可能大跌，并承担托管或钱包风险。
 
 新手不能把“投入保证金较少”理解成损失较小，合约名义仓位才决定价格波动造成的盈亏。
+
+准备比较现货和合约界面时，可以查看 [OKX](https://link.xuchonglang.com/okx)、[Binance](https://link.xuchonglang.com/bn)、[Bitget](https://link.xuchonglang.com/bg) 或 [Bybit](https://link.xuchonglang.com/bb)。重点比较真实手续费、资金费率、标记价格、保证金模式和强平规则，而不是最大杠杆倍数。
+
+> 上述入口包含推广或返佣链接。新手应优先理解现货与合约风险，不要为了领取奖励或返佣使用杠杆。

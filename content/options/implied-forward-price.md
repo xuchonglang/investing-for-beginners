@@ -10,5 +10,3 @@
 - 比较不同到期日价格关系。
 
 如果 Call 和 Put 的价格关系不符合直觉，可能不是套利，而是股息、利率或借券成本在起作用。
-
-继续学习：[隐含远期价格](https://xiaoyinsi.com/wiki/options/implied-forward-price)

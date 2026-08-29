@@ -13,5 +13,3 @@
 不要直接用新股价和旧行权价比较盈亏。
 
 反向拆股后的期权最容易出错的是合约乘数、交割物和报价理解。先确认合约实际代表什么，再处理仓位。
-
-继续学习：[反向拆股后的期权调整](https://xiaoyinsi.com/wiki/options/reverse-split-adjusted-options-playbook)

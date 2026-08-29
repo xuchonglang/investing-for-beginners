@@ -10,5 +10,3 @@ Rollup 是一种 Layer 2 扩容方案，把大量交易放到链下执行，再�
 新手看 Rollup 时，不要只看手续费低。还要看排序器是否中心化、提现需要多久、数据发布在哪里、是否有逃生机制、合约是否可升级。
 
 Rollup 是扩容方案，但每个实现的安全假设并不一样。
-
-继续学习：[Rollup](https://xiaoyinsi.com/wiki/crypto/rollup)

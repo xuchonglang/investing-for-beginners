@@ -7,5 +7,3 @@ Verkle Tree 是一种更高效的状态承诺结构，目标是让证明更小�
 新手可以理解为：它不是直接改变币价的概念，而是底层扩容和验证效率工具。
 
 看这类技术升级时，要关注它解决什么瓶颈、是否已上线、对节点和用户有什么实际影响。
-
-继续学习：[Verkle Tree](https://xiaoyinsi.com/wiki/crypto/verkle-tree)

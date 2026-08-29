@@ -10,5 +10,3 @@ IRR 是让项目净现值等于 0 的折现率，用来衡量投资项目的年�
 - 不同期限项目直接比较会有偏差。
 
 新手可以把 IRR 和 NPV 一起看。真正重要的是项目创造多少价值，而不只是百分比看起来多高。
-
-继续学习：[内部收益率](https://xiaoyinsi.com/wiki/stocks/internal-rate-of-return)

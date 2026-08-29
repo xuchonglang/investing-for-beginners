@@ -10,5 +10,3 @@
 4. Alpha 要在风险调整后看。
 
 新手不用拿 SML 精确定价，但它能帮助你问一个关键问题：我承担的风险，是否得到足够补偿？
-
-继续学习：[证券市场线](https://xiaoyinsi.com/wiki/stocks/security-market-line)

@@ -12,5 +12,3 @@ Shared Sequencer 让多个 Rollup 共享排序服务，目标是改善跨 Rollup
 风险是共享基础设施本身也可能形成新的集中点。
 
 新手看这类项目时，要问：谁运营排序器？如何惩罚作恶？故障时用户如何退出？
-
-继续学习：[Shared Sequencer](https://xiaoyinsi.com/wiki/crypto/shared-sequencer)

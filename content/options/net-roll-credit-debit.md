@@ -15,5 +15,3 @@
 收到 Credit 不代表一定划算，可能只是用更长时间、更低行权价或更大尾部风险换来的。
 
 支付 Debit 也不一定错误，关键是它是否换来更好的风险回报，比如更高行权价、更低风险或更合理的到期结构。
-
-继续学习：[滚仓净 Credit 与 Debit](https://xiaoyinsi.com/wiki/options/net-roll-credit-debit)

@@ -1,8 +1,8 @@
-# Xiaoyinsi Investing Guide
+# Investing Guide
 
 [中文首页](../README.md) | [English README](../README.en.md)
 
-This directory is the English mirror of the Xiaoyinsi investing guide repository.
+This directory is the English mirror of the investing guide repository.
 
 The Chinese version remains the source of truth for now. English pages follow the same structure and, where possible, the same slugs, so every Chinese article can have a stable English counterpart in the same repository.
 
@@ -12,7 +12,7 @@ The Chinese version remains the source of truth for now. English pages follow th
 | --- | --- | --- |
 | Beginner guide | [guides/investing-for-beginners.md](guides/investing-for-beginners.md) | [guides/投资入门指南.md](../guides/投资入门指南.md) |
 | Glossary | [glossary/README.md](glossary/README.md) | [glossary/README.md](../glossary/README.md) |
-| Wiki-derived content | [content/README.md](content/README.md) | [content/README.md](../content/README.md) |
+| Reference content | [content/README.md](content/README.md) | [content/README.md](../content/README.md) |
 
 ## Path convention
 

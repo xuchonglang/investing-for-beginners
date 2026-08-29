@@ -13,5 +13,3 @@
 5. 极端行情下清算是否拥堵。
 
 清算奖励越高，仓位接近清算线时越危险。
-
-继续学习：[清算奖励](https://xiaoyinsi.com/wiki/crypto/liquidation-bonus)

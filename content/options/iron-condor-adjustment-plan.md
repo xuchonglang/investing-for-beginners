@@ -10,5 +10,3 @@ Iron Condor 调整的目标不是把亏损神奇变盈利，而是控制最大�
 4. 缩小仓位，不要越调越大。
 
 调整前先问：如果现在没有仓位，我会重新开这笔交易吗？如果答案是否定，平仓往往比“修复”更好。
-
-继续学习：[Iron Condor 调整计划](https://xiaoyinsi.com/wiki/options/iron-condor-adjustment-plan)

@@ -9,5 +9,3 @@ Protocol Owned Liquidity 指协议自己拥有流动性，而不是完全依赖�
 - 更容易长期维护交易深度。
 
 风险是金库资产可能承受无常损失，治理也可能错误配置资金。
-
-继续学习：[Protocol Owned Liquidity](https://xiaoyinsi.com/wiki/crypto/protocol-owned-liquidity)

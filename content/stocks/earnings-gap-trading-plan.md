@@ -13,5 +13,3 @@
 财报跳空交易的重点不是猜对方向，而是避免在波动最大、流动性最差、情绪最冲动的时候失控。
 
 没有明确计划时，最好的交易就是不交易。
-
-继续学习：[财报跳空交易计划](https://xiaoyinsi.com/wiki/stocks/earnings-gap-trading-plan)

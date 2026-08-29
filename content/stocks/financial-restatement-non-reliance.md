@@ -14,5 +14,3 @@ Non-Reliance 表示公司过去某些财务报表不应继续作为决策依据�
 重述不只是会计形式问题。它可能改变估值基础、融资能力和管理层可信度。
 
 在正式修订文件发布前，不要继续用旧报表做精细估值。
-
-继续学习：[财务重述与 Non-Reliance](https://xiaoyinsi.com/wiki/stocks/financial-restatement-non-reliance)

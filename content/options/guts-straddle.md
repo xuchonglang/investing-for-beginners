@@ -10,5 +10,3 @@ Guts Straddle 通常由买入实值 Call 和实值 Put 组成，也可以有卖�
 - 盈亏结构需要单独计算。
 
 新手不要只看名字。做任何跨式类策略前，都要算清盈亏平衡点、IV Crush、时间损耗和最大风险。
-
-继续学习：[Guts Straddle](https://xiaoyinsi.com/wiki/options/guts-straddle)

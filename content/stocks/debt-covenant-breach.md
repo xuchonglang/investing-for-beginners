@@ -16,5 +16,3 @@
 Waiver 只是暂时豁免，不等于问题永久解决。
 
 如果 EBITDA 继续下降或再融资困难，违约风险可能只是被延后。
-
-继续学习：[债务契约违约](https://xiaoyinsi.com/wiki/stocks/debt-covenant-breach)

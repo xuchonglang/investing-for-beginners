@@ -11,5 +11,3 @@
 5. 如果愿意持有，纳入股票仓位管理。
 
 卖 Put 前就要问：如果明天被迫买 100 股，我开心吗？如果答案是否定，就不该开仓。
-
-继续学习：[卖 Put 指派处理手册](https://xiaoyinsi.com/wiki/options/short-put-assignment-playbook)

@@ -18,5 +18,3 @@ Autocallable Notes 是一种结构化票据，通常承诺较高票息，但如�
 5. 发行方信用风险和流动性。
 
 不要只看年化票息。很多结构化票据本质上是把复杂期权卖方风险包装成固定收益外观。
-
-继续学习：[Autocallable Notes](https://xiaoyinsi.com/wiki/options/autocallable-notes)

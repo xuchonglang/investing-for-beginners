@@ -10,5 +10,3 @@ State Root 是区块链状态的哈希摘要，用来代表某个区块后的完
 - 数据篡改会被哈希结构发现。
 
 新手可以把 State Root 理解为整个链状态的“指纹”。
-
-继续学习：[State Root](https://xiaoyinsi.com/wiki/crypto/state-root)

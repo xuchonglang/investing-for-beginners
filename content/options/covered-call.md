@@ -2,8 +2,6 @@
 
 备兑开仓由“持有 100 股正股 + 卖出 1 张 Call”组成。投资者收取权利金，并接受股票上涨超过行权价后可能被按行权价卖出的结果。
 
-完整词条：[备兑开仓 Covered Call](https://xiaoyinsi.com/wiki/options/covered-call)
-
 ## 收益和代价来自哪里？
 
 - 股价低于行权价：Call 可能到期失效，投资者保留权利金和股票；

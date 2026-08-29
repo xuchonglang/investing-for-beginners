@@ -15,5 +15,3 @@ Cancel/Replace 是撤销原订单并提交新价格，但原订单在确认撤�
 Pending Cancel 不代表订单已经失效。
 
 期权调价的目标是改善成交，不是让追价破坏原本的风险回报。
-
-继续学习：[期权限价单 Cancel/Replace](https://xiaoyinsi.com/wiki/options/option-cancel-replace-order)

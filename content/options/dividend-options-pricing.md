@@ -12,5 +12,3 @@
 4. 高股息股票的期权不能只看方向。
 
 新手做 Covered Call 或持有实值 Call 时，要提前查除息日和股息金额。否则可能遇到意外指派，或发现理论价格和直觉不一致。
-
-继续学习：[股息与期权定价](https://xiaoyinsi.com/wiki/options/dividend-options-pricing)

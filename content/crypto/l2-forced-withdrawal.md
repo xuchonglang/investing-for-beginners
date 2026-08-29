@@ -15,5 +15,3 @@ Forced Withdrawal或Escape Hatch允许用户在特定故障下通过L1请求退�
 不要把单一指标当成结论。更稳妥的做法，是把它放回具体场景中：发生了什么、谁承担风险、现金或资产如何变化、最坏情况下会损失多少。
 
 链上风险通常不是单一价格波动，而是合约、权限、流动性和操作流程叠加。
-
-继续学习：[L2强制提款是什么？前端和Sequencer失效时如何退出Rollup](https://xiaoyinsi.com/wiki/crypto/l2-forced-withdrawal)

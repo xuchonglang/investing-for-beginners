@@ -18,5 +18,3 @@ Covered Strangle 通常是在持有股票的同时，卖出一个虚值 Call 和
 5. 下跌时是否有现金接股。
 
 Covered Strangle 的核心不是预测震荡，而是预先接受两边被动成交的结果。
-
-继续学习：[Covered Strangle](https://xiaoyinsi.com/wiki/options/covered-strangle)

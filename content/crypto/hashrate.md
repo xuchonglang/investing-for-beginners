@@ -11,5 +11,3 @@ Hashrate 是 PoW 网络中矿工计算哈希的总能力。算力越高，攻击
 - 币价下跌时矿工是否关机。
 
 算力上升通常代表网络安全预算增强，但不等于币价一定上涨。它应和费用收入、减半周期、矿工持仓和市场需求一起看。
-
-继续学习：[Hashrate](https://xiaoyinsi.com/wiki/crypto/hashrate)

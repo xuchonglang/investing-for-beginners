@@ -15,5 +15,3 @@ DSO 衡量公司把销售变成现金平均需要多少天。
 DSO 上升不等于公司造假，但它是一个调查信号。
 
 好收入最终应该变成现金。如果收入增长很漂亮，现金却迟迟回不来，估值就要更保守。
-
-继续学习：[DSO 应收账款周转天数](https://xiaoyinsi.com/wiki/stocks/days-sales-outstanding)

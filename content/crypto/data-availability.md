@@ -7,5 +7,3 @@
 新手看 L2 项目时，不要只看 TPS 和手续费，还要问数据发布在哪里：以太坊主网、专用 DA 层，还是委员会。
 
 数据越难被独立验证，用户越依赖运营方和外部假设。
-
-继续学习：[数据可用性](https://xiaoyinsi.com/wiki/crypto/data-availability)

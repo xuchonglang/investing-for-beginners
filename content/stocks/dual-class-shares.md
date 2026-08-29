@@ -12,5 +12,3 @@
 4. 少数股东利益是否被尊重。
 
 控制权越集中，越需要相信控制人的能力、诚信和长期纪律。
-
-继续学习：[双重股权结构](https://xiaoyinsi.com/wiki/stocks/dual-class-shares)

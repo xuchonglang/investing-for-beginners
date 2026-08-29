@@ -16,5 +16,3 @@ Dollar Delta 把期权 Delta 换算成标的每变动 1 美元时，组合大约
 4. 不用 Delta 替代最大损失和压力测试。
 
 净 Delta 接近 0 不等于无风险，因为还可能有 Gamma、Vega、Theta、跳空和流动性风险。
-
-继续学习：[期权组合 Dollar Delta](https://xiaoyinsi.com/wiki/options/portfolio-dollar-delta)

@@ -18,5 +18,3 @@
 13D 不等于公司一定被收购，13G 也不是完全没意义。
 
 交易前仍要独立估值，并评估行动失败、退出和时间成本。
-
-继续学习：[Schedule 13D 与 13G](https://xiaoyinsi.com/wiki/stocks/schedule-13d-vs-13g)

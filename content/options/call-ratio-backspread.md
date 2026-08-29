@@ -17,5 +17,3 @@ Call Ratio Backspread 通常是卖出较少数量的低执行价 Call，再买�
 5. 多腿组合是否容易成交和平仓。
 
 这个策略不是普通“买 Call”的替代品。它更适合你认为标的不是小涨，而是可能大幅跳涨的场景。
-
-继续学习：[Call Ratio Backspread](https://xiaoyinsi.com/wiki/options/call-ratio-backspread)

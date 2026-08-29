@@ -11,5 +11,3 @@ Breeden-Litzenberger 公式说明，可以从不同行权价期权价格中推�
 - 极端执行价数据可能噪声很大。
 
 它更适合帮助理解期权曲面，而不是直接当交易信号。
-
-继续学习：[Breeden-Litzenberger 公式](https://xiaoyinsi.com/wiki/options/breeden-litzenberger-formula)

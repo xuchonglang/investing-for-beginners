@@ -2,8 +2,6 @@
 
 市盈率（P/E）通常等于公司市值除以净利润，或每股价格除以每股收益 EPS，表示市场愿意为当前每一单位盈利支付多少价格。
 
-完整词条：[市盈率 PE 是什么？](https://xiaoyinsi.com/wiki/stocks/pe-ratio)
-
 `PE = 股价 ÷ EPS`
 
 Trailing PE 使用过去盈利，Forward PE 使用分析师预测。两者口径不同，不能直接混用。

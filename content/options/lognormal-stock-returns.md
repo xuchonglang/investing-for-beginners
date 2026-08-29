@@ -10,5 +10,3 @@
 - 下跌尾部往往更厚。
 
 新手学习这个假设，是为了知道模型哪里可能失效。卖期权、杠杆和风险平价策略都特别怕尾部比模型更肥。
-
-继续学习：[对数正态股票收益](https://xiaoyinsi.com/wiki/options/lognormal-stock-returns)

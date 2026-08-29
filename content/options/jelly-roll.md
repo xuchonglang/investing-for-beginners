@@ -12,5 +12,3 @@ Jelly Roll 是利用不同行权价、不同到期日的期权组合，交易隐
 4. 券商保证金规则可能改变收益。
 
 它更适合专业交易者。普通投资者了解即可，不必为了“套利”参与。
-
-继续学习：[Jelly Roll](https://xiaoyinsi.com/wiki/options/jelly-roll)

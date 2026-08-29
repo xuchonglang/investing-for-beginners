@@ -11,5 +11,3 @@
 5. 代币是否真的捕获价值。
 
 很多协议手续费很高，但代币没有分成、没有销毁、也没有治理现金流权利。
-
-继续学习：[协议收入和手续费](https://xiaoyinsi.com/wiki/crypto/revenue-fee-protocol)

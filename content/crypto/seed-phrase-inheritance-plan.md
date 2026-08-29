@@ -14,5 +14,3 @@
 不要把助记词直接写进遗嘱正文，也不要假设家人拿到硬件钱包就能访问资产。
 
 DeFi 杠杆仓位不适合作为无人管理遗产，因为等待法律流程期间可能被清算。
-
-继续学习：[助记词遗产计划](https://xiaoyinsi.com/wiki/crypto/seed-phrase-inheritance-plan)

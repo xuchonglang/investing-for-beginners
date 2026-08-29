@@ -15,5 +15,3 @@ No-Trade Zone 是提前写好的“不交易条件”，用来过滤低质量期
 不交易不是错过机会，而是保留风险预算。
 
 期权市场每天都有新机会，真正伤账户的是在没有价格优势、没有风控数字、没有退出计划时硬下单。
-
-继续学习：[期权 No-Trade Zone](https://xiaoyinsi.com/wiki/options/option-trade-no-trade-zone)

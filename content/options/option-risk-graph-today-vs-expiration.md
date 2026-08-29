@@ -15,5 +15,3 @@
 财报期权尤其不能只看到期线。事件后 IV 下降，方向看对也可能亏钱。
 
 风险图是估算工具，不是价格预测。
-
-继续学习：[期权风险图 Today 与 Expiration](https://xiaoyinsi.com/wiki/options/option-risk-graph-today-vs-expiration)

@@ -10,5 +10,3 @@
 - 跳空和离散对冲会产生误差。
 
 新手不需要实盘复制，但要知道：波动率定价不是看一个平值 IV，而是整条期权链共同决定。
-
-继续学习：[方差互换复制](https://xiaoyinsi.com/wiki/options/variance-swap-replication)

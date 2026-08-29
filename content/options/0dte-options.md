@@ -2,8 +2,6 @@
 
 0DTE 是 Zero Days to Expiration 的缩写，通常指当天到期的期权。它的剩余时间接近零，价格对标的短期变化极其敏感，既可能快速上涨，也可能在很短时间内失去大部分价值。
 
-完整词条：[0DTE 期权是什么？](https://xiaoyinsi.com/wiki/options/0dte-options)
-
 ## 0DTE 为什么波动剧烈？
 
 临近到期时，平值附近期权的 Delta 可能随标的价格快速改变，这种敏感度由 Gamma 描述。同时，剩余时间不断归零，Theta 时间衰减会明显加速。

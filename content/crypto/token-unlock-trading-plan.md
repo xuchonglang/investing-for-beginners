@@ -11,5 +11,3 @@
 5. 自己的入场、止损和退出条件。
 
 更稳妥的是把解锁当作风险事件，提前降低仓位或等待市场反应。
-
-继续学习：[代币解锁交易计划](https://xiaoyinsi.com/wiki/crypto/token-unlock-trading-plan)

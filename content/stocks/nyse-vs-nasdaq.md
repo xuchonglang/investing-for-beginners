@@ -10,5 +10,3 @@ NYSE 和 Nasdaq 都是美国主要股票交易所。普通投资者买卖股票�
 - 股票代码在哪个交易所上市，不等于公司质量好坏。
 
 实操上，新手更该关注公司基本面、流动性、买卖价差、财报和估值，而不是只因为股票在 Nasdaq 或 NYSE 上市就做判断。
-
-继续学习：[NYSE 和 Nasdaq](https://xiaoyinsi.com/wiki/stocks/nyse-vs-nasdaq)

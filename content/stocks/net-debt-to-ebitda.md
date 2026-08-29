@@ -19,5 +19,3 @@ Net Debt/EBITDA 用来衡量公司债务压力。
 EBITDA 不是还债现金。一个公司看起来只有 3 倍杠杆，但如果明年债务集中到期，风险仍可能很高。
 
 该指标适合初筛，不能替代现金流和到期墙分析。
-
-继续学习：[Net Debt/EBITDA](https://xiaoyinsi.com/wiki/stocks/net-debt-to-ebitda)

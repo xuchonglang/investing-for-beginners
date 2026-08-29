@@ -11,5 +11,3 @@
 - 地址和签名系统的一部分。
 
 新手可以把哈希理解为“数字指纹”。只要原始数据变一点，哈希结果就会大幅变化。
-
-继续学习：[加密哈希](https://xiaoyinsi.com/wiki/crypto/cryptographic-hash)

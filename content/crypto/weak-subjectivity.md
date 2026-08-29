@@ -11,5 +11,3 @@
 - 社区共识和客户端规则也很重要。
 
 这不是缺陷本身，而是 PoS 安全模型的一部分。
-
-继续学习：[弱主观性](https://xiaoyinsi.com/wiki/crypto/weak-subjectivity)

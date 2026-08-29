@@ -13,5 +13,3 @@
 5. 流动性是否足够。
 
 新手不要因为“合成”听起来更高级就使用。先能完整解释普通 Covered Call，再看合成结构是否有实际优势。
-
-继续学习：[合成 Covered Call](https://xiaoyinsi.com/wiki/options/synthetic-covered-call)

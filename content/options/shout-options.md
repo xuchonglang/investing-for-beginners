@@ -12,5 +12,3 @@ Shout Option 允许持有人在期权有效期内“喊价”锁定一个收益�
 4. 提前退出是否有流动性。
 
 这类结构灵活，但灵活性不是免费的。
-
-继续学习：[Shout Options](https://xiaoyinsi.com/wiki/options/shout-options)

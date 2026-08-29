@@ -12,5 +12,3 @@ Light Client 轻客户端不下载完整区块链数据，而是通过区块头�
 限制是它仍依赖一定安全假设，验证能力不如全节点完整。
 
 新手可以把轻客户端理解为“在便利和完全验证之间的折中”。使用钱包时，越能减少对单一 RPC 的信任，安全性越好。
-
-继续学习：[Light Client](https://xiaoyinsi.com/wiki/crypto/light-client)

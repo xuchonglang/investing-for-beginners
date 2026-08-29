@@ -14,5 +14,3 @@
 一次性重组可以加回，但反复发生的“单次费用”应进入正常化利润。
 
 实操上建立跟踪表：每次计划的费用、现金支出、节省目标和完成时间。没有兑现的节省不应提前计入估值。
-
-继续学习：[重组费用分析](https://xiaoyinsi.com/wiki/stocks/restructuring-charge-analysis)

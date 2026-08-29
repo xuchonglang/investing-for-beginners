@@ -2,7 +2,7 @@
 
 [中文术语表](../../glossary/README.md) | [English Home](../README.md)
 
-This glossary collects core terms from the Xiaoyinsi investing wiki for beginners. It is not a complete dataset and does not grant an open-data license.
+This glossary collects core investing terms for beginners. It is not a complete dataset and does not grant an open-data license.
 
 ## U.S. stocks and company analysis
 

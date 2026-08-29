@@ -2,8 +2,6 @@
 
 Gas 是区块链执行计算和写入状态的资源计量单位，Gas Fee 是用户为这些资源支付的网络费用。复杂合约调用通常比普通转账消耗更多 Gas。
 
-完整词条：[Gas Fee 是什么？](https://xiaoyinsi.com/wiki/crypto/gas-fee)
-
 费用通常同时取决于：
 
 - 交易实际使用的 Gas；

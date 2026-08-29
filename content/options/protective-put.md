@@ -2,8 +2,6 @@
 
 保护性 Put（Protective Put）由“持有正股 + 买入 Put”组成。Put 赋予投资者按行权价卖出股票的权利，因此可以为持仓设置一个到期范围内的最低退出价格。
 
-完整词条：[保护性 Put 是什么？](https://xiaoyinsi.com/wiki/options/protective-put)
-
 ## 它为什么像保险？
 
 投资者支付权利金换取下跌保护：

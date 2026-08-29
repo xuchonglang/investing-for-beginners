@@ -11,5 +11,3 @@ PBS 把区块提议者和区块构建者角色分开，目的是降低 MEV 带�
 新手不用掌握全部机制，但要知道 MEV 会影响交易排序、公平性和验证者经济。
 
 PBS 是降低问题的一种设计，不代表 MEV 消失。
-
-继续学习：[Proposer-Builder Separation](https://xiaoyinsi.com/wiki/crypto/proposer-builder-separation)

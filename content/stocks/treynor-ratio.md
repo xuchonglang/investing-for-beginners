@@ -12,5 +12,3 @@ Treynor Ratio 衡量每承担一单位系统性风险 Beta，获得多少超额�
 4. 短期结果可能受运气影响。
 
 它能帮助你判断收益是不是有效补偿了市场风险。
-
-继续学习：[Treynor Ratio](https://xiaoyinsi.com/wiki/stocks/treynor-ratio)

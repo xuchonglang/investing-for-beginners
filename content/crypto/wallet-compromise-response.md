@@ -11,5 +11,3 @@
 5. 保存交易哈希和可疑链接。
 
 如果助记词已经泄露，撤销授权也不够，必须迁移资产。不要相信“帮你追回资产”的私信，二次诈骗非常常见。
-
-继续学习：[钱包被盗应急](https://xiaoyinsi.com/wiki/crypto/wallet-compromise-response)

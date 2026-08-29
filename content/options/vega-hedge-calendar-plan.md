@@ -10,5 +10,3 @@
 4. 不要只看标的价格是否在区间内。
 
 新手做 Calendar 时，方向没错也可能因 IV 变化亏钱。Vega 计划必须写在开仓前。
-
-继续学习：[Vega 对冲日历价差计划](https://xiaoyinsi.com/wiki/options/vega-hedge-calendar-plan)

@@ -12,5 +12,3 @@
 - 回测必须包含危机时期。
 
 方差风险溢价可以解释卖期权为什么有长期收益来源，也解释为什么它不能重仓无脑做。
-
-继续学习：[方差风险溢价](https://xiaoyinsi.com/wiki/options/variance-risk-premium)

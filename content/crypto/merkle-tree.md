@@ -10,5 +10,3 @@ Merkle Tree 用哈希把大量数据组织成树状结构，只需要少量证�
 - Rollup 和数据证明结构。
 
 新手可以把 Merkle Proof 理解为“无需下载全部名单，也能证明我在名单里”。风险常在前端、签名内容、合约权限和假网站。
-
-继续学习：[Merkle Tree](https://xiaoyinsi.com/wiki/crypto/merkle-tree)

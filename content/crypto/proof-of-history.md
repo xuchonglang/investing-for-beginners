@@ -12,5 +12,3 @@ Proof of History 是一种用于记录事件顺序的加密时钟机制，常与
 - 速度快不等于风险低。
 
 看高性能公链时，要同时看停机历史、验证者分布、硬件要求和生态真实需求。
-
-继续学习：[Proof of History](https://xiaoyinsi.com/wiki/crypto/proof-of-history)

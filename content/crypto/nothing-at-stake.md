@@ -12,5 +12,3 @@ PoS 系统通常通过罚没、最终性和签名规则来降低这个问题。
 4. 质押集中会放大治理和安全风险。
 
 看 PoS 项目时，不要只看 APY，还要看罚没机制、验证者分布和最终性设计。
-
-继续学习：[Nothing-at-Stake](https://xiaoyinsi.com/wiki/crypto/nothing-at-stake)

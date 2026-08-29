@@ -19,5 +19,3 @@
 5. OCC 或券商对合约的处理通知。
 
 不要把收购价当成绝对价格下限。现金并购期权交易的是成功价、失败价和时间风险。
-
-继续学习：[现金收购后的期权定价](https://xiaoyinsi.com/wiki/options/cash-merger-options-pricing)

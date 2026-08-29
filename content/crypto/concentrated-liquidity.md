@@ -13,5 +13,3 @@
 - 手续费能否弥补无常损失。
 
 不要只看累计手续费。复盘时应把仓位净值与直接持有两种资产的结果比较。
-
-[查看小隐寺完整词条：集中流动性](https://xiaoyinsi.com/wiki/crypto/concentrated-liquidity)

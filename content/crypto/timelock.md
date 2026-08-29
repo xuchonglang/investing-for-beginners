@@ -10,5 +10,3 @@ Timelock 是治理或管理员操作生效前的延迟机制。它给用户时�
 - 权限变更。
 
 没有延迟的管理员权限，意味着规则可以很快改变，用户几乎没有反应时间。
-
-继续学习：[Timelock](https://xiaoyinsi.com/wiki/crypto/timelock)

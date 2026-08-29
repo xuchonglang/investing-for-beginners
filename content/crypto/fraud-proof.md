@@ -10,5 +10,3 @@
 4. 用户提现时间可能受挑战期影响。
 
 新手使用 Optimistic Rollup 时，要理解“先乐观相信，再允许挑战”的安全模型。它和 ZK Rollup 的有效性证明不是一回事。
-
-继续学习：[欺诈证明](https://xiaoyinsi.com/wiki/crypto/fraud-proof)

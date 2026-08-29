@@ -11,5 +11,3 @@ SABR 模型常用于利率衍生品和波动率微笑建模。它能描述不同
 - 模型拟合好不代表预测准。
 
 它更多是专业定价工具，不是普通投资者的交易信号。
-
-继续学习：[SABR 模型](https://xiaoyinsi.com/wiki/options/sabr-model)

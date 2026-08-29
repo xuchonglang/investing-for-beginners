@@ -15,5 +15,3 @@
 反向拆股后股价变高，不代表投资回本，也不保证避免退市。
 
 如果公司基本面仍弱、现金继续消耗、授权股数没有同步缩减，后续稀释风险可能更高。
-
-继续学习：[反向拆股事件](https://xiaoyinsi.com/wiki/stocks/reverse-stock-split-event)

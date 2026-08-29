@@ -15,5 +15,3 @@
 不能把租赁负债加入债务，却不调整利润口径；否则估值口径会不一致。
 
 对租赁密集公司，新手至少要问：在收入下滑时，固定租金是否会放大亏损。
-
-继续学习：[经营租赁负债](https://xiaoyinsi.com/wiki/stocks/operating-lease-liabilities)

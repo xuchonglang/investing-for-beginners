@@ -12,5 +12,3 @@
 4. 看美股整体时，标普 500 和全市场指数通常更全面。
 
 道指有新闻意义，但投资分析不要只看它。
-
-继续学习：[道琼斯指数](https://xiaoyinsi.com/wiki/stocks/dow-jones-index)

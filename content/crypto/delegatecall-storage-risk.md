@@ -15,5 +15,3 @@ Delegatecall在调用者上下文执行外部代码。本文说明msg.sender、�
 不要把单一指标当成结论。更稳妥的做法，是把它放回具体场景中：发生了什么、谁承担风险、现金或资产如何变化、最坏情况下会损失多少。
 
 链上风险通常不是单一价格波动，而是合约、权限、流动性和操作流程叠加。
-
-继续学习：[Delegatecall是什么？代码借用为何能改调用者存储](https://xiaoyinsi.com/wiki/crypto/delegatecall-storage-risk)

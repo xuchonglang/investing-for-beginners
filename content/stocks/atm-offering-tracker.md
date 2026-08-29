@@ -16,5 +16,3 @@ ATM Offering 允许公司在市场中分批卖出新股融资。
 每个季度看 10-Q 或 10-K，更新实际股数和净募资。
 
 判断影响时，不只看现金增加，也要同步更新稀释后股数。长期低价 ATM 可能持续压制每股价值。
-
-继续学习：[ATM 增发跟踪](https://xiaoyinsi.com/wiki/stocks/atm-offering-tracker)

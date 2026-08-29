@@ -9,5 +9,3 @@
 - 财报后偏斜可能快速重定价。
 
 新手做期权时，不要只看 IV Rank。还要看自己买卖的是偏斜中哪一侧。卖出“看起来很贵”的 Put，可能是在卖市场最担心的尾部风险。
-
-继续学习：[Skew Dynamics](https://xiaoyinsi.com/wiki/options/skew-dynamics)

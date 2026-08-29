@@ -12,5 +12,3 @@ TGE（Token Generation Event）通常指代币合约部署、分配、领取或�
 - 合约地址与领取入口是否由官方多渠道确认。
 
 低流通、高 FDV 的代币容易在后续解锁中承受卖压。领取时还要防范假网站和恶意授权，先核对域名、链、合约与签名内容。
-
-[查看小隐寺完整词条：TGE](https://xiaoyinsi.com/wiki/crypto/token-generation-event)

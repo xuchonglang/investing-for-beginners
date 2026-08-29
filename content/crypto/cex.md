@@ -2,8 +2,6 @@
 
 CEX（Centralized Exchange）是由公司运营并托管用户资产的中心化交易所，通常提供法币入金、现货、合约和账户恢复等服务。
 
-完整词条：[CEX 是什么？](https://xiaoyinsi.com/wiki/crypto/cex)
-
 用户在交易所账户中看到的余额通常是平台账本负债，而不是自己直接控制的链上地址。便利性来自平台托管，也同时带来：
 
 - 平台偿付和挤兑风险；
@@ -13,3 +11,7 @@ CEX（Centralized Exchange）是由公司运营并托管用户资产的中心化
 - 不同辖区的监管限制。
 
 储备证明可以提供部分透明度，但不能单独证明全部负债、资产质量和控制权。长期资产是否留在平台，应根据交易需求和托管风险决定。
+
+如果需要横向比较，可以分别查看 [OKX](https://link.xuchonglang.com/okx)、[Binance](https://link.xuchonglang.com/bn)、[Bitget](https://link.xuchonglang.com/bg) 和 [Bybit](https://link.xuchonglang.com/bb) 的服务地区、监管实体、现货与合约费率、储备披露和提现规则。注册前先确认平台是否在你的所在地提供相关服务。
+
+> 上述平台入口包含推广或返佣链接，不代表对平台偿付能力、合规性或资产安全作出保证。

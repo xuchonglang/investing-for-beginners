@@ -13,5 +13,3 @@
 不要因为一只股票故事好，就让它占组合过高比例。
 
 更稳的做法是分批建仓：先小仓验证判断，再根据财报、估值和趋势变化决定是否加仓。
-
-继续学习：[股票仓位计划](https://xiaoyinsi.com/wiki/stocks/position-sizing-stock-plan)

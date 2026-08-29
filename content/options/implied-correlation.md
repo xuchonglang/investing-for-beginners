@@ -9,5 +9,3 @@
 - 指数期权 IV 和个股期权 IV 的差异，隐含了相关性预期。
 
 市场恐慌时，相关性常常上升，因为很多资产一起下跌，分散效果会变差。
-
-继续学习：[隐含相关性](https://xiaoyinsi.com/wiki/options/implied-correlation)

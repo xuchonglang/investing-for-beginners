@@ -14,5 +14,3 @@
 不要只看名称、图标和页面显示的 1 美元报价。真正重要的是：这个 Token 能不能按合理成本换回你想要的资产。
 
 大额跨链前先做小额往返测试，并记录桥费、Gas、滑点和等待时间。
-
-继续学习：[桥接 Token 验证](https://xiaoyinsi.com/wiki/crypto/bridge-token-verification)

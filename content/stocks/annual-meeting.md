@@ -13,5 +13,3 @@
 如果薪酬方案反对票很多，或股东提案集中在治理、稀释、气候、并购等问题上，说明公司内部可能存在争议。
 
 新手可以把股东大会和 Proxy Statement 一起看，用来补充财报看不到的治理信息。
-
-继续学习：[股东大会](https://xiaoyinsi.com/wiki/stocks/annual-meeting)

@@ -10,5 +10,3 @@
 - 支持更大区块或更多 Rollup 数据。
 
 新手可以理解为：不是每个人都下载整本账本，而是通过足够随机抽查，提高发现数据缺失的概率。
-
-继续学习：[数据可用性采样](https://xiaoyinsi.com/wiki/crypto/data-availability-sampling)

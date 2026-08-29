@@ -13,5 +13,3 @@ Long-Range Attack 是 PoS 系统中的一种攻击设想：攻击者利用过去
 - 社区共识。
 
 新手不需要深入技术细节，但要知道 PoS 安全不只看当前质押金额，还要看历史同步和最终性机制。
-
-继续学习：[Long-Range Attack](https://xiaoyinsi.com/wiki/crypto/long-range-attack)

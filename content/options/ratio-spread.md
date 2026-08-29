@@ -10,5 +10,3 @@ Ratio Spread 是买入一定数量期权，同时卖出更多数量期权的价�
 4. 保证金是否会突然上升。
 
 低成本的风险常藏在远端价格，一旦行情突破，损失可能比普通价差大得多。
-
-继续学习：[Ratio Spread](https://xiaoyinsi.com/wiki/options/ratio-spread)

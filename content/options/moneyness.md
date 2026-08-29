@@ -2,8 +2,6 @@
 
 Moneyness 描述当前股价与行权价的关系，常分为实值 ITM、平值 ATM 和虚值 OTM。
 
-完整词条：[实值、平值、虚值是什么？](https://xiaoyinsi.com/wiki/options/moneyness)
-
 对 Call：
 
 - 股价高于行权价：实值；

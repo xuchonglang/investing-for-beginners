@@ -13,5 +13,3 @@
 市价单在流动性差的期权上很危险，可能瞬间成交在很差的位置。
 
 如果一笔交易刚开仓就因为价差亏很多，说明标的或合约可能不适合新手。
-
-继续学习：[期权成交价格执行手册](https://xiaoyinsi.com/wiki/options/option-fill-price-playbook)

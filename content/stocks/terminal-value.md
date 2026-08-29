@@ -10,5 +10,3 @@
 4. 要做敏感性分析，而不是只给一个数字。
 
 终值能帮助估算长期价值，但也是 DCF 最容易被“讲故事”的地方。
-
-继续学习：[终值](https://xiaoyinsi.com/wiki/stocks/terminal-value)

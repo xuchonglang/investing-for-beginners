@@ -9,5 +9,3 @@
 - Theta、Vega 等风险也会影响复制效果。
 
 现实中复制并不完美，因为交易不能连续、市场会跳空、手续费和滑点存在，融资成本也不一定稳定。
-
-继续学习：[期权复制组合](https://xiaoyinsi.com/wiki/options/option-replication-portfolio)

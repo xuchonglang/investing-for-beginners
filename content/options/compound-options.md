@@ -12,5 +12,3 @@ Compound Option 是“期权上的期权”，持有人未来可以选择买入�
 4. 最坏情况下损失是多少？
 
 如果连底层期权都没看懂，就不要碰复合期权。
-
-继续学习：[Compound Options](https://xiaoyinsi.com/wiki/options/compound-options)

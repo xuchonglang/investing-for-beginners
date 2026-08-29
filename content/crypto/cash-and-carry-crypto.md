@@ -13,5 +13,3 @@ Cash and Carry 通常是买入现货，同时做空期货或永续合约，试�
 净收益要扣除手续费、滑点、借贷成本、资金占用和潜在税务成本。
 
 新手不要把年化数字当成无风险收益。真正的风险常发生在交易所宕机、合约价格异常、保证金不足或现货无法及时卖出时。
-
-继续学习：[加密 Cash and Carry](https://xiaoyinsi.com/wiki/crypto/cash-and-carry-crypto)

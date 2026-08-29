@@ -17,5 +17,3 @@ Covered Put 通常指做空股票，同时卖出 Put 收取权利金。它适合
 5. 保证金是否足够应对股价反向大涨。
 
 新手通常不适合直接使用 Covered Put。它比 Covered Call 更难管理，因为上涨风险没有天然上限。
-
-继续学习：[Covered Put](https://xiaoyinsi.com/wiki/options/covered-put)

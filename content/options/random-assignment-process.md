@@ -15,5 +15,3 @@
 不要把单一指标当成结论。更稳妥的做法，是把它放回具体场景中：发生了什么、谁承担风险、现金或资产如何变化、最坏情况下会损失多少。
 
 期权风险经常来自时间、波动率、流动性和交割细节，不只是方向判断。
-
-继续学习：[期权Random Assignment是什么？空头为何无法知道谁会被指派](https://xiaoyinsi.com/wiki/options/random-assignment-process)

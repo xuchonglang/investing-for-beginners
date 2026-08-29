@@ -16,5 +16,3 @@
 卖深虚值期权常见问题就是盈利概率高，但尾部亏损大。
 
 更实用的问题不是“这笔大概率赚钱吗”，而是“重复做很多次以后，扣除极端损失和成本是否仍有正期望”。
-
-继续学习：[盈利概率与期望值](https://xiaoyinsi.com/wiki/options/probability-of-profit-vs-expected-value)

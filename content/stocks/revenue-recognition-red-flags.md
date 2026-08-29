@@ -13,5 +13,3 @@
 新手不用一开始就精通会计，但要记住：好收入最终应该变成现金。
 
 如果收入增长只停留在报表上，却没有进入现金流，估值就要打折。
-
-继续学习：[收入确认红旗](https://xiaoyinsi.com/wiki/stocks/revenue-recognition-red-flags)

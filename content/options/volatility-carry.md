@@ -10,5 +10,3 @@ Volatility Carry 指通过持有波动率相关头寸，赚取隐含波动和实
 4. 保证金压力可能迫使低点平仓。
 
 新手不要把 Vol Carry 当成稳定利息。它更像收保险费：多数时间看起来舒服，少数灾难时刻决定生死。
-
-继续学习：[Volatility Carry](https://xiaoyinsi.com/wiki/options/volatility-carry)

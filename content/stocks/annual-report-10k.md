@@ -2,8 +2,6 @@
 
 10-K 是美国上市公司向 SEC 提交的年度报告，内容通常比面向投资者的宣传材料更完整，包括财务报表、业务描述、风险因素和管理层讨论。
 
-完整词条：[10-K 年报是什么？](https://xiaoyinsi.com/wiki/stocks/annual-report-10k)
-
 阅读顺序可以从：
 
 1. Business：公司如何赚钱；

@@ -11,5 +11,3 @@
 3. 复杂合约交互比普通转账消耗更多 Gas。
 
 新手在 DeFi 操作前，尤其是铸造、跨链、批量授权时，要看钱包模拟的 Gas 消耗和失败风险。
-
-继续学习：[区块 Gas Limit](https://xiaoyinsi.com/wiki/crypto/block-gas-limit)

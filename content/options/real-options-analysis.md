@@ -10,5 +10,3 @@
 - 保留未来进入新市场的权利。
 
 管理层的灵活性有价值，但这个价值不能随便讲故事，仍要有投入成本、成功概率、时间窗口和竞争环境支持。
-
-继续学习：[实物期权分析](https://xiaoyinsi.com/wiki/options/real-options-analysis)

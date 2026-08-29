@@ -11,5 +11,3 @@ Cliquet Option 会在多个观察期锁定局部收益，常见于结构化产�
 - 是否保本。
 
 新手遇到 Cliquet 产品，不要只看宣传里的“参与上涨”。如果每期收益被封顶，长期结果可能不如直觉。
-
-继续学习：[Cliquet Options](https://xiaoyinsi.com/wiki/options/cliquet-options)

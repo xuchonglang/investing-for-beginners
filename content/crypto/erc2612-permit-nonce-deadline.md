@@ -15,5 +15,3 @@ ERC-2612 Permit允许用签名设置代币授权。本文说明Owner、Spender�
 不要把单一指标当成结论。更稳妥的做法，是把它放回具体场景中：发生了什么、谁承担风险、现金或资产如何变化、最坏情况下会损失多少。
 
 链上风险通常不是单一价格波动，而是合约、权限、流动性和操作流程叠加。
-
-继续学习：[ERC-2612 Permit签名](https://xiaoyinsi.com/wiki/crypto/erc2612-permit-nonce-deadline)

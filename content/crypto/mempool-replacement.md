@@ -16,5 +16,3 @@ Mempool 交易替换指未确认交易还在内存池中时，用户用更高费
 2. 手续费要足够高，才能被节点接受替换。
 3. 交易已经确认后无法取消。
 4. 不同钱包的“加速/取消”按钮实现略有差异。
-
-继续学习：[Mempool 交易替换](https://xiaoyinsi.com/wiki/crypto/mempool-replacement)

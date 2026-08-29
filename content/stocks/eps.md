@@ -2,8 +2,6 @@
 
 EPS（Earnings Per Share）是归属于普通股股东的利润按加权平均股数折算后的每股收益，是财报和估值中最常见的指标之一。
 
-完整词条：[EPS 是什么？](https://xiaoyinsi.com/wiki/stocks/eps)
-
 基础 EPS 使用实际流通股数；稀释 EPS 还考虑期权、可转债等潜在新增股份，通常更保守。
 
 EPS 增长可能来自：

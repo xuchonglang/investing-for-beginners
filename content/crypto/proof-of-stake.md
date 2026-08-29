@@ -2,8 +2,6 @@
 
 PoS（Proof of Stake）通过验证者质押原生资产参与出块和确认。诚实履职获得奖励，严重违规或运行故障可能受到罚没。
 
-完整词条：[PoS 权益证明是什么？](https://xiaoyinsi.com/wiki/crypto/proof-of-stake)
-
 质押收益不是银行利息，其来源可能包括协议发行和交易费，并伴随：
 
 - 代币价格波动；

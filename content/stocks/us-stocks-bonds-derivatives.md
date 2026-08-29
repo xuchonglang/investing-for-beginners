@@ -11,5 +11,3 @@
 不要把期权、期货当成独立赌场。它们的风险来自底层资产、期限、波动率、保证金和合约规则。
 
 先理解底层资产，再碰衍生品。
-
-继续学习：[美股、债券和衍生品](https://xiaoyinsi.com/wiki/stocks/us-stocks-bonds-derivatives)

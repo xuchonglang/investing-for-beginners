@@ -9,5 +9,3 @@
 - 含期权债券可能有负凸性，风险更复杂。
 
 新手买债券 ETF 或长期国债时，不要只看收益率。久期和凸性决定了利率波动时净值会怎么动。
-
-继续学习：[债券凸性](https://xiaoyinsi.com/wiki/stocks/bond-convexity)

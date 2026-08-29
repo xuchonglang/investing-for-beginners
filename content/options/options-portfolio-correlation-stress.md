@@ -14,5 +14,3 @@
 不要只看单笔最大损失。多个“有限风险”策略在同一冲击下可能同时接近最大损失。
 
 实用做法：假设相关标的一起下跌、IV 同时上升或下降，再看账户总损失是否可承受。
-
-继续学习：[期权组合相关性压力测试](https://xiaoyinsi.com/wiki/options/options-portfolio-correlation-stress)

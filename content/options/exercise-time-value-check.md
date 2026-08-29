@@ -15,5 +15,3 @@ Long Option行权会放弃剩余时间价值，并产生股票和现金交割。
 不要把单一指标当成结论。更稳妥的做法，是把它放回具体场景中：发生了什么、谁承担风险、现金或资产如何变化、最坏情况下会损失多少。
 
 期权风险经常来自时间、波动率、流动性和交割细节，不只是方向判断。
-
-继续学习：[期权行权前为什么先看时间价值？Sell to Close与Exercise比较](https://xiaoyinsi.com/wiki/options/exercise-time-value-check)

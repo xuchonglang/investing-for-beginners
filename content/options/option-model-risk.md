@@ -11,5 +11,3 @@
 - 标的收益并不符合模型假设。
 
 实操中应把理论价作为参考区间，而不是“正确价格”。同时比较 Bid/Ask、成交量、未平仓量和不同波动率情景，并对 Gamma、Vega 和隔夜跳空做压力测试。
-
-[查看小隐寺完整词条：期权模型风险](https://xiaoyinsi.com/wiki/options/option-model-risk)

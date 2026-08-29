@@ -14,5 +14,3 @@
 减值是非现金费用，但不是不重要。
 
 估值时可以剔除当期一次性减值，但必须重新评估受损业务未来现金流和管理层资本配置能力。
-
-继续学习：[资产减值分析](https://xiaoyinsi.com/wiki/stocks/impairment-charge-analysis)

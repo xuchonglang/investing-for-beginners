@@ -17,5 +17,3 @@
 - 近月到期临近，但远月价值没有按预期保留。
 
 新手不要把日历价差持有到完全失控。方向没错也可能因 IV 下跌、期限结构变化和买卖价差扩大而亏钱。
-
-继续学习：[日历价差退出计划](https://xiaoyinsi.com/wiki/options/calendar-spread-exit-plan)

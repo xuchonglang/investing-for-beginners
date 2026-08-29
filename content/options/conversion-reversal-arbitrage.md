@@ -11,5 +11,3 @@ Conversion 和 Reversal 套利利用股票、Call、Put 之间的平价关系构
 - 保证金和税务也要考虑。
 
 新手更适合把它用于理解 Put-Call Parity，而不是实盘套利。
-
-继续学习：[Conversion / Reversal 套利](https://xiaoyinsi.com/wiki/options/conversion-reversal-arbitrage)

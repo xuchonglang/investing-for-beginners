@@ -14,5 +14,3 @@
 6. 原交易计划是否仍然成立。
 
 保护腿不会总是自动替你处理。指派后形成的新股票头寸，应当重新制定持有、卖出或对冲计划。
-
-继续学习：[期权指派后的股票和现金计划](https://xiaoyinsi.com/wiki/options/option-assignment-stock-cash-plan)

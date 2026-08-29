@@ -15,5 +15,3 @@ Broken Wing Butterfly 是不对称蝶式价差，通常通过拉宽一侧翼部�
 新手常犯的错是只看到期盈亏图的漂亮峰值，却忽略标的必须停在很窄区间内才有理想收益。
 
 如果你无法解释每条腿的作用、最大亏损和到期处理，就不该为了“权利金便宜”贸然使用。
-
-继续学习：[Broken Wing Butterfly](https://xiaoyinsi.com/wiki/options/broken-wing-butterfly)

@@ -12,5 +12,3 @@
 新手不要只看最近一年 PE。周期高点盈利会让估值看起来便宜，周期低点则可能显得很贵。
 
 关键是判断中周期盈利，而不是把极端年份外推。
-
-继续学习：[正常化盈利](https://xiaoyinsi.com/wiki/stocks/normalized-earnings)

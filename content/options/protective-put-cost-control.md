@@ -13,5 +13,3 @@ Protective Put 可以保护股票下跌风险，但保护不是免费的。
 保护性 Put 适合在你想继续持有股票，但又不想承担极端下跌时使用。
 
 如果长期不断买保护，成本可能吞掉大部分收益。
-
-继续学习：[Protective Put 成本控制](https://xiaoyinsi.com/wiki/options/protective-put-cost-control)

@@ -11,5 +11,3 @@ Sortino Ratio 衡量每承担一单位下行波动获得多少超额收益。它
 新手可以把它理解为“更关注亏损波动的夏普比率”。但它也不是万能的，仍需要结合最大回撤、尾部风险和样本长度。
 
 如果一个策略平时很稳、偶尔暴雷，Sortino 也可能在暴雷前显得很好看。
-
-继续学习：[Sortino Ratio](https://xiaoyinsi.com/wiki/stocks/sortino-ratio)

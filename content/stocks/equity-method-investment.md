@@ -16,5 +16,3 @@
 权益法收益不是经营现金流。
 
 如果这部分利润占比很高，必须穿透看被投企业财务，否则母公司利润质量可能被高估。
-
-继续学习：[权益法投资](https://xiaoyinsi.com/wiki/stocks/equity-method-investment)

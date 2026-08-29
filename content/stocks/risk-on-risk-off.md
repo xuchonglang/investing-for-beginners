@@ -13,5 +13,3 @@ Risk-on 指市场愿意承担风险，资金偏向股票、成长股、高收益
 它不是精确交易信号，而是仓位背景。Risk-on 环境里，突破和趋势更容易延续；Risk-off 环境里，坏消息会被放大，流动性差的资产更容易跳水。
 
 新手可以用它提醒自己：同一个策略在不同市场温度下风险不同。市场进入 Risk-off 时，先降低杠杆和集中度，再谈抄底。
-
-继续学习：[Risk-on / Risk-off](https://xiaoyinsi.com/wiki/stocks/risk-on-risk-off)

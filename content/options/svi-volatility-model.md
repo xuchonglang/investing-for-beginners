@@ -7,5 +7,3 @@ SVI 是一种拟合隐含波动率微笑的参数化模型，常用于构建平�
 新手只需要理解：市场上的 IV 是一张曲面，交易软件显示的某个 IV 只是其中一个点。
 
 如果曲面拟合差，复杂期权和多腿策略的理论价格也会失真。
-
-继续学习：[SVI 波动率模型](https://xiaoyinsi.com/wiki/options/svi-volatility-model)

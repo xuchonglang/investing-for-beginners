@@ -13,5 +13,3 @@ DTE 是距离到期剩余天数。期权越接近到期，Gamma 和 Theta 风险
 不要只按百分比止盈，也要看剩余风险。
 
 例如卖出价差已赚 80%，但还要承担最后几天跳空风险，提前平仓可能比赚满更合理。
-
-继续学习：[按 DTE 设置期权止盈](https://xiaoyinsi.com/wiki/options/profit-target-by-dte)

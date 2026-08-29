@@ -11,5 +11,3 @@
 局限是牛市强风险偏好阶段可能跑输，且历史低波动不保证未来低波动。
 
 新手可以把低波动因子作为组合稳定器，而不是短线增强收益工具。
-
-继续学习：[低波动因子](https://xiaoyinsi.com/wiki/stocks/low-volatility-factor)

@@ -2,8 +2,6 @@
 
 永续合约（Perpetual Futures）是一种没有固定到期日的加密衍生品。交易者可以持有多头或空头仓位，平台通常通过资金费率机制，让合约价格尽量贴近现货指数价格。
 
-完整词条：[永续合约是什么？](https://xiaoyinsi.com/wiki/crypto/perpetual-futures)
-
 ## 和传统期货有什么区别？
 
 传统期货通常有明确到期和交割日期，永续合约则可以持续持有。没有到期日不代表没有成本，仓位可能需要定期支付或收取资金费率。
@@ -25,6 +23,8 @@
 - 市场快速波动时是否可能出现滑点或自动减仓；
 - 交易所的托管、系统和提现风险。
 
+可以在 [TradingView](https://link.xuchonglang.com/tv) 对照现货与合约价格，再分别查看 [OKX](https://link.xuchonglang.com/okx)、[Binance](https://link.xuchonglang.com/bn)、[Bitget](https://link.xuchonglang.com/bg) 和 [Bybit](https://link.xuchonglang.com/bb) 的资金费率、保证金档位与强平说明。不同平台显示相似，不代表计算口径完全相同。
+
 永续合约没有到期日，但高杠杆仓位可能在很短时间内被清算。
 
-> 本文仅用于投资教育，不构成加密合约交易建议。
+> 本文仅用于投资教育，不构成加密合约交易建议。上述平台入口包含推广或返佣链接。

@@ -15,5 +15,3 @@ Delta 对冲是用股票或其他工具降低方向敞口，让交易更接近�
 对冲不是免费午餐。调仓太频繁会被手续费和滑点吃掉，调仓太少又可能失去保护。
 
 如果你只是想表达看涨观点，通常没必要把简单交易复杂化。
-
-继续学习：[Delta 对冲买入 Call 计划](https://xiaoyinsi.com/wiki/options/delta-hedged-long-call-plan)

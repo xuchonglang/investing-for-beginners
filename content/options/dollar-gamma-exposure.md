@@ -12,5 +12,3 @@ Dollar Gamma Exposure 把 Gamma 转换成美元敞口，用来观察期权仓位
 4. 公开估算不一定准确。
 
 新手可以把它当作短线波动背景，不要当成单独买卖信号。
-
-继续学习：[Dollar Gamma Exposure](https://xiaoyinsi.com/wiki/options/dollar-gamma-exposure)

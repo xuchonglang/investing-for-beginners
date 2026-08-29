@@ -16,5 +16,3 @@ Tender Offer 是收购方在指定期限内，按约定价格向股东购买股�
 市场价格低于要约价，通常反映时间、监管、融资和失败风险。
 
 比较“现在卖出”和“参加要约”时，要把等待时间和失败情景一起算进去。
-
-继续学习：[Tender Offer 要约收购](https://xiaoyinsi.com/wiki/stocks/tender-offer)

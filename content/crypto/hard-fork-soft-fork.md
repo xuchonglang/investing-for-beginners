@@ -11,5 +11,3 @@
 5. 项目治理是否稳定。
 
 不要因为“分叉送币”就盲目操作。领取分叉资产可能暴露私钥、签名风险或遇到钓鱼网站。
-
-继续学习：[硬分叉和软分叉](https://xiaoyinsi.com/wiki/crypto/hard-fork-soft-fork)

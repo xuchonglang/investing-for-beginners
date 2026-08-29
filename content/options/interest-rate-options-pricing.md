@@ -10,5 +10,3 @@
 - 长期限合约更敏感。
 
 新手交易 LEAPS 或指数期权时，不要只看方向、IV 和 Theta。利率和股息也会进入期权价格。
-
-继续学习：[利率与期权定价](https://xiaoyinsi.com/wiki/options/interest-rate-options-pricing)

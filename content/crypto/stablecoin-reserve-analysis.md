@@ -11,5 +11,3 @@
 5. 历史是否发生过脱锚。
 
 稳定币的风险来自储备、监管、发行方、银行合作方和链上合约多层结构。
-
-继续学习：[稳定币储备分析](https://xiaoyinsi.com/wiki/crypto/stablecoin-reserve-analysis)

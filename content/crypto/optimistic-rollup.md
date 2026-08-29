@@ -10,5 +10,3 @@ Optimistic Rollup 默认提交到链上的状态转换是正确的，并设置�
 - 排序器和升级权限仍需关注。
 
 使用 Optimistic Rollup 时，要理解快速到账和最终安全不是一回事。
-
-继续学习：[Optimistic Rollup](https://xiaoyinsi.com/wiki/crypto/optimistic-rollup)

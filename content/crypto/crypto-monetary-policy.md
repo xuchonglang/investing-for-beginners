@@ -11,5 +11,3 @@
 5. 治理是否能改变规则。
 
 新手不要只看“总量有限”。如果流通比例很低、未来解锁很大，持有人仍会面对强稀释和卖压。
-
-继续学习：[加密货币货币政策](https://xiaoyinsi.com/wiki/crypto/crypto-monetary-policy)

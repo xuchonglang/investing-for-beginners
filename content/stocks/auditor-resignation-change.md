@@ -14,5 +14,3 @@
 高风险组合是：财报前辞任、收入确认争议、重大内控缺陷、管理层拒绝提供信息。
 
 在问题澄清前，不应继续用原来的 EPS 或调整后利润做估值。
-
-继续学习：[审计师辞任与更换](https://xiaoyinsi.com/wiki/stocks/auditor-resignation-change)

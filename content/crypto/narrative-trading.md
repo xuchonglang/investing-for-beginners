@@ -12,4 +12,6 @@
 
 新手不要只因为“大家都在讲”就买。更稳妥的做法是小仓位参与、提前写退出条件，并区分短期交易和长期投资。
 
-继续学习：[叙事交易](https://xiaoyinsi.com/wiki/crypto/narrative-trading)
+研究叙事时，可以用 [TradingView](https://link.xuchonglang.com/tv) 观察价格、成交量和相对强弱，也可以把 [Polymarket](https://link.xuchonglang.com/pm) 的事件概率当作市场预期样本。预测市场价格同样会受流动性、参与者结构和规则影响，不能当作事实或确定概率。
+
+> 上述入口包含推广或返佣链接。工具提供的是信息与市场价格，不替你完成事实核查和风险判断。

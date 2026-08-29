@@ -2,8 +2,6 @@
 
 成交量（Volume）表示某段时间内一共成交了多少股票或基金份额；流动性（Liquidity）表示能否在接近当前价格的情况下快速完成交易，而不明显推动价格。
 
-完整词条：[成交量和流动性是什么？](https://xiaoyinsi.com/wiki/stocks/volume-and-liquidity)
-
 ## 两者不能画等号
 
 - 成交量更像“市场今天有多热闹”；

@@ -14,5 +14,3 @@
 撤销 DApp 连接不等于撤销 Token 授权或 Permit 权限。
 
 高风险交互建议使用独立小钱包；签错后优先转移最容易被授权转走的资产，再撤销授权。
-
-继续学习：[Permit2 签名风险](https://xiaoyinsi.com/wiki/crypto/permit2-signature-risk)

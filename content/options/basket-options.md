@@ -13,5 +13,3 @@ Basket Option 的标的是一篮子资产，而不是单只股票或指数。收
 相关性很重要。如果篮子资产高度相关，分散效果有限；如果结构按最差资产结算，一个拖后腿标的就可能决定整体收益。
 
 新手遇到篮子型结构化产品，不要只看“多资产分散”。真正要看的是收益公式和最坏情景。
-
-继续学习：[Basket Options](https://xiaoyinsi.com/wiki/options/basket-options)

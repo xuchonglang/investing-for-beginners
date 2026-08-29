@@ -2,8 +2,6 @@
 
 [English](README.en.md) | 中文
 
-[![Website](https://img.shields.io/badge/官网-xiaoyinsi.com-111827)](https://xiaoyinsi.com/)
-[![Wiki](https://img.shields.io/badge/投资百科-Wiki-2563eb)](https://xiaoyinsi.com/wiki)
 [![License](https://img.shields.io/badge/内容许可-Proprietary-b91c1c)](LICENSE.md)
 ![Version](https://img.shields.io/badge/版本-V0.2-0ea5e9)
 
@@ -20,9 +18,9 @@
 - 认识期权的收益结构、时间损耗、波动率和最大亏损；
 - 了解加密货币交易、钱包、私钥、智能合约和 DeFi 的基本机制；
 - 识别杠杆、爆仓、授权钓鱼、代币解锁和链上攻击等常见风险；
-- 通过精简词条快速入门，再按需前往完整 Wiki 深入阅读。
+- 通过精简词条快速入门，再按主题逐步深入阅读。
 
-这份指南的目标不是提供“买什么”的答案，而是帮助你理解自己正在买什么、风险来自哪里，以及在投入资金前应该核对哪些信息。每篇内容尽量保持简短、实用，并给出可继续学习的官方词条入口。
+这份指南的目标不是提供“买什么”的答案，而是帮助你理解自己正在买什么、风险来自哪里，以及在投入资金前应该核对哪些信息。每篇内容尽量保持简短、实用，并提供相关主题的内部链接。
 
 ## 为什么普通人一定要学习和掌握投资？
 
@@ -88,8 +86,6 @@
 
 这也是本指南同时覆盖美股与加密货币的原因。
 
-本仓库由[小隐寺](https://xiaoyinsi.com/)维护，内容整理自[小隐寺投资百科](https://xiaoyinsi.com/wiki)。小隐寺面向中文美股与加密货币投资者，持续提供结构化的基础知识、交易概念与风险教育。
-
 > 本仓库不提供个性化投资建议，也不承诺任何收益。金融产品存在本金损失风险，使用杠杆和衍生品可能放大亏损。
 
 <p align="center">
@@ -103,21 +99,36 @@
 
 ## 知识导航
 
-| 主题 | 内容 | 官方入口 |
+| 主题 | 内容 | 仓库内容 |
 | --- | --- | --- |
 | [入门指南](guides/投资入门指南.md) | 从零认识投资、建立风险意识与基础操作框架 | — |
-| [美股入门](content/README.md#美股入门) | 交易时段、订单类型、公司披露、估值与市场结构 | [进入美股入门](https://xiaoyinsi.com/wiki/stocks) |
-| [期权进阶](content/README.md#期权进阶) | Call / Put、期权链、希腊字母、波动率与策略风险 | [进入期权进阶](https://xiaoyinsi.com/wiki/options) |
-| [加密货币](content/README.md#加密货币) | 现货、合约、杠杆、钱包、链上机制与风险控制 | [进入加密货币](https://xiaoyinsi.com/wiki/crypto) |
+| [美股入门](content/README.md#美股入门) | 交易时段、订单类型、公司披露、估值与市场结构 | [浏览美股词条](content/README.md#美股入门) |
+| [期权进阶](content/README.md#期权进阶) | Call / Put、期权链、希腊字母、波动率与策略风险 | [浏览期权词条](content/README.md#期权进阶) |
+| [加密货币](content/README.md#加密货币) | 现货、合约、杠杆、钱包、链上机制与风险控制 | [浏览加密货币词条](content/README.md#加密货币) |
 
-完整内容请访问：[小隐寺投资百科](https://xiaoyinsi.com/wiki)。
+## 常用工具与交易平台
+
+学习阶段可以先用行情工具观察价格、成交量和市场结构；需要实盘时，再根据所在地区、产品权限、费率和托管风险选择平台。
+
+| 平台 | 类型 | 适合场景 | 入口 |
+| --- | --- | --- | --- |
+| TradingView | 行情与图表工具 | 查看美股、加密货币、技术指标和价格提醒 | [打开 TradingView](https://link.xuchonglang.com/tv) |
+| 致富证券 | 美股券商 | 美股、ETF 与相关证券交易 | [了解致富证券](https://link.xuchonglang.com/zf) |
+| moomoo | 美股券商 | 美股行情、公司资料与证券交易 | [打开 moomoo](https://link.xuchonglang.com/mm) |
+| OKX | 加密货币平台 | 现货、合约与链上资产出入金 | [打开 OKX](https://link.xuchonglang.com/okx) |
+| Binance | 加密货币平台 | 现货、合约与加密资产服务 | [打开 Binance](https://link.xuchonglang.com/bn) |
+| Bitget | 加密货币平台 | 现货与合约交易 | [打开 Bitget](https://link.xuchonglang.com/bg) |
+| Bybit | 加密货币平台 | 现货与衍生品交易 | [打开 Bybit](https://link.xuchonglang.com/bb) |
+| Polymarket | 预测市场 | 观察事件概率与市场预期 | [打开 Polymarket](https://link.xuchonglang.com/pm) |
+
+> 推广披露：以上部分链接属于邀请或返佣链接，作者可能从符合条件的注册或交易中获得收益。请不要因为返佣而选择平台；注册前应独立核对当地可用性、监管实体、费用、产品权限和风险，且不要投入无法承受损失的资金。
 
 ## 仓库结构
 
 ```text
 .
 ├── assets/              图片、图表等静态资源
-├── content/             Wiki 精选词条，按美股、期权、加密货币分类整理
+├── content/             投资知识词条，按美股、期权、加密货币分类整理
 ├── en/                  英文版镜像内容
 ├── guides/              入门指南与长文教程
 ├── glossary/            金融术语索引，用于快速查概念与跳转学习
@@ -125,21 +136,10 @@
 └── LICENSE.md           专有内容许可
 ```
 
-## 官方入口
-
-- [小隐寺官网](https://xiaoyinsi.com/)
-- [投资百科](https://xiaoyinsi.com/wiki)
-- [精选文章](https://xiaoyinsi.com/blog)
-- [小隐寺discord交流群](https://xiaoyinsi.com/community)
-- [小隐寺社区](https://forum.xiaoyinsi.com/)
-
-
-请只通过官网确认社区入口。小隐寺不会通过陌生私信索取资金、助记词、验证码或 API Key。
-
 ## 版权
 
-除非文件中另有明确说明，本仓库中的文章、术语整理、数据结构、图片、表格及其他内容均为小隐寺专有资产。
+除非文件中另有明确说明，本仓库中的文章、术语整理、数据结构、图片、表格及其他内容均为专有内容资产。
 
-允许分享本仓库和官网页面的原始链接；未经书面授权，不允许复制、镜像、批量抓取、改编、商业使用或用于 AI 训练及知识库构建。具体条款见 [LICENSE.md](LICENSE.md)。
+允许分享本仓库的原始链接；未经书面授权，不允许复制、镜像、批量抓取、改编、商业使用或用于 AI 训练及知识库构建。具体条款见 [LICENSE.md](LICENSE.md)。
 
-Copyright © 2026 小隐寺（Xiaoyinsi）. All Rights Reserved.
+Copyright © 2026 本仓库版权持有人。保留所有权利。

@@ -13,5 +13,3 @@
 PoR 快照不能证明平台没有负债，也不能证明破产时你有优先取回权。
 
 实用原则：交易所只放近期交易和出入金所需额度，长期资产应分层管理，并定期做小额提现测试。
-
-继续学习：[交易所破产与资产隔离](https://xiaoyinsi.com/wiki/crypto/exchange-bankruptcy-asset-segregation)

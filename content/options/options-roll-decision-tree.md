@@ -13,5 +13,3 @@
 如果只是因为不想认亏而滚仓，通常不是好决策。
 
 只有当新仓位本身有独立理由，滚仓才有意义。
-
-继续学习：[期权滚仓决策树](https://xiaoyinsi.com/wiki/options/options-roll-decision-tree)

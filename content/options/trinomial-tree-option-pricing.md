@@ -7,5 +7,3 @@
 新手可以把它看作“把未来价格拆成很多小路径，再从到期往回算价值”的方法。
 
 局限也很明显：结果依赖模型参数，时间步太少会粗糙，现实市场还有跳空、交易成本和波动率变化。
-
-继续学习：[三叉树期权定价](https://xiaoyinsi.com/wiki/options/trinomial-tree-option-pricing)

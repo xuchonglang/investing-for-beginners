@@ -12,5 +12,3 @@
 新手看到“链上信用借贷”高收益时，要问：谁在承担违约损失？信用数据是否可靠？是否有保险、准备金或法律协议？
 
 低抵押不是不可能，但它比超额抵押借贷难得多。
-
-继续学习：[低抵押贷款](https://xiaoyinsi.com/wiki/crypto/under-collateralized-loan)

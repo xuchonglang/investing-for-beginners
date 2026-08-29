@@ -15,5 +15,3 @@ Roll Down 是随着时间流逝，持仓会沿着期限结构移动，期权估�
 不要只看当前 IV 高低。期权持有期间，期限结构变化会影响 Vega 和时间价值。
 
 如果策略利润主要来自 Roll Down，就必须提前设定期限结构反向移动时的止损。
-
-继续学习：[波动率期限结构 Roll Down](https://xiaoyinsi.com/wiki/options/volatility-term-structure-roll-down)

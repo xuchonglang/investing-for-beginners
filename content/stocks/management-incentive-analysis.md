@@ -13,5 +13,3 @@
 如果激励只看短期股价或营收，管理层可能倾向于追求短期好看，而不是长期价值。
 
 好的激励机制应该让管理层和长期股东站在同一边。
-
-继续学习：[管理层激励分析](https://xiaoyinsi.com/wiki/stocks/management-incentive-analysis)

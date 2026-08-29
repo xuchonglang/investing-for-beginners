@@ -11,5 +11,3 @@
 风险是系统依赖更多组件，安全假设也更复杂。
 
 新手看模块化项目时，不要只看 TPS。要问：数据在哪里发布？资产在哪里结算？哪个模块失效会影响用户退出？
-
-继续学习：[模块化区块链](https://xiaoyinsi.com/wiki/crypto/modular-blockchain)

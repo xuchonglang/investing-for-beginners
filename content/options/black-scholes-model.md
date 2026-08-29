@@ -11,5 +11,3 @@ Black-Scholes 模型根据标的价格、行权价、剩余期限、波动率、
 模型假设价格连续、波动率可描述且能持续交易对冲，现实中的财报跳空、宽价差和流动性枯竭会破坏这些条件。
 
 不要把理论价当作必然成交价。实际下单仍要检查 Bid/Ask、成交量、事件日期、提前行权和最大亏损。
-
-[查看小隐寺完整词条：Black-Scholes 模型](https://xiaoyinsi.com/wiki/options/black-scholes-model)

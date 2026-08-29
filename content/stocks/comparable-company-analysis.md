@@ -12,5 +12,3 @@
 最常见错误是只看“某公司 10 倍 PS，所以另一家公司也该 10 倍”。倍数背后是增长、利润率、确定性和资本效率。
 
 可比估值适合快速定位，但最终仍要回到现金流和风险。
-
-继续学习：[可比公司估值](https://xiaoyinsi.com/wiki/stocks/comparable-company-analysis)

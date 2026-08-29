@@ -14,5 +14,3 @@
 0.99 美元不一定是 1% 无风险套利，因为还要扣滑点、Gas、费用、等待时间和最终兑付风险。
 
 没有一级赎回资格时，不要按 1 美元确定兑付假设管理风险。
-
-继续学习：[稳定币一级赎回](https://xiaoyinsi.com/wiki/crypto/stablecoin-primary-redemption)

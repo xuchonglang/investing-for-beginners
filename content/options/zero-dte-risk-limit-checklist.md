@@ -13,5 +13,3 @@
 0DTE 最大的问题不是看错方向，而是几分钟内风险快速变形。不要用“再等等”替代风控。
 
 如果不能接受快速归零，就不要买；如果不能接受跳空穿透，就不要卖。
-
-继续学习：[0DTE 风险限制清单](https://xiaoyinsi.com/wiki/options/zero-dte-risk-limit-checklist)

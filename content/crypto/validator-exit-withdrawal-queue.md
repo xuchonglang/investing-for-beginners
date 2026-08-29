@@ -14,5 +14,3 @@ PoS 质押退出通常不能立即到账，会受到协议队列、提款流程�
 LST 可以在二级市场卖出，但会把等待风险变成折价、滑点和协议风险。
 
 不要把前端预计日期当作承诺。现金需求、借款到期和税务支付都应按保守等待时间安排。
-
-继续学习：[验证者退出与提款队列](https://xiaoyinsi.com/wiki/crypto/validator-exit-withdrawal-queue)

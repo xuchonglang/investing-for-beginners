@@ -11,5 +11,3 @@ Sidechain 是与主链并行运行的独立链，通常有自己的验证者和�
 新手跨到 Sidechain 前，要检查验证者数量、桥安全、资产退出机制、历史事故和生态流动性。
 
 不要因为钱包地址一样，就以为资产安全边界一样。
-
-继续学习：[Sidechain](https://xiaoyinsi.com/wiki/crypto/sidechain)

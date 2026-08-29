@@ -13,5 +13,3 @@
 客户集中度不是绝对坏事。早期成长公司可能依赖大客户起量。
 
 但如果公司估值很高，却高度依赖少数客户，就要把客户流失当作核心风险写进投资计划。
-
-继续学习：[客户集中度风险](https://xiaoyinsi.com/wiki/stocks/customer-concentration-risk)

@@ -10,5 +10,3 @@
 4. 指引通常基于公司自己的财年口径。
 
 如果财年口径搞错，收入增速、估值倍数和管理层指引都可能被误读。
-
-继续学习：[财年](https://xiaoyinsi.com/wiki/stocks/fiscal-year)

@@ -12,5 +12,3 @@
 4. 不要为了得出想要的估值，随便调低折现率。
 
 估值不是只看未来故事，还要看你愿意为不确定未来付多少钱。
-
-继续学习：[折现率](https://xiaoyinsi.com/wiki/stocks/discount-rate)

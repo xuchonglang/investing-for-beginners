@@ -10,5 +10,3 @@
 - 融资方式本身也是信息。
 
 新手看到公司增发，不要只看融资金额。要问为什么现在发、资金用途是什么、对每股价值是否稀释。
-
-继续学习：[融资顺序理论](https://xiaoyinsi.com/wiki/stocks/pecking-order-theory)

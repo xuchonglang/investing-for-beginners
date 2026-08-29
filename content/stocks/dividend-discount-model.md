@@ -9,5 +9,3 @@
 - 折现率和长期增长率非常敏感。
 
 不适合场景包括高速成长但不分红的公司、周期波动很大的公司、分红政策不稳定的公司。
-
-继续学习：[股息折现模型](https://xiaoyinsi.com/wiki/stocks/dividend-discount-model)

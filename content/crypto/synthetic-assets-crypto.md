@@ -11,5 +11,3 @@
 5. 合约或治理攻击。
 
 新手不要把合成资产等同于真实资产所有权。持有合成美股，不代表拥有真实股票、投票权或分红权。
-
-继续学习：[加密合成资产](https://xiaoyinsi.com/wiki/crypto/synthetic-assets-crypto)

@@ -11,5 +11,3 @@ Crypto Treasury 指项目金库持有的资产，包括原生代币、稳定币�
 5. 透明度：是否有公开地址和预算报告。
 
 本币很多不代表安全。如果项目金库主要是自己的代币，熊市中可用购买力可能迅速缩水。
-
-继续学习：[Crypto Treasury](https://xiaoyinsi.com/wiki/crypto/crypto-treasury)

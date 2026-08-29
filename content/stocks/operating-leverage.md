@@ -12,5 +12,3 @@
 4. 注意收入下滑时的反向冲击。
 
 新手不要只看到利润率扩张就外推未来。高经营杠杆公司在景气上行时很漂亮，在需求转弱时也会很疼。
-
-继续学习：[经营杠杆](https://xiaoyinsi.com/wiki/stocks/operating-leverage)

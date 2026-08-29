@@ -11,5 +11,3 @@ Christmas Tree Spread 是一种多腿期权价差，通常通过不同行权价�
 5. 多腿成交成本是否过高。
 
 它名字有趣，但不是入门策略。看不清盈亏图和指派风险，就不要为了低成本贸然开仓。
-
-继续学习：[Christmas Tree Spread](https://xiaoyinsi.com/wiki/options/christmas-tree-spread)

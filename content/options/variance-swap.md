@@ -12,5 +12,3 @@
 - 通常不适合普通投资者。
 
 学习方差互换能帮助理解为什么卖波动策略平时赚钱、危机时亏很大。
-
-继续学习：[方差互换](https://xiaoyinsi.com/wiki/options/variance-swap)

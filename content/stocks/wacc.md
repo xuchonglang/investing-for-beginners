@@ -12,5 +12,3 @@ WACC 是公司债务和股权资本成本的加权平均，常用于 DCF 折现�
 4. 股权成本最难估，别为了高估值故意调低。
 
 DCF 对 WACC 很敏感，必须做敏感性分析。
-
-继续学习：[WACC](https://xiaoyinsi.com/wiki/stocks/wacc)

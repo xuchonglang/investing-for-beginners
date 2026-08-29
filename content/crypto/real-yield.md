@@ -11,5 +11,3 @@ Real Yield 通常指协议收益来自真实手续费或业务收入，而不是
 5. 收益是否真正分给持有人。
 
 新手不要看到“Real Yield”就默认安全。真实收入也可能周期性很强，或被高估值提前透支。
-
-继续学习：[Real Yield](https://xiaoyinsi.com/wiki/crypto/real-yield)

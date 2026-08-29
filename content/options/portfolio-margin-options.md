@@ -12,5 +12,3 @@
 2. 保留足够现金缓冲，不把可用购买力用满；
 3. 检查复杂价差在到期、指派后的裸露风险；
 4. 了解经纪商的追加保证金和强平规则。
-
-[查看小隐寺完整词条：期权投资组合保证金](https://xiaoyinsi.com/wiki/options/portfolio-margin-options)

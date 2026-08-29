@@ -15,5 +15,3 @@ Risk Reversal 通常是买入一个方向的期权，同时卖出另一方向的
 如果买 Call、卖 Put，标的大涨时受益，但大跌时会像接了一个高风险多头仓位。低成本不等于低风险。
 
 新手应先用小仓位或模拟盘理解风险结构，不要因为“几乎零成本”就忽略卖方义务。
-
-继续学习：[Risk Reversal](https://xiaoyinsi.com/wiki/options/risk-reversal)

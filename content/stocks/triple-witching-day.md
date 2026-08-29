@@ -10,5 +10,3 @@
 - 不要因为名字神秘就过度交易。
 
 如果你持有短期期权或高杠杆仓位，三巫日前后更要检查到期、指派和流动性风险。
-
-继续学习：[三巫日](https://xiaoyinsi.com/wiki/stocks/triple-witching-day)

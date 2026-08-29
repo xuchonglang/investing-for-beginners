@@ -12,5 +12,3 @@
 4. 股东提案能否产生影响。
 
 投票权弱不一定不能买，但估值上应考虑治理折价。
-
-继续学习：[投票权](https://xiaoyinsi.com/wiki/stocks/voting-rights)

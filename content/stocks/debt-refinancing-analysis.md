@@ -14,5 +14,3 @@
 再融资完成只说明“时间换到了”，不说明“成本合理”。
 
 如果利率大幅上升，流动性风险可能转化为盈利压力，未来自由现金流和估值都要重算。
-
-继续学习：[债务再融资分析](https://xiaoyinsi.com/wiki/stocks/debt-refinancing-analysis)

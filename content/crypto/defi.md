@@ -2,8 +2,6 @@
 
 DeFi（Decentralized Finance）是通过区块链和智能合约提供兑换、借贷、衍生品和资产管理等金融功能的应用体系。
 
-完整词条：[DeFi 是什么？](https://xiaoyinsi.com/wiki/crypto/defi)
-
 用户通常通过自托管钱包直接与合约交互。规则和资金流可以在链上查看，但这不代表资产价值、代码安全和收益来源都可靠。
 
 评估 DeFi 项目时应问：

@@ -15,5 +15,3 @@ Put Spread 用买入 Put 加卖出更低行权价 Put 的方式，降低对冲�
 Put Spread 比单买 Put 便宜，但保护有上限。
 
 新手要把它当保险，不要把对冲仓位变成新的投机主仓。
-
-继续学习：[Put Spread 组合保护](https://xiaoyinsi.com/wiki/options/put-spread-portfolio-hedge)

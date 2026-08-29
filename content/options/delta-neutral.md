@@ -2,8 +2,6 @@
 
 Delta 中性是让组合净 Delta 接近零，降低标的小幅价格变化带来的即时方向风险。
 
-完整词条：[Delta 中性是什么？](https://xiaoyinsi.com/wiki/options/delta-neutral)
-
 Delta 会因 Gamma、时间和波动率变化而改变，因此中性状态只属于某个时点，需要动态再平衡。
 
 即使方向风险较低，组合仍可能暴露于 Vega、Theta、跳空、交易成本和流动性风险。

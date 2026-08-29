@@ -9,5 +9,3 @@
 1. 除息日前，美式 Call 可能提前行权。
 2. 股息预期变化会影响 Put-Call Parity。
 3. 特别股息可能造成合约调整。
-
-继续学习：[隐含股息率](https://xiaoyinsi.com/wiki/options/implied-dividend-yield)

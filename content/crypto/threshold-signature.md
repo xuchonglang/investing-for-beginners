@@ -10,5 +10,3 @@
 - 适合机构级权限管理。
 
 门限签名不是“永不被盗”，仍要看签名门槛、参与方分布、审计和运营安全。
-
-继续学习：[门限签名](https://xiaoyinsi.com/wiki/crypto/threshold-signature)

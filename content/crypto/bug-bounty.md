@@ -12,5 +12,3 @@ Bug Bounty 是项目方奖励白帽提交漏洞的机制。它能提高发现问
 高赏金是加分项，但不是免死金牌。很多攻击来自经济机制、治理权限、预言机和跨链假设，不一定只是代码漏洞。
 
 新手判断 DeFi 协议时，应把 Bug Bounty 当作风险管理的一环，而不是重仓理由。
-
-继续学习：[Bug Bounty](https://xiaoyinsi.com/wiki/crypto/bug-bounty)

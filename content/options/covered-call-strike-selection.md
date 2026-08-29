@@ -16,5 +16,3 @@ Covered Call 是持有 100 股股票，同时卖出 Call 收取权利金。选�
 - 被指派后的税务和再买入成本能否接受？
 
 新手常犯的错是为了多收权利金，把执行价选得太近，结果长期上涨空间被反复卖掉。
-
-继续学习：[Covered Call 执行价选择](https://xiaoyinsi.com/wiki/options/covered-call-strike-selection)

@@ -15,5 +15,3 @@ Call Ladder 通常是买入一个较低执行价 Call，同时卖出两个更高
 很多人被低成本吸引，却忽略标的如果大涨，卖出的额外 Call 会造成巨大亏损。
 
 新手如果要表达看涨，通常更适合先理解普通买 Call、牛市价差，再考虑 Ladder 这类不对称结构。
-
-继续学习：[Call Ladder](https://xiaoyinsi.com/wiki/options/call-ladder)

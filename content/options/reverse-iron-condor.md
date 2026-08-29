@@ -10,5 +10,3 @@ Reverse Iron Condor 是买波动策略，通常在预期标的大幅波动但方
 - 财报和重大事件前常被用来表达波动观点。
 
 新手要注意，买波动不是只要有大事件就能赚钱。如果 IV 已经很高，事件后 IV Crush 可能抵消方向收益。
-
-继续学习：[Reverse Iron Condor](https://xiaoyinsi.com/wiki/options/reverse-iron-condor)

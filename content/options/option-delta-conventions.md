@@ -13,5 +13,3 @@ Delta 表示标的价格小幅变化时，期权理论价格的变化敏感度�
 - 对 Put Delta 的符号显示方式不同。
 
 看到“25 Delta 期权”时，应先统一到期日、Call 或 Put、Delta 口径和报价输入，再比较合约。不要把 Delta 当成到期获利概率的精确预测，它只是模型下的近似风险指标。
-
-[查看小隐寺完整词条：期权 Delta 口径](https://xiaoyinsi.com/wiki/options/option-delta-conventions)

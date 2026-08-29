@@ -11,5 +11,3 @@
 5. 小额测试买入和卖出。
 
 不要从群聊、搜索广告或陌生推文直接复制合约地址。
-
-继续学习：[代币合约核验](https://xiaoyinsi.com/wiki/crypto/token-contract-verification)

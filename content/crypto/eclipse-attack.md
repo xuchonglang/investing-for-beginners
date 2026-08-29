@@ -10,5 +10,3 @@ Eclipse Attack 是攻击者控制或隔离某个节点看到的网络连接，�
 - 影响轻节点和钱包信息判断。
 
 普通用户可以通过连接可信 RPC、使用多个信息源、用区块浏览器交叉验证，减少单点视野风险。
-
-继续学习：[Eclipse Attack](https://xiaoyinsi.com/wiki/crypto/eclipse-attack)

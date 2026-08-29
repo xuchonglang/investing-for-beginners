@@ -11,5 +11,3 @@
 - 股息、借券和税务影响。
 
 新手看到“无风险套利”要特别谨慎。明显套利通常很快消失，剩下的往往是执行风险、规则风险或数据误差。
-
-继续学习：[期权套利](https://xiaoyinsi.com/wiki/options/option-arbitrage)

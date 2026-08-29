@@ -14,5 +14,3 @@ Gamma 对冲不是价格一动就调仓，而是要设置再平衡区间，避�
 区间太窄会频繁交易，区间太宽会暴露方向风险。
 
 新手如果只是做方向交易，通常没必要引入复杂 Gamma 对冲；它更适合明确交易波动率的人。
-
-继续学习：[Gamma 对冲再平衡区间](https://xiaoyinsi.com/wiki/options/gamma-hedging-rebalance-band)

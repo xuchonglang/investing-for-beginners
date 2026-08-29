@@ -13,5 +13,3 @@
 权利金至少要与价差宽度匹配。如果只收到很少权利金，却承担较宽价差的最大亏损，风险回报通常不划算。
 
 财报后 IV Crush 已经兑现时，不要贪最后一点 Theta。盈利后继续持有，可能只赚小钱，却承担尾部风险。
-
-继续学习：[财报 Iron Condor 检查清单](https://xiaoyinsi.com/wiki/options/earnings-iron-condor-checklist)

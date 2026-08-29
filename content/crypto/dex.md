@@ -2,8 +2,6 @@
 
 DEX（Decentralized Exchange）通常通过智能合约完成链上兑换，用户从自己的钱包签名，不必先把资产存入中心化平台账户。
 
-完整词条：[DEX 是什么？](https://xiaoyinsi.com/wiki/crypto/dex)
-
 DEX 的优势包括自托管、链上可验证和资产开放接入；风险则包括：
 
 - 智能合约漏洞；

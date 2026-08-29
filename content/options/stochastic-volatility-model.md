@@ -11,5 +11,3 @@
 - 模型越复杂，参数风险越大。
 
 不要因为模型复杂就认为结果可靠。模型是工具，不是保证。
-
-继续学习：[随机波动率模型](https://xiaoyinsi.com/wiki/options/stochastic-volatility-model)

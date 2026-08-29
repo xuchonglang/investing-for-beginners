@@ -7,5 +7,3 @@
 新手看收益率曲线时，要理解长期利率不只是未来短期利率平均值，还包含流动性和期限风险补偿。
 
 当期限溢价变化时，股票估值、房贷利率和长期债券价格都会受影响。
-
-继续学习：[流动性偏好理论](https://xiaoyinsi.com/wiki/stocks/liquidity-preference-theory)

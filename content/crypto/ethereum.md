@@ -2,8 +2,6 @@
 
 以太坊（Ethereum）是支持智能合约和去中心化应用的区块链网络，ETH 是其原生资产。比特币更偏向去中心化货币与价值转移，以太坊则更强调可编程应用平台。
 
-完整词条：[以太坊是什么？](https://xiaoyinsi.com/wiki/crypto/ethereum)
-
 ## ETH 有什么作用？
 
 - 支付网络 Gas 费用；

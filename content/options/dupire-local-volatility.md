@@ -11,5 +11,3 @@ Dupire Local Volatility 用市场上不同执行价、不同到期日的期权�
 - 现实波动率未必按模型运行。
 
 它适合帮助理解模型风险，不适合拿来直接预测股票涨跌。
-
-继续学习：[Dupire Local Volatility](https://xiaoyinsi.com/wiki/options/dupire-local-volatility)

@@ -12,5 +12,3 @@ Forward Start Option 是未来才开始生效的期权，执行价通常在未�
 4. 波动率假设是否合理。
 
 它的重点不是当前方向，而是未来某段时间的波动和定价。不要用普通现货期权直觉直接套用。
-
-继续学习：[Forward Start Options](https://xiaoyinsi.com/wiki/options/forward-start-options)

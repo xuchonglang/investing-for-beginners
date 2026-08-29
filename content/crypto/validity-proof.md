@@ -10,5 +10,3 @@
 - 帮助 L2 继承主链安全。
 
 新手不用理解所有密码学细节，但要知道：有效性证明关注“证明计算正确”，和 Optimistic Rollup 的“先默认正确、再允许挑战”不同。
-
-继续学习：[有效性证明](https://xiaoyinsi.com/wiki/crypto/validity-proof)

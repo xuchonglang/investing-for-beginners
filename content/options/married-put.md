@@ -19,5 +19,3 @@ Married Put 是买入股票的同时买入 Put，相当于给股票仓位买保�
 5. 如果保护到期后风险仍在，是否继续续保。
 
 不要把 Married Put 当成免费安全垫。保险太贵时，长期收益会被持续权利金侵蚀。
-
-继续学习：[Married Put](https://xiaoyinsi.com/wiki/options/married-put)

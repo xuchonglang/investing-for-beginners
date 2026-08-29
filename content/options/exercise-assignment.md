@@ -2,8 +2,6 @@
 
 行权是期权买方使用合约权利；指派是期权卖方被要求履行对应义务。两者是同一合约的两面。
 
-完整词条：[行权与指派是什么？](https://xiaoyinsi.com/wiki/options/exercise-assignment)
-
 - Call 买方行权：按行权价买入股票；
 - Call 卖方被指派：按行权价卖出股票；
 - Put 买方行权：按行权价卖出股票；

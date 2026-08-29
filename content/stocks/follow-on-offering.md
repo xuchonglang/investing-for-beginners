@@ -19,5 +19,3 @@ Follow-on Offering 是公司 IPO 后再次公开发行股票。
 5. 老股东出售后的持股比例。
 
 不要看到 Secondary Offering 就自动认为总股数增加。关键是新股和老股要分开算。
-
-继续学习：[美股后续发行](https://xiaoyinsi.com/wiki/stocks/follow-on-offering)

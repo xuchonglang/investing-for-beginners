@@ -17,5 +17,3 @@
 有限风险策略可以用最大损失计算，但要预留手续费和滑点。
 
 非有限风险策略不能只看券商保证金，因为保证金不是你的最大亏损。
-
-继续学习：[按压力损失计算期权仓位](https://xiaoyinsi.com/wiki/options/option-position-size-by-stress-loss)

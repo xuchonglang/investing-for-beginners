@@ -11,5 +11,3 @@
 5. 代币价格下跌是否削弱安全预算？
 
 新手看 PoS、预言机、跨链桥和 Rollup 时，都应该问安全来自哪里。技术安全和经济安全缺一不可。
-
-继续学习：[加密经济安全](https://xiaoyinsi.com/wiki/crypto/crypto-economic-security)

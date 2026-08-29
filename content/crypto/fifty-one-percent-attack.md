@@ -7,5 +7,3 @@
 小市值 PoW 链、验证者高度集中的链，攻击成本可能较低。
 
 新手进行大额充值或跨链时，要关注确认数、链安全性和交易所风控要求。
-
-继续学习：[51% 攻击](https://xiaoyinsi.com/wiki/crypto/fifty-one-percent-attack)

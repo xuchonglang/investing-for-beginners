@@ -12,5 +12,3 @@
 新手要记住，风险中性密度不等于真实概率。它包含风险溢价、供需、对冲需求和市场情绪。
 
 不要把它直接翻译成“市场认为某价格概率是多少”。
-
-继续学习：[风险中性密度](https://xiaoyinsi.com/wiki/options/risk-neutral-density)

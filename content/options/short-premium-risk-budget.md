@@ -13,5 +13,3 @@
 卖方最容易犯的错，是小赚很多次后以为风险消失了。
 
 风险预算的目的，是防止一次错误把前面所有收益甚至本金都吐回去。
-
-继续学习：[卖期权权利金风险预算](https://xiaoyinsi.com/wiki/options/short-premium-risk-budget)

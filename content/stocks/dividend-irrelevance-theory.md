@@ -10,5 +10,3 @@
 - 不同投资者有不同现金流需求。
 
 新手不要简单认为“分红越多越好”或“不分红就不好”。关键要看公司留存资金能否获得高回报。如果留存回报很低，分红或回购可能更合理。
-
-继续学习：[股息无关理论](https://xiaoyinsi.com/wiki/stocks/dividend-irrelevance-theory)

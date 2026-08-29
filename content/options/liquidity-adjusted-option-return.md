@@ -13,5 +13,3 @@
 低价期权的价差占比可能很高。看起来赚 20%，实际可能大部分被进出成本吃掉。
 
 复盘时记录理论中间价、实际成交价和可成交规模，才能判断策略是真的有效，还是只在纸面上有效。
-
-继续学习：[流动性调整后的期权收益](https://xiaoyinsi.com/wiki/options/liquidity-adjusted-option-return)

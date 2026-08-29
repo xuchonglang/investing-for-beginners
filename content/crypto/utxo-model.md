@@ -12,5 +12,3 @@ UTXO 模型把余额看成一组未花费输出，而不是账户余额。比特
 - 粉尘和地址关联需要注意。
 
 新手理解 UTXO 后，更容易看懂比特币交易、找零地址和粉尘攻击。
-
-继续学习：[UTXO 模型](https://xiaoyinsi.com/wiki/crypto/utxo-model)

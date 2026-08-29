@@ -16,5 +16,3 @@
 平均 ROIC 高，不代表新增项目回报仍然高。
 
 如果公司增长很快但增量 ROIC 低于资本成本，增长可能是在消耗股东价值。
-
-继续学习：[增量 ROIC](https://xiaoyinsi.com/wiki/stocks/incremental-roic)

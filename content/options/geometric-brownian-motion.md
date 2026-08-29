@@ -12,5 +12,3 @@
 - 流动性和交易成本会影响结果。
 
 新手学习它的意义，不是用公式预测股价，而是理解模型为什么有边界。模型给的是简化世界，交易面对的是复杂现实。
-
-继续学习：[几何布朗运动](https://xiaoyinsi.com/wiki/options/geometric-brownian-motion)

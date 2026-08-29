@@ -11,5 +11,3 @@
 新手存入 DeFi 借贷池前，不要只看 APY。还要看利用率、利率模型拐点、可用流动性和历史挤兑情况。
 
 高利用率的高收益，往往也意味着退出更拥挤。
-
-继续学习：[利用率](https://xiaoyinsi.com/wiki/crypto/utilization-rate)

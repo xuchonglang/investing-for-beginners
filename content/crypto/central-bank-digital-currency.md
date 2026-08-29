@@ -10,5 +10,3 @@ CBDC 是央行发行的数字货币，稳定币通常由公司或协议发行，
 - 稳定币更常用于加密市场交易、结算和跨链流转。
 
 新手不要把 CBDC、银行存款、USDT、USDC 混为一谈。它们的发行主体、赎回机制、冻结权限、使用场景和风险都不同。
-
-继续学习：[央行数字货币](https://xiaoyinsi.com/wiki/crypto/central-bank-digital-currency)

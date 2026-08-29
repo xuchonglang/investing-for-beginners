@@ -13,5 +13,3 @@
 低票息不代表没有成本，因为投资者拿到了未来转股权。
 
 如果公司用可转债补充高质量增长资金，影响可能可控；如果用来填现金窟窿，股东要同时承担债务和稀释风险。
-
-继续学习：[可转债发行事件](https://xiaoyinsi.com/wiki/stocks/convertible-note-offering-event)

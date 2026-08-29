@@ -13,5 +13,3 @@ Unit Investment Trust 是一种固定组合投资工具，通常在设立时确�
 - 税务影响。
 
 不要只因为它包装成“组合投资”就忽略费用和退出条件。
-
-继续学习：[Unit Investment Trust](https://xiaoyinsi.com/wiki/stocks/unit-investment-trust)

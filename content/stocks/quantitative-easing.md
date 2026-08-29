@@ -10,5 +10,3 @@
 - 可能抬高股票、债券、房地产和加密资产价格。
 
 新手要理解，QE 不是直接让所有资产上涨，但它会改变流动性环境和估值基础。退出 QE 或转向 QT 时，高估值、长久期资产通常更敏感。
-
-继续学习：[量化宽松](https://xiaoyinsi.com/wiki/stocks/quantitative-easing)

@@ -11,5 +11,3 @@
 5. 退市和监管风险要额外关注。
 
 新手买 ADR 或其他存托凭证时，不要只看股票代码像美股。底层公司的经营、监管和货币风险仍然来自其主要市场。
-
-继续学习：[存托凭证](https://xiaoyinsi.com/wiki/stocks/depositary-receipt)

@@ -15,5 +15,3 @@
 不要用 Last Price 当成当前可成交价格。Last 可能是很久以前的成交。
 
 下单后第一件事是核对实际持仓，而不是只看订单是否显示成交。
-
-继续学习：[期权链核对清单](https://xiaoyinsi.com/wiki/options/option-chain-sanity-check)

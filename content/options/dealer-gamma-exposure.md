@@ -12,5 +12,3 @@ Dealer Gamma Exposure（GEX）试图估算做市商期权仓位的 Gamma 暴露�
 - 事件与流动性变化可压过模型效果。
 
 GEX 适合辅助观察关键行权价和到期集中度，不应成为单独的方向交易信号。
-
-[查看小隐寺完整词条：Dealer Gamma Exposure](https://xiaoyinsi.com/wiki/options/dealer-gamma-exposure)

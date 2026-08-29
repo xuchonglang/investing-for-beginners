@@ -11,5 +11,3 @@ Double Diagonal 是两个不同执行价、不同到期日的对角价差组合�
 5. IV 下降是否会伤害远月长腿。
 
 它适合有区间观点和期限结构观点的交易者，不适合只想“收权利金”的新手。
-
-继续学习：[Double Diagonal](https://xiaoyinsi.com/wiki/options/double-diagonal)

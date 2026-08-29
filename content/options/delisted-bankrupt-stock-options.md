@@ -15,5 +15,3 @@
 Long Put 不一定自动变现金，Short Put 也不会因为股票难交易就免除义务。
 
 退市和破产场景下，最重要的是先确认合约还代表什么，再决定平仓、行权或等待处理。
-
-继续学习：[退市或破产股票期权处理](https://xiaoyinsi.com/wiki/options/delisted-bankrupt-stock-options)

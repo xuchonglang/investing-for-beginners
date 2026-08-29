@@ -10,5 +10,3 @@
 - 亏损公司无法直接使用；
 - 一次性利润会扭曲结果；
 - 增长和资本需求也要考虑。
-
-继续学习：[盈利收益率](https://xiaoyinsi.com/wiki/stocks/earnings-yield)

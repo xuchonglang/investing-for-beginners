@@ -11,5 +11,3 @@ Gamma 衡量 Delta 随标的价格变化的速度，Theta 衡量时间流逝对�
 临近到期的平值期权往往同时具有高 Gamma 和高 Theta，方向稍错或标的不动都可能迅速亏损。卖方的正 Theta 也不是利息收入，因为一次跳空可能超过多日累计收益。
 
 比较策略时要统一仓位金额与到期日，不能只看软件显示的单合约希腊值。
-
-[查看小隐寺完整词条：Gamma 与 Theta 权衡](https://xiaoyinsi.com/wiki/options/gamma-theta-tradeoff)

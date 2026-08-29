@@ -13,5 +13,3 @@
 - 流动性可能突然消失。
 
 新手不用深究数学，但要知道理论复制不等于实盘无风险。
-
-继续学习：[自融资对冲](https://xiaoyinsi.com/wiki/options/self-financing-hedge)

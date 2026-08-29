@@ -14,5 +14,3 @@
 - 最长持有时间以及止损条件。
 
 反向 ETF 更接近短期交易或对冲工具，不适合作为“市场迟早会跌”的长期押注。
-
-[查看小隐寺完整词条：反向 ETF](https://xiaoyinsi.com/wiki/stocks/inverse-etf)

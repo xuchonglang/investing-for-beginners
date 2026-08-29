@@ -13,5 +13,3 @@
 普通季度股息通常不会调整执行价，但特别股息可能触发调整。
 
 Covered Call 不一定能同时稳拿股息和权利金。若股息大于 Call 剩余时间价值，提前行权风险会明显上升。
-
-继续学习：[特别股息期权调整](https://xiaoyinsi.com/wiki/options/special-dividend-option-adjustment)

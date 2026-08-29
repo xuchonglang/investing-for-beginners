@@ -12,5 +12,3 @@ Lookback Option 的收益取决于观察期内最高价或最低价，而不只�
 4. 流动性和提前退出如何。
 
 它常出现在结构化产品中。不要只看“自动抓最高点/最低点”的宣传，还要看成本和条款限制。
-
-继续学习：[Lookback Options](https://xiaoyinsi.com/wiki/options/lookback-options)

@@ -11,5 +11,3 @@
 - 模型加入跳跃后，尾部风险会更贵。
 
 不要因为历史波动低，就忽略事件跳空。期权市场常常提前把跳跃风险计入 IV。
-
-继续学习：[Jump Diffusion 模型](https://xiaoyinsi.com/wiki/options/jump-diffusion-option-model)

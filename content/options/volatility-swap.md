@@ -12,5 +12,3 @@ Volatility Swap 直接交易未来实现波动率，而不是方差。它和方�
 - 对冲不容易。
 
 新手更应从普通期权理解买波动和卖波动，再理解这类专业产品。
-
-继续学习：[Volatility Swap](https://xiaoyinsi.com/wiki/options/volatility-swap)

@@ -12,5 +12,3 @@
 4. 控制单一风格暴露。
 
 动量适合做辅助信号，不适合替代风险管理。
-
-继续学习：[动量因子](https://xiaoyinsi.com/wiki/stocks/momentum-factor)

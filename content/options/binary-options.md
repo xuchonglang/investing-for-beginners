@@ -13,5 +13,3 @@ Binary Option 的结果通常是“满足条件就固定赔付，不满足就归
 新手要远离用“几分钟翻倍”“高胜率信号”宣传的 Binary Option。即使产品合法，交易者也很难长期战胜赔率、费用和平台优势。
 
 如果你无法验证交易场所、结算规则和最大损失，就不要参与。
-
-继续学习：[Binary Options](https://xiaoyinsi.com/wiki/options/binary-options)

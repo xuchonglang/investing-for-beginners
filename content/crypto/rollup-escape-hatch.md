@@ -11,5 +11,3 @@ Rollup 逃生舱机制是指在排序器、前端或运营方异常时，用户�
 5. 退出时是否需要第三方服务。
 
 新手使用 L2 时，不要只看便宜和快。高价值资金更要关心极端情况下自己能不能退出。
-
-继续学习：[Rollup 逃生舱](https://xiaoyinsi.com/wiki/crypto/rollup-escape-hatch)

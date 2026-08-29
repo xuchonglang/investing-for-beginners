@@ -14,5 +14,3 @@
 升级完成后，先核对地址，再做小额收发测试。
 
 任何要求你把 12/24 个词输入电脑网页或客服窗口的“升级”，都应直接视为钓鱼。
-
-继续学习：[硬件钱包固件验证](https://xiaoyinsi.com/wiki/crypto/hardware-wallet-firmware-verification)

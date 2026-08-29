@@ -13,5 +13,3 @@
 买入 Call 不一定要等到到期，更不需要等到最大收益。
 
 期权时间价值会持续衰减，判断错方向、错时间、错波动率，都可能亏钱。
-
-继续学习：[买入 Call 退出计划](https://xiaoyinsi.com/wiki/options/long-call-exit-plan)

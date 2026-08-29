@@ -11,5 +11,3 @@
 5. 并购后 ROIC 是否改善。
 
 新手不要被“战略协同”四个字打动。真正要看并购后的现金流、利润率、负债和管理层执行。
-
-继续学习：[并购](https://xiaoyinsi.com/wiki/stocks/merger-acquisition)

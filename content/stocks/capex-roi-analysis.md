@@ -11,5 +11,3 @@ CapEx 是资本开支，公司花钱建厂、买设备、扩数据中心，都�
 5. 注意 CapEx 回报通常有滞后，不要只看一个季度。
 
 高 CapEx 不是天然坏事。问题在于公司是在扩大护城河，还是在烧钱维持竞争位置。
-
-继续学习：[CapEx 投资回报分析](https://xiaoyinsi.com/wiki/stocks/capex-roi-analysis)

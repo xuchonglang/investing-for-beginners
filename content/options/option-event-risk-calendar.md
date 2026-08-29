@@ -13,5 +13,3 @@
 事件前 IV 往往上升，事件后 IV 可能快速回落。
 
 新手不要只问“会涨还是会跌”，还要问“期权价格已经为这件事收了多少钱”。
-
-继续学习：[期权事件风险日历](https://xiaoyinsi.com/wiki/options/option-event-risk-calendar)

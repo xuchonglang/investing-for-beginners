@@ -12,5 +12,3 @@ Owner Earnings 可以理解为企业在维持竞争力和经营规模后，真�
 新手可以用它检查“利润是否真的能变成现金”。如果公司净利润很好看，但维持业务需要大量资本开支，Owner Earnings 可能并不高。
 
 它特别适合分析成熟公司，但对高速扩张公司要结合增长投资一起判断。
-
-继续学习：[Owner Earnings](https://xiaoyinsi.com/wiki/stocks/owner-earnings)

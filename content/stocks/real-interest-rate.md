@@ -11,5 +11,3 @@
 3. 长久期资产对实际利率更敏感。
 
 分析宏观时，不要只看美联储利率，还要看通胀预期和真实购买力回报。
-
-继续学习：[实际利率](https://xiaoyinsi.com/wiki/stocks/real-interest-rate)

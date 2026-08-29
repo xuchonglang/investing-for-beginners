@@ -13,5 +13,3 @@ Condor Spread 是由四条腿构成的区间策略，通常用来表达“标的
 5. 写好突破区间后的止损或调整规则。
 
 新手最大风险是觉得“区间很宽，所以安全”。如果遇到财报、FOMC 或大幅跳空，标的可能直接越过短腿，亏损会很快接近最大值。
-
-继续学习：[Condor Spread](https://xiaoyinsi.com/wiki/options/condor-spread)

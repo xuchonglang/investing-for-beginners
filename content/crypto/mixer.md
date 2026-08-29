@@ -11,5 +11,3 @@ Mixer 通过混合资金来源提高隐私，但也常被监管机构关注，�
 - 操作错误可能暴露身份。
 
 新手不要因为“隐私”二字就随便使用 Mixer。链上隐私、合规和资金可用性之间有现实冲突。
-
-继续学习：[Mixer](https://xiaoyinsi.com/wiki/crypto/mixer)
