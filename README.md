@@ -112,10 +112,10 @@
 
 | 平台 | 类型 | 适合场景 | 入口 |
 | --- | --- | --- | --- |
-| TradingView | 行情与图表工具 | 查看美股、加密货币、技术指标和价格提醒 | [打开 TradingView](https://link.xuchonglang.com/tv) |
-| 致富证券 | 美股券商 | 美股、ETF 与相关证券交易 | [了解致富证券](https://link.xuchonglang.com/zf) |
-| Bitget | 加密货币平台 | 现货与合约交易 | [打开 Bitget](https://link.xuchonglang.com/bg) |
-| Polymarket | 预测市场 | 观察事件概率与市场预期 | [打开 Polymarket](https://link.xuchonglang.com/pm) |
+| TradingView | 行情与图表工具 | 查看美股、加密货币、技术指标和价格提醒 | [注册 TradingView](https://link.xuchonglang.com/tv) |
+| 致富证券 | 美股券商 | 美股、ETF 与相关证券交易 | [注册 致富证券](https://link.xuchonglang.com/zf) |
+| Bitget | 美股与加密货币交易平台 | 现货与合约交易 | [注册 Bitget](https://link.xuchonglang.com/bg) |
+| Polymarket | 预测市场 | 观察事件概率与市场预期 | [注册 Polymarket](https://link.xuchonglang.com/pm) |
 
 
 
