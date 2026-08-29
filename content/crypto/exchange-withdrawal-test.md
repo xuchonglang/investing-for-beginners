@@ -14,7 +14,7 @@
 
 提到另一家交易所时，要特别看充值网络、最小充值金额和 Memo / Tag。提到自托管钱包时，要核对链、地址和代币合约。
 
-无论使用 [OKX](https://link.xuchonglang.com/okx)、[Binance](https://link.xuchonglang.com/bn)、[Bitget](https://link.xuchonglang.com/bg) 还是 [Bybit](https://link.xuchonglang.com/bb)，都应以当前充值页面显示的网络、地址和 Memo / Tag 为准；不要沿用过去保存的截图或地址。
+使用 [Bitget](https://link.xuchonglang.com/bg) 等交易所时，应以当前充值页面显示的网络、地址和 Memo / Tag 为准；不要沿用过去保存的截图或地址。
 
 大额前先提最小可用金额，等完整闭环确认后，再分批提。省一次测试费，可能付出全部本金作为代价。
 

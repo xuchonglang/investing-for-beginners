@@ -29,7 +29,7 @@
 | 市价单 | 尽快成交 | 成交价格偏离预期 |
 | 限价单 | 控制价格 | 可能无法成交 |
 
-练习时可以先在 [TradingView](https://link.xuchonglang.com/tv) 对照最新价、买卖价差和成交量，再在 [致富证券](https://link.xuchonglang.com/zf) 或 [moomoo](https://link.xuchonglang.com/mm) 的订单预览页检查方向、数量、限价和有效期。不要只根据图表上的最后成交价填写订单。
+练习时可以先在 [TradingView](https://link.xuchonglang.com/tv) 对照最新价、买卖价差和成交量，再在 [致富证券](https://link.xuchonglang.com/zf) 的订单预览页检查方向、数量、限价和有效期。不要只根据图表上的最后成交价填写订单。
 
 长期投资者也需要关注订单类型。大额仓位、较宽价差和较薄的订单簿，都可能让一次不理想的成交增加实际成本。
 

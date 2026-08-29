@@ -45,14 +45,10 @@ Use market-data tools to learn first, then choose a trading platform based on re
 | --- | --- | --- | --- |
 | TradingView | Charts and market data | Charts, indicators, watchlists, and price alerts | [Open TradingView](https://link.xuchonglang.com/tv) |
 | 致富证券 | U.S. stocks | U.S. stocks, ETFs, and related securities | [Learn more](https://link.xuchonglang.com/zf) |
-| moomoo | U.S. stocks | Market data, company research, and securities trading | [Open moomoo](https://link.xuchonglang.com/mm) |
-| OKX | Crypto | Spot, derivatives, deposits, and withdrawals | [Open OKX](https://link.xuchonglang.com/okx) |
-| Binance | Crypto | Spot, derivatives, and crypto services | [Open Binance](https://link.xuchonglang.com/bn) |
 | Bitget | Crypto | Spot and derivatives trading | [Open Bitget](https://link.xuchonglang.com/bg) |
-| Bybit | Crypto | Spot and derivatives trading | [Open Bybit](https://link.xuchonglang.com/bb) |
 | Polymarket | Prediction market | Event probabilities and market expectations | [Open Polymarket](https://link.xuchonglang.com/pm) |
 
-
+> Some platform links are referral or commission links. Compare fees, eligibility, and risk before choosing a platform.
 
 ## Repository structure
 

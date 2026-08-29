@@ -16,7 +16,7 @@
 
 美国会切换夏令时，北京时间不会。交易提醒应使用带时区的日历自动换算，避免只记月份。交易所假日、半日市、临时停牌也可能改变正常安排。
 
-实操时可以用 [TradingView](https://link.xuchonglang.com/tv) 设置带时区的观察列表和价格提醒；准备下单前，再到 [致富证券](https://link.xuchonglang.com/zf) 或 [moomoo](https://link.xuchonglang.com/mm) 核对账户实际开放的盘前、盘后和夜盘时段。
+实操时可以用 [TradingView](https://link.xuchonglang.com/tv) 设置带时区的观察列表和价格提醒；准备下单前，再到 [致富证券](https://link.xuchonglang.com/zf) 核对账户实际开放的盘前、盘后和夜盘时段。
 
 盘前盘后参与者较少，买卖价差通常更大。屏幕显示的报价不代表大额订单都能按该价格成交。
 

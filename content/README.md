@@ -5,8 +5,8 @@
 ## 实用入口
 
 - 行情与图表：[TradingView](https://link.xuchonglang.com/tv)
-- 美股券商：[致富证券](https://link.xuchonglang.com/zf) · [moomoo](https://link.xuchonglang.com/mm)
-- 加密货币平台：[OKX](https://link.xuchonglang.com/okx) · [Binance](https://link.xuchonglang.com/bn) · [Bitget](https://link.xuchonglang.com/bg) · [Bybit](https://link.xuchonglang.com/bb)
+- 美股券商：[致富证券](https://link.xuchonglang.com/zf)
+- 加密货币平台：[Bitget](https://link.xuchonglang.com/bg)
 - 预测市场：[Polymarket](https://link.xuchonglang.com/pm)
 
 > 以上包含推广或返佣链接。平台入口仅供读者自行比较，不构成开户、入金或交易建议；请先核对所在地区的可用性、费用与风险。

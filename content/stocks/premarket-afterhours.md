@@ -21,7 +21,7 @@
 
 延长时段里使用市价单可能遇到较大滑点，很多平台因此只接受限价单。下单前应确认券商支持的交易时间、订单规则和当前买卖价差。
 
-可以先在 [TradingView](https://link.xuchonglang.com/tv) 观察盘前盘后的成交量与价差，再到支持相应时段的 [致富证券](https://link.xuchonglang.com/zf) 或 [moomoo](https://link.xuchonglang.com/mm) 核对可用订单类型。行情显示与账户实际可成交范围可能不同。
+可以先在 [TradingView](https://link.xuchonglang.com/tv) 观察盘前盘后的成交量与价差，再到 [致富证券](https://link.xuchonglang.com/zf) 核对可用订单类型。行情显示与账户实际可成交范围可能不同。
 
 相关阅读：[市价单和限价单应该怎么选？](market-order-limit-order.md)
 

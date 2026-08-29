@@ -23,7 +23,7 @@
 - 市场快速波动时是否可能出现滑点或自动减仓；
 - 交易所的托管、系统和提现风险。
 
-可以在 [TradingView](https://link.xuchonglang.com/tv) 对照现货与合约价格，再分别查看 [OKX](https://link.xuchonglang.com/okx)、[Binance](https://link.xuchonglang.com/bn)、[Bitget](https://link.xuchonglang.com/bg) 和 [Bybit](https://link.xuchonglang.com/bb) 的资金费率、保证金档位与强平说明。不同平台显示相似，不代表计算口径完全相同。
+可以在 [TradingView](https://link.xuchonglang.com/tv) 对照现货与合约价格，再查看 [Bitget](https://link.xuchonglang.com/bg) 的资金费率、保证金档位与强平说明。其他平台即使显示相似，计算口径也未必完全相同。
 
 永续合约没有到期日，但高杠杆仓位可能在很短时间内被清算。
 

@@ -114,14 +114,10 @@
 | --- | --- | --- | --- |
 | TradingView | 行情与图表工具 | 查看美股、加密货币、技术指标和价格提醒 | [打开 TradingView](https://link.xuchonglang.com/tv) |
 | 致富证券 | 美股券商 | 美股、ETF 与相关证券交易 | [了解致富证券](https://link.xuchonglang.com/zf) |
-| moomoo | 美股券商 | 美股行情、公司资料与证券交易 | [打开 moomoo](https://link.xuchonglang.com/mm) |
-| OKX | 加密货币平台 | 现货、合约与链上资产出入金 | [打开 OKX](https://link.xuchonglang.com/okx) |
-| Binance | 加密货币平台 | 现货、合约与加密资产服务 | [打开 Binance](https://link.xuchonglang.com/bn) |
 | Bitget | 加密货币平台 | 现货与合约交易 | [打开 Bitget](https://link.xuchonglang.com/bg) |
-| Bybit | 加密货币平台 | 现货与衍生品交易 | [打开 Bybit](https://link.xuchonglang.com/bb) |
 | Polymarket | 预测市场 | 观察事件概率与市场预期 | [打开 Polymarket](https://link.xuchonglang.com/pm) |
 
-
+> 部分平台链接为邀请或返佣链接，选择前请自行比较费用、资质与风险。
 
 ## 仓库结构
 

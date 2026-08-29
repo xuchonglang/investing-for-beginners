@@ -6,6 +6,6 @@
 
 新手不能把“投入保证金较少”理解成损失较小，合约名义仓位才决定价格波动造成的盈亏。
 
-准备比较现货和合约界面时，可以查看 [OKX](https://link.xuchonglang.com/okx)、[Binance](https://link.xuchonglang.com/bn)、[Bitget](https://link.xuchonglang.com/bg) 或 [Bybit](https://link.xuchonglang.com/bb)。重点比较真实手续费、资金费率、标记价格、保证金模式和强平规则，而不是最大杠杆倍数。
+准备比较现货和合约界面时，可以用 [Bitget](https://link.xuchonglang.com/bg) 作为实例。重点查看真实手续费、资金费率、标记价格、保证金模式和强平规则，而不是最大杠杆倍数。
 
 > 上述入口包含推广或返佣链接。新手应优先理解现货与合约风险，不要为了领取奖励或返佣使用杠杆。

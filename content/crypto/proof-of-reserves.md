@@ -12,6 +12,6 @@ PoR 通常不能单独证明：
 
 评估平台还要结合负债审计、资产质量、公司治理、提款记录和监管信息。快照只是某个时点，不代表持续偿付能力。
 
-横向查看 [OKX](https://link.xuchonglang.com/okx)、[Binance](https://link.xuchonglang.com/bn)、[Bitget](https://link.xuchonglang.com/bg) 与 [Bybit](https://link.xuchonglang.com/bb) 时，应把储备页面当成核对材料之一，同时检查负债口径、审计范围和历史提现情况。
+查看 [Bitget](https://link.xuchonglang.com/bg) 等平台时，应把储备页面当成核对材料之一，同时检查负债口径、审计范围和历史提现情况。
 
 > 上述入口包含推广或返佣链接，不构成对任何平台储备、偿付能力或安全性的背书。
