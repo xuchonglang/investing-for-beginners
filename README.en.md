@@ -52,7 +52,7 @@ Use market-data tools to learn first, then choose a trading platform based on re
 | Bybit | Crypto | Spot and derivatives trading | [Open Bybit](https://link.xuchonglang.com/bb) |
 | Polymarket | Prediction market | Event probabilities and market expectations | [Open Polymarket](https://link.xuchonglang.com/pm) |
 
-> Affiliate disclosure: some links above are referral or commission links, and the author may benefit from qualifying registrations or activity. Do not choose a platform because of the referral alone. Verify local availability, regulation, fees, product access, and risk independently.
+
 
 ## Repository structure
 
