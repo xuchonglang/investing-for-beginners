@@ -4,7 +4,6 @@
 
 ## 实用入口
 
-- 行情与图表：[TradingView](https://link.xuchonglang.com/tv)
 - 美股券商：[致富证券](https://link.xuchonglang.com/zf)
 - 加密货币平台：[Bitget](https://link.xuchonglang.com/bg)
 - 预测市场：[Polymarket](https://link.xuchonglang.com/pm)

@@ -43,7 +43,6 @@ Use market-data tools to learn first, then choose a trading platform based on re
 
 | Platform | Category | Typical use | Link |
 | --- | --- | --- | --- |
-| TradingView | Charts and market data | Charts, indicators, watchlists, and price alerts | [Open TradingView](https://link.xuchonglang.com/tv) |
 | 致富证券 | U.S. stocks | U.S. stocks, ETFs, and related securities | [Learn more](https://link.xuchonglang.com/zf) |
 | Bitget | Crypto | Spot and derivatives trading | [Open Bitget](https://link.xuchonglang.com/bg) |
 | Polymarket | Prediction market | Event probabilities and market expectations | [Open Polymarket](https://link.xuchonglang.com/pm) |
