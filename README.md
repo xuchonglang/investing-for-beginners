@@ -113,8 +113,9 @@
 | 平台 | 类型 | 适合场景 | 入口 |
 | --- | --- | --- | --- |
 | 致富证券 | 美股券商 | 美股、ETF 与相关证券交易 | [注册 致富证券](https://link.xuchonglang.com/zf) |
-| Bitget | 美股与加密货币交易平台 | 现货与合约交易 | [注册 Bitget](https://link.xuchonglang.com/bg) |
-| Polymarket | 预测市场 | 观察事件概率与市场预期 | [注册 Polymarket](https://link.xuchonglang.com/pm) |
+| Bitget | 美股与加密货币交易平台 | 美股现货与加密合约交易 | [注册 Bitget](https://link.xuchonglang.com/bg) |
+| Binance | 美股与加密货币交易平台 | 美股现货与BTC等加密资产一站式交易 | [注册 Binance](https://link.xuchonglang.com/bn) |
+| Polymarket | 预测市场 | 使用加密货币，进行预测事件交易 | [注册 Polymarket](https://link.xuchonglang.com/pm) |
 
 
 

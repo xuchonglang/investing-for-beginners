@@ -6,6 +6,7 @@
 
 - 美股券商：[致富证券](https://link.xuchonglang.com/zf)
 - 加密货币平台：[Bitget](https://link.xuchonglang.com/bg)
+- 美股代币化证券与 BTC 交易：[Binance](https://link.xuchonglang.com/bn)
 - 预测市场：[Polymarket](https://link.xuchonglang.com/pm)
 
 > 以上包含推广或返佣链接。平台入口仅供读者自行比较，不构成开户、入金或交易建议；请先核对所在地区的可用性、费用与风险。

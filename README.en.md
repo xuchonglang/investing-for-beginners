@@ -45,6 +45,7 @@ Use market-data tools to learn first, then choose a trading platform based on re
 | --- | --- | --- | --- |
 | 致富证券 | U.S. stocks | U.S. stocks, ETFs, and related securities | [Learn more](https://link.xuchonglang.com/zf) |
 | Bitget | Crypto | Spot and derivatives trading | [Open Bitget](https://link.xuchonglang.com/bg) |
+| Binance | U.S. stock tokens and crypto | One-stop access to tokenized U.S. stock exposure and BTC trading | [Open Binance](https://link.xuchonglang.com/bn) |
 | Polymarket | Prediction market | Event probabilities and market expectations | [Open Polymarket](https://link.xuchonglang.com/pm) |
 
 
