@@ -47,13 +47,3 @@ Copyright © 2026 本仓库版权持有人。保留所有权利。
 ## 7. 授权申请
 
 如需转载、数据授权、商业合作、教学使用或其他超出本许可范围的使用，请联系本仓库版权持有人并取得书面授权。
-
----
-
-## English Notice
-
-Unless expressly stated otherwise in a specific file, all content in this repository is proprietary to the repository copyright holder and is not offered under an open-source or Creative Commons license.
-
-You may view the content, share links to the original repository or official website, and make limited quotations where permitted by applicable law with clear attribution. No permission is granted for republication, redistribution, mirroring, bulk scraping, adaptation, translation, commercial use, AI training, model fine-tuning, RAG, vector databases, or competing knowledge bases.
-
-For licensing requests, contact the repository copyright holder.

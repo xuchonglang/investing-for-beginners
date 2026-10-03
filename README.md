@@ -1,7 +1,5 @@
 # 投资入门指南
 
-[English](README.en.md) | 中文
-
 [![License](https://img.shields.io/badge/内容许可-Proprietary-b91c1c)](LICENSE.md)
 ![Version](https://img.shields.io/badge/版本-V0.2-0ea5e9)
 
@@ -125,10 +123,8 @@
 .
 ├── assets/              图片、图表等静态资源
 ├── content/             投资知识词条，按美股、期权、加密货币分类整理
-├── en/                  英文版镜像内容
 ├── guides/              入门指南与长文教程
 ├── glossary/            金融术语索引，用于快速查概念与跳转学习
-├── i18n/                中英文内容维护说明
 └── LICENSE.md           专有内容许可
 ```
 
