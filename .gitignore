@@ -3,3 +3,6 @@
 .vscode/
 *.log
 *.tmp
+node_modules/
+.vitepress/cache/
+.vitepress/dist/
