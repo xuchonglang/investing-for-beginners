@@ -4,32 +4,55 @@ import { defineConfig, type DefaultTheme } from 'vitepress'
 
 const root = fileURLToPath(new URL('..', import.meta.url))
 
+interface Section {
+  text: string
+  /** 分区目录，例如 /content/stocks/ */
+  dir: string
+  /** "## 标题" 在 content/README.md 中的锚点 */
+  anchor: string
+  count: number
+  groups: DefaultTheme.SidebarItem[]
+}
+
 /**
  * 从 content/README.md 自动生成侧边栏：
- * 每个 "## 标题" 是一个分组，其下的 "- [文字](路径.md)" 是分组内的条目。
+ * "## 标题" 是一个分区（美股 / 期权 / 加密货币），"### 标题" 是分区下的细分分类，
+ * 其下的 "- [文字](路径.md)" 是分类内的条目。
  * 新增词条时只需维护 content/README.md，侧边栏会自动同步。
  */
-function contentSidebar(): DefaultTheme.SidebarItem[] {
+function contentSections(): Section[] {
   const md = readFileSync(`${root}content/README.md`, 'utf-8')
-  const groups: DefaultTheme.SidebarItem[] = []
-  let current: DefaultTheme.SidebarItem | null = null
+  const sections: Section[] = []
+  let section: Section | null = null
+  let group: DefaultTheme.SidebarItem | null = null
 
   for (const line of md.split(/\r?\n/)) {
-    const heading = line.match(/^##\s+(.+)/)
-    if (heading) {
-      current = { text: heading[1].trim(), collapsed: true, items: [] }
-      groups.push(current)
+    const h2 = line.match(/^##\s+(.+)/)
+    if (h2) {
+      const text = h2[1].trim()
+      section = { text, dir: '', anchor: text, count: 0, groups: [] }
+      sections.push(section)
+      group = null
+      continue
+    }
+    const h3 = line.match(/^###\s+(.+)/)
+    if (h3 && section) {
+      group = { text: h3[1].trim(), collapsed: true, items: [] }
+      section.groups.push(group)
       continue
     }
     const item = line.match(/^\s*-\s+\[(.+?)\]\((?!https?:)(.+?)\.md\)/)
-    if (item && current) {
-      current.items!.push({ text: item[1], link: `/content/${item[2]}` })
+    if (item && section && group) {
+      group.items!.push({ text: item[1], link: `/content/${item[2]}` })
+      section.count++
+      // 分区目录取条目路径的第一级，例如 stocks/basics/x → /content/stocks/
+      section.dir ||= `/content/${item[2].split('/')[0]}/`
     }
   }
-  return groups.filter((g) => g.items!.length > 0)
+  return sections.filter((s) => s.count > 0)
 }
 
-const groups = contentSidebar()
+const sections = contentSections()
 
 const startGroup: DefaultTheme.SidebarItem = {
   text: '开始阅读',
@@ -44,20 +67,23 @@ const startGroup: DefaultTheme.SidebarItem = {
 // 分区目录：只列出各分区入口，避免每个页面都内嵌 900+ 条链接
 const sectionIndex: DefaultTheme.SidebarItem = {
   text: '知识分区',
-  items: groups.map((g) => ({
-    text: `${g.text}（${g.items!.length} 篇）`,
-    link: g.items![0].link
+  items: sections.map((s) => ({
+    text: `${s.text}（${s.count} 篇）`,
+    link: `/content/#${s.anchor}`
   }))
 }
 
 /**
- * 按路径切换侧边栏：浏览美股词条时只显示美股分组，以此类推。
- * 分组所在目录由该分组第一条链接推断，例如 /content/stocks/。
+ * 按路径切换侧边栏：浏览美股词条时只显示美股的细分分类，以此类推。
+ * 细分分类默认折叠，当前页面所在的分类会被 VitePress 自动展开。
  */
 const sidebar: DefaultTheme.SidebarMulti = {}
-for (const g of groups) {
-  const dir = g.items![0].link!.replace(/[^/]+$/, '')
-  sidebar[dir] = [startGroup, sectionIndex, { ...g, collapsed: false }]
+for (const s of sections) {
+  sidebar[s.dir] = [
+    startGroup,
+    sectionIndex,
+    ...s.groups.map((g) => ({ ...g, text: `${g.text}（${g.items!.length}）` }))
+  ]
 }
 sidebar['/'] = [startGroup, sectionIndex]
 

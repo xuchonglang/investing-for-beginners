@@ -15,6 +15,6 @@ Theta 衡量在其他条件近似不变时，期权因时间流逝每天可能�
 
 Theta 也不能独立观察。财报等事件落地后，仓位可能同时受到时间衰减和 IV 回落影响；高 Gamma 的短期合约往往也伴随更明显的 Theta 成本。
 
-相关阅读：[隐含波动率 IV 是什么？](implied-volatility.md)
+相关阅读：[隐含波动率 IV 是什么？](../volatility/implied-volatility.md)
 
 > 本文仅用于期权知识教育，不构成交易建议。

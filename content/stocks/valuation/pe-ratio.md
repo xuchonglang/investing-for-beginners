@@ -10,4 +10,4 @@ Trailing PE 使用过去盈利，Forward PE 使用分析师预测。两者口径
 
 PE 更适合与商业模式相近、会计口径一致的公司比较。亏损公司没有有意义的正 PE，周期股在利润高点反而可能显示很低的 PE。
 
-相关阅读：[EPS 每股收益是什么？](eps.md)
+相关阅读：[EPS 每股收益是什么？](../financial-metrics/eps.md)
