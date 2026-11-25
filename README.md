@@ -70,13 +70,13 @@
 
 加密货币市场则把美元计价的价值进一步带到链上。
 
-[USDT、USDC](content/crypto/usdt-usdc-dai.md) 等美元稳定币可以在许多公开区块链和交易平台上全天候流转，让用户在传统银行营业时间之外进行转账、交易和链上结算。
+[USDT、USDC](content/crypto/stablecoins-rwa/usdt-usdc-dai.md) 等美元稳定币可以在许多公开区块链和交易平台上全天候流转，让用户在传统银行营业时间之外进行转账、交易和链上结算。
 
 从使用体验看，它们提供了一种更开放、流转效率更高的美元数字载体，也是连接传统金融与加密市场的重要入口。
 
-但 USDT 和 USDC 不是“最自由的法币”，也不是美元现金本身；它们是由发行方管理、以美元为锚的[稳定币](content/crypto/stablecoin.md)。
+但 USDT 和 USDC 不是“最自由的法币”，也不是美元现金本身；它们是由发行方管理、以美元为锚的[稳定币](content/crypto/stablecoins-rwa/stablecoin.md)。
 
-持有人仍需承担储备、赎回、监管、地址冻结、智能合约和[脱锚](content/crypto/stablecoin-depeg.md)风险。
+持有人仍需承担储备、赎回、监管、地址冻结、智能合约和[脱锚](content/crypto/stablecoins-rwa/stablecoin-depeg.md)风险。
 
 理解这些边界，比只看到转账便利和高收益更加重要。
 

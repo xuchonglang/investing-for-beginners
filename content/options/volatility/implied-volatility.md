@@ -25,6 +25,6 @@
 - 买卖价差和流动性；
 - 仓位对 Vega、Theta 和价格方向的敏感度。
 
-相关阅读：[期权是什么？Call 与 Put 入门](calls-and-puts.md)
+相关阅读：[期权是什么？Call 与 Put 入门](../basics/calls-and-puts.md)
 
 > 本文仅用于投资教育，不构成期权交易建议。

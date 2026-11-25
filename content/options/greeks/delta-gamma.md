@@ -16,6 +16,6 @@ Gamma 衡量标的每变化 1 美元，Delta 大约改变多少。如果 Delta �
 
 Delta 和 Gamma 都是局部估算，标的跳空、IV 变化和流动性不足会让实际结果偏离。
 
-相关阅读：[0DTE 期权是什么？](0dte-options.md)
+相关阅读：[0DTE 期权是什么？](../basics/0dte-options.md)
 
 > 本文仅用于期权知识教育。

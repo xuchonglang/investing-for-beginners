@@ -15,6 +15,6 @@ Vega 衡量隐含波动率（IV）每变化一个百分点时，期权价格大�
 
 Vega 只是局部估算，IV、标的价格和剩余时间变化后，Vega 本身也会改变。
 
-相关阅读：[隐含波动率 IV 是什么？](implied-volatility.md)
+相关阅读：[隐含波动率 IV 是什么？](../volatility/implied-volatility.md)
 
 > 本文仅用于期权知识教育。
